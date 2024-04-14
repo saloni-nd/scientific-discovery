@@ -2,18 +2,12 @@
 library(tidyverse)
 library(scales)
 
-# Data source:
-# CDC Wonder https://wonder.cdc.gov/
-# Underlying cause of death -> group by: single-year age group, ICD chapter
-# Tick 'Percent of Total Deaths'
-# Download and save to data_folder
-
-# !!! Download and replace this with path to folder
+# Download and replace this with path to folder
 data_folder <- ""
 
 # Import
-raw_df <- read_tsv(paste0(data_folder, "underlying-cause-of-death-single-year-2018-2021-both-sexes.txt"))
-colnames(raw_df) <- c("Notes", "Age_long", "Age",  "ICD_long", "ICD", "Deaths_n", "Population", "Death_crude_rate", "Pct_deaths")
+raw_df <- read_tsv(paste0(data_folder, "Underlying Cause of Death, 2018-2021, Single Race.txt"))
+colnames(raw_df) <- c("Notes", "Age_long", "Age",  "ICD_long", "ICD", "Deaths_n", "Population", "Death_crude_rate")
 
 # Recode vars
 coded_df <- raw_df
@@ -93,7 +87,7 @@ ggplot(coded_df, aes(x = Age, y = Percentage_Deaths_ICD, fill = ICD_long)) +
     x = "Age",
     y = "",
     fill = "Cause of death category",
-    caption = "Data source: CDC Wonder database, using data on the underlying cause of death from 2018–2021\nChart by Saloni Dattani"
+    caption = "Data source: CDC Wonder database (2018–2021)\nChart by Saloni Dattani\nAvailable at: code.scientificdiscovery.dev"
   ) +
   theme_minimal() + 
   guides(fill = guide_legend(title.position = "top")) +
@@ -124,7 +118,7 @@ ggplot(coded_df, aes(x = Age, y = Deaths_n, fill = ICD_long)) +
     x = "Age",
     y = "",
     fill = "ICD cause of death category",
-    caption = "Data source: CDC Wonder database, using data on the underlying cause of death from 2018–2021\nChart by Saloni Dattani"
+    caption = "Data source: CDC Wonder database (2018–2021)\nChart by Saloni Dattani\nAvailable at: code.scientificdiscovery.dev"
   ) +
   theme_minimal() + 
   guides(fill = guide_legend(title.position = "top")) +
@@ -156,7 +150,7 @@ ggplot(coded_df, aes(x = Age, y = Death_crude_rate, color = ICD_long)) +
     x = "Age",
     y = "",
     color = "ICD cause of death category",
-    caption = "Data source: CDC Wonder database, using data on the underlying cause of death from 2018–2021\nChart by Saloni Dattani"
+    caption = "Data source: CDC Wonder database (2018–2021)\nChart by Saloni Dattani\nAvailable at: code.scientificdiscovery.dev"
   ) +
   theme_minimal() + 
   guides(fill = guide_legend(title.position = "top")) +
