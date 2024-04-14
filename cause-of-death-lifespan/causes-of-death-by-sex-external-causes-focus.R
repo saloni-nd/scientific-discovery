@@ -2,18 +2,15 @@
 library(tidyverse)
 library(scales)
 
-# Data source:
-# CDC Wonder https://wonder.cdc.gov/
-# Underlying cause of death -> group by: single-year age group, gender, ICD chapter
-# Tick 'Percent of Total Deaths'
-# Download and save to data_folder
 
 # !!! Download and replace this with path to folder
 data_folder <- ""
 
 # Import
-raw_df <- read_tsv(paste0(data_folder, "underlying-cause-of-death-single-year-2018-2021.txt"))
-colnames(raw_df) <- c("Notes", "Age_long", "Age", "Gender_long", "Gender", "ICD_long", "ICD", "Deaths_n", "Population", "Death_crude_rate", "Pct_deaths")
+# Make sure filename is correct, or add by-sex.txt at the end.
+raw_df <- read_tsv(paste0(data_folder, "Underlying Cause of Death, 2018-2021, Single Race-by-sex.txt"))
+# Make sure colnames are in correct order
+colnames(raw_df) <- c("Notes", "Age_long", "Age", "Gender_long", "Gender", "ICD_long", "ICD", "Deaths_n", "Population", "Death_crude_rate")
 
 # Recode vars
 coded_df <- raw_df
@@ -75,14 +72,10 @@ coded_df <- coded_df %>% filter(ICD_long != "Ear diseases")
 #-------------------------------------------------------------
 ### Breaking down external causes specifically
 
-# Data source:
-# CDC Wonder https://wonder.cdc.gov/
-# Underlying cause of death -> group by: single-year age group, ICD subchapter
-# Tick 'Percent of Total Deaths'
-# Download and save to data_folder
-
-sub_df <- read_tsv(paste0(data_folder, "Underlying Cause of Death, 2018-2021, Single Race - External.txt"))
-colnames(sub_df) <- c("Notes", "ICD_subchapter_long", "ICD_subchapter", "Gender_long", "Gender", "Age_long", "Age", "Deaths_n", "Population", "Death_crude_rate")
+# Check filename is correct or add External-by-sex.txt to the end of it
+sub_df <- read_tsv(paste0(data_folder, "Underlying Cause of Death, 2018-2021, Single Race - External-by-sex.txt"))
+# Make sure colnames are in the correct order
+colnames(sub_df) <- c("Notes", "Age_long", "Age",  "ICD_subchapter_long", "ICD_subchapter", "Gender_long", "Gender", "Deaths_n", "Population", "Death_crude_rate")
 
 sub_df$Age <- as.numeric(sub_df$Age)
 sub_df$Gender <- as.factor(sub_df$Gender)
@@ -123,13 +116,13 @@ coded_df1 <- coded_df %>%
 sub_df1 <- sub_df %>%
               select(c(Notes, Age_long, Age, Gender_long, ICD_subchapter_long, ICD_subchapter, Deaths_n, Population))
 
-colnames(sub_df1) <- c("Notes", "Age_long", "Age", "ICD_long", "ICD", "Deaths_n", "Population")
+colnames(sub_df1) <- c("Notes", "Age_long", "Age", "Gender_long", "ICD_long", "ICD", "Deaths_n", "Population")
 
 joined_df <- bind_rows(coded_df1, sub_df1)
 
 # Calculate the % of deaths in each age and gender group that are in each ICD code
 joined_df <- joined_df %>%
-  group_by(Age, Gender) %>%
+  group_by(Age, Gender_long) %>%
   mutate(Total_Deaths_Group = sum(Deaths_n)) %>%
   ungroup() %>%
   mutate(Percentage_Deaths_ICD = (Deaths_n / Total_Deaths_Group) * 100)
@@ -173,7 +166,7 @@ ggplot(joined_df, aes(x = Age, y = Percentage_Deaths_ICD, fill = ICD_long)) +
     x = "Age",
     y = "",
     fill = "Cause of death category",
-    caption = "Data source: CDC Wonder database, using data on the underlying cause of death from 2018–2021\nChart by Saloni Dattani"
+    caption = "Data source: CDC Wonder database (2018–2021)\nChart by Saloni Dattani\nAvailable at: code.scientificdiscovery.dev"
   ) +
   theme_minimal() + 
   guides(fill = guide_legend(title.position = "top")) +
@@ -203,9 +196,9 @@ ggplot(joined_df, aes(x = Age, y = Deaths_n, fill = ICD_long)) +
     title = "How do causes of death vary with age? [External causes highlighted]",
     subtitle = "The number of deaths from each ICD cause of death, between 2018-2021 in the United States\nExternal causes are highlighted, showing ICD subchapters",
     x = "Age",
-    y = "Number of deaths",
+    y = "",
     fill = "ICD cause of death category",
-    caption = "Data source: CDC Wonder database, using data on the underlying cause of death from 2018–2021\nChart by Saloni Dattani"
+    caption = "Data source: CDC Wonder database (2018–2021)\nChart by Saloni Dattani\nAvailable at: code.scientificdiscovery.dev"
   ) +
   theme_minimal() + 
   guides(fill = guide_legend(title.position = "top")) +
@@ -249,7 +242,7 @@ ggplot(filter(sub_df, Gender=="F"), aes(x = Age, y = Death_crude_rate, color = I
     x = "Age",
     y = "",
     color = "ICD cause of death category",
-    caption = "Data source: CDC Wonder database, using data on the underlying cause of death from 2018–2021\nChart by Saloni Dattani"
+    caption = "Data source: CDC Wonder database (2018–2021)\nChart by Saloni Dattani\nAvailable at: code.scientificdiscovery.dev"
   ) +
   theme_minimal() + 
   guides(fill = guide_legend(title.position = "top")) +

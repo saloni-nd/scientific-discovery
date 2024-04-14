@@ -1,0 +1,1388 @@
+"Notes"	"Single-Year Ages"	"Single-Year Ages Code"	"ICD Sub-Chapter"	"ICD Sub-Chapter Code"	"Gender"	"Gender Code"	Deaths	Population	Crude Rate
+	"< 1 year"	"0"	"Transport accidents"	"V01-V99"	"Female"	"F"	159	7297498	2.2
+	"< 1 year"	"0"	"Transport accidents"	"V01-V99"	"Male"	"M"	183	7633265	2.4
+	"< 1 year"	"0"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	1900	7297498	26.0
+	"< 1 year"	"0"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	2692	7633265	35.3
+	"< 1 year"	"0"	"Assault"	"X85-Y09"	"Female"	"F"	426	7297498	5.8
+	"< 1 year"	"0"	"Assault"	"X85-Y09"	"Male"	"M"	619	7633265	8.1
+	"< 1 year"	"0"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	174	7297498	2.4
+	"< 1 year"	"0"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	258	7633265	3.4
+	"< 1 year"	"0"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	33	7297498	0.5
+	"< 1 year"	"0"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	37	7633265	0.5
+	"1 year"	"1"	"Transport accidents"	"V01-V99"	"Female"	"F"	183	7439338	2.5
+	"1 year"	"1"	"Transport accidents"	"V01-V99"	"Male"	"M"	251	7779981	3.2
+	"1 year"	"1"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	473	7439338	6.4
+	"1 year"	"1"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	620	7779981	8.0
+	"1 year"	"1"	"Assault"	"X85-Y09"	"Female"	"F"	199	7439338	2.7
+	"1 year"	"1"	"Assault"	"X85-Y09"	"Male"	"M"	273	7779981	3.5
+	"1 year"	"1"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	65	7439338	0.9
+	"1 year"	"1"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	82	7779981	1.1
+	"1 year"	"1"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	10	7439338	Unreliable
+	"1 year"	"1"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	15	7779981	Unreliable
+	"2 years"	"2"	"Transport accidents"	"V01-V99"	"Female"	"F"	178	7595814	2.3
+	"2 years"	"2"	"Transport accidents"	"V01-V99"	"Male"	"M"	211	7938120	2.7
+	"2 years"	"2"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	342	7595814	4.5
+	"2 years"	"2"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	657	7938120	8.3
+	"2 years"	"2"	"Assault"	"X85-Y09"	"Female"	"F"	144	7595814	1.9
+	"2 years"	"2"	"Assault"	"X85-Y09"	"Male"	"M"	224	7938120	2.8
+	"2 years"	"2"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	31	7595814	0.4
+	"2 years"	"2"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	49	7938120	0.6
+	"2 years"	"2"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	15	7595814	Unreliable
+	"3 years"	"3"	"Transport accidents"	"V01-V99"	"Female"	"F"	141	7729866	1.8
+	"3 years"	"3"	"Transport accidents"	"V01-V99"	"Male"	"M"	192	8083630	2.4
+	"3 years"	"3"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	251	7729866	3.2
+	"3 years"	"3"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	470	8083630	5.8
+	"3 years"	"3"	"Assault"	"X85-Y09"	"Female"	"F"	101	7729866	1.3
+	"3 years"	"3"	"Assault"	"X85-Y09"	"Male"	"M"	132	8083630	1.6
+	"3 years"	"3"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	17	7729866	Unreliable
+	"3 years"	"3"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	37	8083630	0.5
+	"4 years"	"4"	"Transport accidents"	"V01-V99"	"Female"	"F"	169	7826154	2.2
+	"4 years"	"4"	"Transport accidents"	"V01-V99"	"Male"	"M"	184	8191922	2.2
+	"4 years"	"4"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	156	7826154	2.0
+	"4 years"	"4"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	341	8191922	4.2
+	"4 years"	"4"	"Assault"	"X85-Y09"	"Female"	"F"	71	7826154	0.9
+	"4 years"	"4"	"Assault"	"X85-Y09"	"Male"	"M"	104	8191922	1.3
+	"4 years"	"4"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	13	7826154	Unreliable
+	"4 years"	"4"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	19	8191922	Unreliable
+	"5 years"	"5"	"Transport accidents"	"V01-V99"	"Female"	"F"	161	7885064	2.0
+	"5 years"	"5"	"Transport accidents"	"V01-V99"	"Male"	"M"	193	8247824	2.3
+	"5 years"	"5"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	123	7885064	1.6
+	"5 years"	"5"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	264	8247824	3.2
+	"5 years"	"5"	"Assault"	"X85-Y09"	"Female"	"F"	77	7885064	1.0
+	"5 years"	"5"	"Assault"	"X85-Y09"	"Male"	"M"	93	8247824	1.1
+	"5 years"	"5"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	10	7885064	Unreliable
+	"5 years"	"5"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	21	8247824	0.3
+	"6 years"	"6"	"Transport accidents"	"V01-V99"	"Female"	"F"	164	7894487	2.1
+	"6 years"	"6"	"Transport accidents"	"V01-V99"	"Male"	"M"	206	8254797	2.5
+	"6 years"	"6"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	104	7894487	1.3
+	"6 years"	"6"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	188	8254797	2.3
+	"6 years"	"6"	"Assault"	"X85-Y09"	"Female"	"F"	53	7894487	0.7
+	"6 years"	"6"	"Assault"	"X85-Y09"	"Male"	"M"	70	8254797	0.8
+	"6 years"	"6"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	16	8254797	Unreliable
+	"7 years"	"7"	"Transport accidents"	"V01-V99"	"Female"	"F"	125	7903632	1.6
+	"7 years"	"7"	"Transport accidents"	"V01-V99"	"Male"	"M"	186	8272399	2.2
+	"7 years"	"7"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	91	7903632	1.2
+	"7 years"	"7"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	147	8272399	1.8
+	"7 years"	"7"	"Assault"	"X85-Y09"	"Female"	"F"	45	7903632	0.6
+	"7 years"	"7"	"Assault"	"X85-Y09"	"Male"	"M"	67	8272399	0.8
+	"7 years"	"7"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	14	8272399	Unreliable
+	"8 years"	"8"	"Transport accidents"	"V01-V99"	"Female"	"F"	137	7926357	1.7
+	"8 years"	"8"	"Transport accidents"	"V01-V99"	"Male"	"M"	155	8281801	1.9
+	"8 years"	"8"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	72	7926357	0.9
+	"8 years"	"8"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	135	8281801	1.6
+	"8 years"	"8"	"Assault"	"X85-Y09"	"Female"	"F"	47	7926357	0.6
+	"8 years"	"8"	"Assault"	"X85-Y09"	"Male"	"M"	63	8281801	0.8
+	"8 years"	"8"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	16	7926357	Unreliable
+	"8 years"	"8"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	14	8281801	Unreliable
+	"9 years"	"9"	"Transport accidents"	"V01-V99"	"Female"	"F"	136	7949593	1.7
+	"9 years"	"9"	"Transport accidents"	"V01-V99"	"Male"	"M"	153	8304842	1.8
+	"9 years"	"9"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	63	7949593	0.8
+	"9 years"	"9"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	131	8304842	1.6
+	"9 years"	"9"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	16	7949593	Unreliable
+	"9 years"	"9"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	20	8304842	0.2
+	"9 years"	"9"	"Assault"	"X85-Y09"	"Female"	"F"	42	7949593	0.5
+	"9 years"	"9"	"Assault"	"X85-Y09"	"Male"	"M"	53	8304842	0.6
+	"9 years"	"9"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	25	8304842	0.3
+	"10 years"	"10"	"Transport accidents"	"V01-V99"	"Female"	"F"	127	8031800	1.6
+	"10 years"	"10"	"Transport accidents"	"V01-V99"	"Male"	"M"	187	8390879	2.2
+	"10 years"	"10"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	68	8031800	0.8
+	"10 years"	"10"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	117	8390879	1.4
+	"10 years"	"10"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	24	8031800	0.3
+	"10 years"	"10"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	60	8390879	0.7
+	"10 years"	"10"	"Assault"	"X85-Y09"	"Female"	"F"	48	8031800	0.6
+	"10 years"	"10"	"Assault"	"X85-Y09"	"Male"	"M"	68	8390879	0.8
+	"10 years"	"10"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	21	8390879	0.3
+	"11 years"	"11"	"Transport accidents"	"V01-V99"	"Female"	"F"	128	8146264	1.6
+	"11 years"	"11"	"Transport accidents"	"V01-V99"	"Male"	"M"	207	8508404	2.4
+	"11 years"	"11"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	63	8146264	0.8
+	"11 years"	"11"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	132	8508404	1.6
+	"11 years"	"11"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	72	8146264	0.9
+	"11 years"	"11"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	109	8508404	1.3
+	"11 years"	"11"	"Assault"	"X85-Y09"	"Female"	"F"	37	8146264	0.5
+	"11 years"	"11"	"Assault"	"X85-Y09"	"Male"	"M"	75	8508404	0.9
+	"11 years"	"11"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	11	8146264	Unreliable
+	"11 years"	"11"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	22	8508404	0.3
+	"12 years"	"12"	"Transport accidents"	"V01-V99"	"Female"	"F"	144	8242817	1.7
+	"12 years"	"12"	"Transport accidents"	"V01-V99"	"Male"	"M"	207	8614347	2.4
+	"12 years"	"12"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	63	8242817	0.8
+	"12 years"	"12"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	125	8614347	1.5
+	"12 years"	"12"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	180	8242817	2.2
+	"12 years"	"12"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	220	8614347	2.6
+	"12 years"	"12"	"Assault"	"X85-Y09"	"Female"	"F"	48	8242817	0.6
+	"12 years"	"12"	"Assault"	"X85-Y09"	"Male"	"M"	78	8614347	0.9
+	"12 years"	"12"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	11	8242817	Unreliable
+	"12 years"	"12"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	26	8614347	0.3
+	"12 years"	"12"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	14	8614347	Unreliable
+	"13 years"	"13"	"Transport accidents"	"V01-V99"	"Female"	"F"	176	8308702	2.1
+	"13 years"	"13"	"Transport accidents"	"V01-V99"	"Male"	"M"	271	8685908	3.1
+	"13 years"	"13"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	88	8308702	1.1
+	"13 years"	"13"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	175	8685908	2.0
+	"13 years"	"13"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	260	8308702	3.1
+	"13 years"	"13"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	407	8685908	4.7
+	"13 years"	"13"	"Assault"	"X85-Y09"	"Female"	"F"	56	8308702	0.7
+	"13 years"	"13"	"Assault"	"X85-Y09"	"Male"	"M"	122	8685908	1.4
+	"13 years"	"13"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	30	8685908	0.3
+	"14 years"	"14"	"Transport accidents"	"V01-V99"	"Female"	"F"	216	8290127	2.6
+	"14 years"	"14"	"Transport accidents"	"V01-V99"	"Male"	"M"	405	8660754	4.7
+	"14 years"	"14"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	96	8290127	1.2
+	"14 years"	"14"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	237	8660754	2.7
+	"14 years"	"14"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	318	8290127	3.8
+	"14 years"	"14"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	657	8660754	7.6
+	"14 years"	"14"	"Assault"	"X85-Y09"	"Female"	"F"	91	8290127	1.1
+	"14 years"	"14"	"Assault"	"X85-Y09"	"Male"	"M"	304	8660754	3.5
+	"14 years"	"14"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	36	8660754	0.4
+	"15 years"	"15"	"Transport accidents"	"V01-V99"	"Female"	"F"	318	8247266	3.9
+	"15 years"	"15"	"Transport accidents"	"V01-V99"	"Male"	"M"	512	8601257	6.0
+	"15 years"	"15"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	115	8247266	1.4
+	"15 years"	"15"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	343	8601257	4.0
+	"15 years"	"15"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	377	8247266	4.6
+	"15 years"	"15"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	908	8601257	10.6
+	"15 years"	"15"	"Assault"	"X85-Y09"	"Female"	"F"	124	8247266	1.5
+	"15 years"	"15"	"Assault"	"X85-Y09"	"Male"	"M"	593	8601257	6.9
+	"15 years"	"15"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	12	8247266	Unreliable
+	"15 years"	"15"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	43	8601257	0.5
+	"15 years"	"15"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	11	8247266	Unreliable
+	"15 years"	"15"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	13	8601257	Unreliable
+	"15 years"	"15"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	12	8601257	Unreliable
+	"16 years"	"16"	"Transport accidents"	"V01-V99"	"Female"	"F"	532	8215952	6.5
+	"16 years"	"16"	"Transport accidents"	"V01-V99"	"Male"	"M"	949	8563548	11.1
+	"16 years"	"16"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	191	8215952	2.3
+	"16 years"	"16"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	476	8563548	5.6
+	"16 years"	"16"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	420	8215952	5.1
+	"16 years"	"16"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	1137	8563548	13.3
+	"16 years"	"16"	"Assault"	"X85-Y09"	"Female"	"F"	159	8215952	1.9
+	"16 years"	"16"	"Assault"	"X85-Y09"	"Male"	"M"	975	8563548	11.4
+	"16 years"	"16"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	23	8215952	0.3
+	"16 years"	"16"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	49	8563548	0.6
+	"16 years"	"16"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	15	8563548	Unreliable
+	"16 years"	"16"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	10	8563548	Unreliable
+	"16 years"	"16"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	10	8563548	Unreliable
+	"17 years"	"17"	"Transport accidents"	"V01-V99"	"Female"	"F"	703	8265770	8.5
+	"17 years"	"17"	"Transport accidents"	"V01-V99"	"Male"	"M"	1370	8616859	15.9
+	"17 years"	"17"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	269	8265770	3.3
+	"17 years"	"17"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	786	8616859	9.1
+	"17 years"	"17"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	425	8265770	5.1
+	"17 years"	"17"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	1299	8616859	15.1
+	"17 years"	"17"	"Assault"	"X85-Y09"	"Female"	"F"	213	8265770	2.6
+	"17 years"	"17"	"Assault"	"X85-Y09"	"Male"	"M"	1537	8616859	17.8
+	"17 years"	"17"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	28	8265770	0.3
+	"17 years"	"17"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	67	8616859	0.8
+	"17 years"	"17"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	29	8616859	0.3
+	"17 years"	"17"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	16	8616859	Unreliable
+	"17 years"	"17"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	15	8616859	Unreliable
+	"18 years"	"18"	"Transport accidents"	"V01-V99"	"Female"	"F"	963	8330753	11.6
+	"18 years"	"18"	"Transport accidents"	"V01-V99"	"Male"	"M"	2004	8697433	23.0
+	"18 years"	"18"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	442	8330753	5.3
+	"18 years"	"18"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	1325	8697433	15.2
+	"18 years"	"18"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	452	8330753	5.4
+	"18 years"	"18"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	1639	8697433	18.8
+	"18 years"	"18"	"Assault"	"X85-Y09"	"Female"	"F"	339	8330753	4.1
+	"18 years"	"18"	"Assault"	"X85-Y09"	"Male"	"M"	2212	8697433	25.4
+	"18 years"	"18"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	43	8330753	0.5
+	"18 years"	"18"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	106	8697433	1.2
+	"18 years"	"18"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	34	8697433	0.4
+	"18 years"	"18"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	15	8330753	Unreliable
+	"18 years"	"18"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	12	8697433	Unreliable
+	"18 years"	"18"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	10	8697433	Unreliable
+	"19 years"	"19"	"Transport accidents"	"V01-V99"	"Female"	"F"	950	8379557	11.3
+	"19 years"	"19"	"Transport accidents"	"V01-V99"	"Male"	"M"	2209	8758991	25.2
+	"19 years"	"19"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	575	8379557	6.9
+	"19 years"	"19"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	1735	8758991	19.8
+	"19 years"	"19"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	464	8379557	5.5
+	"19 years"	"19"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2050	8758991	23.4
+	"19 years"	"19"	"Assault"	"X85-Y09"	"Female"	"F"	381	8379557	4.5
+	"19 years"	"19"	"Assault"	"X85-Y09"	"Male"	"M"	2408	8758991	27.5
+	"19 years"	"19"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	43	8379557	0.5
+	"19 years"	"19"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	121	8758991	1.4
+	"19 years"	"19"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	43	8758991	0.5
+	"19 years"	"19"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	11	8758991	Unreliable
+	"19 years"	"19"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	17	8758991	Unreliable
+	"20 years"	"20"	"Transport accidents"	"V01-V99"	"Female"	"F"	900	8424506	10.7
+	"20 years"	"20"	"Transport accidents"	"V01-V99"	"Male"	"M"	2302	8810250	26.1
+	"20 years"	"20"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	790	8424506	9.4
+	"20 years"	"20"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	2300	8810250	26.1
+	"20 years"	"20"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	462	8424506	5.5
+	"20 years"	"20"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2095	8810250	23.8
+	"20 years"	"20"	"Assault"	"X85-Y09"	"Female"	"F"	378	8424506	4.5
+	"20 years"	"20"	"Assault"	"X85-Y09"	"Male"	"M"	2308	8810250	26.2
+	"20 years"	"20"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	54	8424506	0.6
+	"20 years"	"20"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	130	8810250	1.5
+	"20 years"	"20"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	46	8810250	0.5
+	"20 years"	"20"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	10	8810250	Unreliable
+	"20 years"	"20"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	18	8810250	Unreliable
+	"21 years"	"21"	"Transport accidents"	"V01-V99"	"Female"	"F"	968	8413016	11.5
+	"21 years"	"21"	"Transport accidents"	"V01-V99"	"Male"	"M"	2663	8788349	30.3
+	"21 years"	"21"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	935	8413016	11.1
+	"21 years"	"21"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	2591	8788349	29.5
+	"21 years"	"21"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	562	8413016	6.7
+	"21 years"	"21"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2696	8788349	30.7
+	"21 years"	"21"	"Assault"	"X85-Y09"	"Female"	"F"	413	8413016	4.9
+	"21 years"	"21"	"Assault"	"X85-Y09"	"Male"	"M"	2331	8788349	26.5
+	"21 years"	"21"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	76	8413016	0.9
+	"21 years"	"21"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	175	8788349	2.0
+	"21 years"	"21"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	47	8788349	0.5
+	"21 years"	"21"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	12	8788349	Unreliable
+	"21 years"	"21"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	20	8788349	0.2
+	"22 years"	"22"	"Transport accidents"	"V01-V99"	"Female"	"F"	867	8415579	10.3
+	"22 years"	"22"	"Transport accidents"	"V01-V99"	"Male"	"M"	2567	8789879	29.2
+	"22 years"	"22"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	1067	8415579	12.7
+	"22 years"	"22"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3037	8789879	34.6
+	"22 years"	"22"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	569	8415579	6.8
+	"22 years"	"22"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2716	8789879	30.9
+	"22 years"	"22"	"Assault"	"X85-Y09"	"Female"	"F"	361	8415579	4.3
+	"22 years"	"22"	"Assault"	"X85-Y09"	"Male"	"M"	2321	8789879	26.4
+	"22 years"	"22"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	78	8415579	0.9
+	"22 years"	"22"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	198	8789879	2.3
+	"22 years"	"22"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	56	8789879	0.6
+	"22 years"	"22"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	17	8415579	Unreliable
+	"22 years"	"22"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	20	8789879	0.2
+	"23 years"	"23"	"Transport accidents"	"V01-V99"	"Female"	"F"	926	8490838	10.9
+	"23 years"	"23"	"Transport accidents"	"V01-V99"	"Male"	"M"	2514	8875880	28.3
+	"23 years"	"23"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	1284	8490838	15.1
+	"23 years"	"23"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3310	8875880	37.3
+	"23 years"	"23"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	578	8490838	6.8
+	"23 years"	"23"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2680	8875880	30.2
+	"23 years"	"23"	"Assault"	"X85-Y09"	"Female"	"F"	406	8490838	4.8
+	"23 years"	"23"	"Assault"	"X85-Y09"	"Male"	"M"	2336	8875880	26.3
+	"23 years"	"23"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	87	8490838	1.0
+	"23 years"	"23"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	206	8875880	2.3
+	"23 years"	"23"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	49	8875880	0.6
+	"23 years"	"23"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	11	8875880	Unreliable
+	"23 years"	"23"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	10	8490838	Unreliable
+	"23 years"	"23"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	38	8875880	0.4
+	"24 years"	"24"	"Transport accidents"	"V01-V99"	"Female"	"F"	863	8608949	10.0
+	"24 years"	"24"	"Transport accidents"	"V01-V99"	"Male"	"M"	2497	9008025	27.7
+	"24 years"	"24"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	1427	8608949	16.6
+	"24 years"	"24"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3968	9008025	44.0
+	"24 years"	"24"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	554	8608949	6.4
+	"24 years"	"24"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2667	9008025	29.6
+	"24 years"	"24"	"Assault"	"X85-Y09"	"Female"	"F"	392	8608949	4.6
+	"24 years"	"24"	"Assault"	"X85-Y09"	"Male"	"M"	2232	9008025	24.8
+	"24 years"	"24"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	98	8608949	1.1
+	"24 years"	"24"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	238	9008025	2.6
+	"24 years"	"24"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	68	9008025	0.8
+	"24 years"	"24"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	10	8608949	Unreliable
+	"24 years"	"24"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	18	9008025	Unreliable
+	"24 years"	"24"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	29	9008025	0.3
+	"25 years"	"25"	"Transport accidents"	"V01-V99"	"Female"	"F"	872	8747207	10.0
+	"25 years"	"25"	"Transport accidents"	"V01-V99"	"Male"	"M"	2607	9168284	28.4
+	"25 years"	"25"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	1569	8747207	17.9
+	"25 years"	"25"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	4483	9168284	48.9
+	"25 years"	"25"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	613	8747207	7.0
+	"25 years"	"25"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2694	9168284	29.4
+	"25 years"	"25"	"Assault"	"X85-Y09"	"Female"	"F"	390	8747207	4.5
+	"25 years"	"25"	"Assault"	"X85-Y09"	"Male"	"M"	2284	9168284	24.9
+	"25 years"	"25"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	113	8747207	1.3
+	"25 years"	"25"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	251	9168284	2.7
+	"25 years"	"25"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	65	9168284	0.7
+	"25 years"	"25"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	16	8747207	Unreliable
+	"25 years"	"25"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	12	9168284	Unreliable
+	"25 years"	"25"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	10	8747207	Unreliable
+	"25 years"	"25"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	33	9168284	0.4
+	"26 years"	"26"	"Transport accidents"	"V01-V99"	"Female"	"F"	822	8932296	9.2
+	"26 years"	"26"	"Transport accidents"	"V01-V99"	"Male"	"M"	2505	9350502	26.8
+	"26 years"	"26"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	1805	8932296	20.2
+	"26 years"	"26"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	4939	9350502	52.8
+	"26 years"	"26"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	610	8932296	6.8
+	"26 years"	"26"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2692	9350502	28.8
+	"26 years"	"26"	"Assault"	"X85-Y09"	"Female"	"F"	376	8932296	4.2
+	"26 years"	"26"	"Assault"	"X85-Y09"	"Male"	"M"	2296	9350502	24.6
+	"26 years"	"26"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	114	8932296	1.3
+	"26 years"	"26"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	293	9350502	3.1
+	"26 years"	"26"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	83	9350502	0.9
+	"26 years"	"26"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	19	8932296	Unreliable
+	"26 years"	"26"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	14	9350502	Unreliable
+	"26 years"	"26"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	10	8932296	Unreliable
+	"26 years"	"26"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	48	9350502	0.5
+	"27 years"	"27"	"Transport accidents"	"V01-V99"	"Female"	"F"	872	9132984	9.5
+	"27 years"	"27"	"Transport accidents"	"V01-V99"	"Male"	"M"	2504	9524669	26.3
+	"27 years"	"27"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	1912	9132984	20.9
+	"27 years"	"27"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	5542	9524669	58.2
+	"27 years"	"27"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	610	9132984	6.7
+	"27 years"	"27"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2730	9524669	28.7
+	"27 years"	"27"	"Assault"	"X85-Y09"	"Female"	"F"	448	9132984	4.9
+	"27 years"	"27"	"Assault"	"X85-Y09"	"Male"	"M"	2410	9524669	25.3
+	"27 years"	"27"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	140	9132984	1.5
+	"27 years"	"27"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	278	9524669	2.9
+	"27 years"	"27"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	83	9524669	0.9
+	"27 years"	"27"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	14	9132984	Unreliable
+	"27 years"	"27"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	22	9524669	0.2
+	"27 years"	"27"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	51	9524669	0.5
+	"28 years"	"28"	"Transport accidents"	"V01-V99"	"Female"	"F"	904	9292275	9.7
+	"28 years"	"28"	"Transport accidents"	"V01-V99"	"Male"	"M"	2578	9633937	26.8
+	"28 years"	"28"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2084	9292275	22.4
+	"28 years"	"28"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	5960	9633937	61.9
+	"28 years"	"28"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	654	9292275	7.0
+	"28 years"	"28"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2745	9633937	28.5
+	"28 years"	"28"	"Assault"	"X85-Y09"	"Female"	"F"	400	9292275	4.3
+	"28 years"	"28"	"Assault"	"X85-Y09"	"Male"	"M"	2371	9633937	24.6
+	"28 years"	"28"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	108	9292275	1.2
+	"28 years"	"28"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	296	9633937	3.1
+	"28 years"	"28"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	90	9633937	0.9
+	"28 years"	"28"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	19	9292275	Unreliable
+	"28 years"	"28"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	15	9633937	Unreliable
+	"28 years"	"28"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	12	9292275	Unreliable
+	"28 years"	"28"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	46	9633937	0.5
+	"29 years"	"29"	"Transport accidents"	"V01-V99"	"Female"	"F"	818	9312138	8.8
+	"29 years"	"29"	"Transport accidents"	"V01-V99"	"Male"	"M"	2529	9600200	26.3
+	"29 years"	"29"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2320	9312138	24.9
+	"29 years"	"29"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	6296	9600200	65.6
+	"29 years"	"29"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	671	9312138	7.2
+	"29 years"	"29"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2745	9600200	28.6
+	"29 years"	"29"	"Assault"	"X85-Y09"	"Female"	"F"	403	9312138	4.3
+	"29 years"	"29"	"Assault"	"X85-Y09"	"Male"	"M"	2285	9600200	23.8
+	"29 years"	"29"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	144	9312138	1.5
+	"29 years"	"29"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	321	9600200	3.3
+	"29 years"	"29"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	77	9600200	0.8
+	"29 years"	"29"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	15	9312138	Unreliable
+	"29 years"	"29"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	17	9600200	Unreliable
+	"29 years"	"29"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	18	9312138	Unreliable
+	"29 years"	"29"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	53	9600200	0.6
+	"30 years"	"30"	"Transport accidents"	"V01-V99"	"Female"	"F"	804	9207480	8.7
+	"30 years"	"30"	"Transport accidents"	"V01-V99"	"Male"	"M"	2437	9460078	25.8
+	"30 years"	"30"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2354	9207480	25.6
+	"30 years"	"30"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	6567	9460078	69.4
+	"30 years"	"30"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	674	9207480	7.3
+	"30 years"	"30"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2807	9460078	29.7
+	"30 years"	"30"	"Assault"	"X85-Y09"	"Female"	"F"	417	9207480	4.5
+	"30 years"	"30"	"Assault"	"X85-Y09"	"Male"	"M"	2189	9460078	23.1
+	"30 years"	"30"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	145	9207480	1.6
+	"30 years"	"30"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	348	9460078	3.7
+	"30 years"	"30"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	73	9460078	0.8
+	"30 years"	"30"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	21	9207480	0.2
+	"30 years"	"30"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	23	9460078	0.2
+	"30 years"	"30"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	16	9207480	Unreliable
+	"30 years"	"30"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	43	9460078	0.5
+	"31 years"	"31"	"Transport accidents"	"V01-V99"	"Female"	"F"	749	9032444	8.3
+	"31 years"	"31"	"Transport accidents"	"V01-V99"	"Male"	"M"	2188	9264131	23.6
+	"31 years"	"31"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2376	9032444	26.3
+	"31 years"	"31"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	6653	9264131	71.8
+	"31 years"	"31"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	672	9032444	7.4
+	"31 years"	"31"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2738	9264131	29.6
+	"31 years"	"31"	"Assault"	"X85-Y09"	"Female"	"F"	378	9032444	4.2
+	"31 years"	"31"	"Assault"	"X85-Y09"	"Male"	"M"	2090	9264131	22.6
+	"31 years"	"31"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	143	9032444	1.6
+	"31 years"	"31"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	356	9264131	3.8
+	"31 years"	"31"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	94	9264131	1.0
+	"31 years"	"31"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	17	9032444	Unreliable
+	"31 years"	"31"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	19	9264131	Unreliable
+	"31 years"	"31"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	62	9264131	0.7
+	"32 years"	"32"	"Transport accidents"	"V01-V99"	"Female"	"F"	785	8880102	8.8
+	"32 years"	"32"	"Transport accidents"	"V01-V99"	"Male"	"M"	2288	9102179	25.1
+	"32 years"	"32"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2499	8880102	28.1
+	"32 years"	"32"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	6618	9102179	72.7
+	"32 years"	"32"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	676	8880102	7.6
+	"32 years"	"32"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2645	9102179	29.1
+	"32 years"	"32"	"Assault"	"X85-Y09"	"Female"	"F"	355	8880102	4.0
+	"32 years"	"32"	"Assault"	"X85-Y09"	"Male"	"M"	1855	9102179	20.4
+	"32 years"	"32"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	146	8880102	1.6
+	"32 years"	"32"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	350	9102179	3.8
+	"32 years"	"32"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	94	9102179	1.0
+	"32 years"	"32"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	34	8880102	0.4
+	"32 years"	"32"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	28	9102179	0.3
+	"32 years"	"32"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	13	8880102	Unreliable
+	"32 years"	"32"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	53	9102179	0.6
+	"33 years"	"33"	"Transport accidents"	"V01-V99"	"Female"	"F"	779	8830276	8.8
+	"33 years"	"33"	"Transport accidents"	"V01-V99"	"Male"	"M"	2119	9028398	23.5
+	"33 years"	"33"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2685	8830276	30.4
+	"33 years"	"33"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	6605	9028398	73.2
+	"33 years"	"33"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	632	8830276	7.2
+	"33 years"	"33"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2620	9028398	29.0
+	"33 years"	"33"	"Assault"	"X85-Y09"	"Female"	"F"	364	8830276	4.1
+	"33 years"	"33"	"Assault"	"X85-Y09"	"Male"	"M"	1774	9028398	19.6
+	"33 years"	"33"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	173	8830276	2.0
+	"33 years"	"33"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	344	9028398	3.8
+	"33 years"	"33"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	93	9028398	1.0
+	"33 years"	"33"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	32	8830276	0.4
+	"33 years"	"33"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	18	9028398	Unreliable
+	"33 years"	"33"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	19	8830276	Unreliable
+	"33 years"	"33"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	60	9028398	0.7
+	"34 years"	"34"	"Transport accidents"	"V01-V99"	"Female"	"F"	682	8768014	7.8
+	"34 years"	"34"	"Transport accidents"	"V01-V99"	"Male"	"M"	2172	8935252	24.3
+	"34 years"	"34"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2604	8768014	29.7
+	"34 years"	"34"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	6576	8935252	73.6
+	"34 years"	"34"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	591	8768014	6.7
+	"34 years"	"34"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2548	8935252	28.5
+	"34 years"	"34"	"Assault"	"X85-Y09"	"Female"	"F"	371	8768014	4.2
+	"34 years"	"34"	"Assault"	"X85-Y09"	"Male"	"M"	1668	8935252	18.7
+	"34 years"	"34"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	161	8768014	1.8
+	"34 years"	"34"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	328	8935252	3.7
+	"34 years"	"34"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	93	8935252	1.0
+	"34 years"	"34"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	34	8768014	0.4
+	"34 years"	"34"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	33	8935252	0.4
+	"34 years"	"34"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	17	8768014	Unreliable
+	"34 years"	"34"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	71	8935252	0.8
+	"35 years"	"35"	"Transport accidents"	"V01-V99"	"Female"	"F"	745	8762562	8.5
+	"35 years"	"35"	"Transport accidents"	"V01-V99"	"Male"	"M"	2068	8889319	23.3
+	"35 years"	"35"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2649	8762562	30.2
+	"35 years"	"35"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	6864	8889319	77.2
+	"35 years"	"35"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	651	8762562	7.4
+	"35 years"	"35"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2542	8889319	28.6
+	"35 years"	"35"	"Assault"	"X85-Y09"	"Female"	"F"	328	8762562	3.7
+	"35 years"	"35"	"Assault"	"X85-Y09"	"Male"	"M"	1586	8889319	17.8
+	"35 years"	"35"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	157	8762562	1.8
+	"35 years"	"35"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	321	8889319	3.6
+	"35 years"	"35"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	83	8889319	0.9
+	"35 years"	"35"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	28	8762562	0.3
+	"35 years"	"35"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	30	8889319	0.3
+	"35 years"	"35"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	16	8762562	Unreliable
+	"35 years"	"35"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	64	8889319	0.7
+	"36 years"	"36"	"Transport accidents"	"V01-V99"	"Female"	"F"	676	8733192	7.7
+	"36 years"	"36"	"Transport accidents"	"V01-V99"	"Male"	"M"	1971	8815790	22.4
+	"36 years"	"36"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2598	8733192	29.7
+	"36 years"	"36"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	6780	8815790	76.9
+	"36 years"	"36"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	698	8733192	8.0
+	"36 years"	"36"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2488	8815790	28.2
+	"36 years"	"36"	"Assault"	"X85-Y09"	"Female"	"F"	341	8733192	3.9
+	"36 years"	"36"	"Assault"	"X85-Y09"	"Male"	"M"	1516	8815790	17.2
+	"36 years"	"36"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	159	8733192	1.8
+	"36 years"	"36"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	365	8815790	4.1
+	"36 years"	"36"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	70	8815790	0.8
+	"36 years"	"36"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	33	8733192	0.4
+	"36 years"	"36"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	40	8815790	0.5
+	"36 years"	"36"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	11	8733192	Unreliable
+	"36 years"	"36"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	77	8815790	0.9
+	"37 years"	"37"	"Transport accidents"	"V01-V99"	"Female"	"F"	676	8699147	7.8
+	"37 years"	"37"	"Transport accidents"	"V01-V99"	"Male"	"M"	2008	8746703	23.0
+	"37 years"	"37"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2663	8699147	30.6
+	"37 years"	"37"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	6756	8746703	77.2
+	"37 years"	"37"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	721	8699147	8.3
+	"37 years"	"37"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2400	8746703	27.4
+	"37 years"	"37"	"Assault"	"X85-Y09"	"Female"	"F"	366	8699147	4.2
+	"37 years"	"37"	"Assault"	"X85-Y09"	"Male"	"M"	1451	8746703	16.6
+	"37 years"	"37"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	165	8699147	1.9
+	"37 years"	"37"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	331	8746703	3.8
+	"37 years"	"37"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	76	8746703	0.9
+	"37 years"	"37"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	27	8699147	0.3
+	"37 years"	"37"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	37	8746703	0.4
+	"37 years"	"37"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	23	8699147	0.3
+	"37 years"	"37"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	73	8746703	0.8
+	"38 years"	"38"	"Transport accidents"	"V01-V99"	"Female"	"F"	689	8740167	7.9
+	"38 years"	"38"	"Transport accidents"	"V01-V99"	"Male"	"M"	2004	8782607	22.8
+	"38 years"	"38"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2719	8740167	31.1
+	"38 years"	"38"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	6705	8782607	76.3
+	"38 years"	"38"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	686	8740167	7.8
+	"38 years"	"38"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2487	8782607	28.3
+	"38 years"	"38"	"Assault"	"X85-Y09"	"Female"	"F"	321	8740167	3.7
+	"38 years"	"38"	"Assault"	"X85-Y09"	"Male"	"M"	1439	8782607	16.4
+	"38 years"	"38"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	181	8740167	2.1
+	"38 years"	"38"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	356	8782607	4.1
+	"38 years"	"38"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	69	8782607	0.8
+	"38 years"	"38"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	29	8740167	0.3
+	"38 years"	"38"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	30	8782607	0.3
+	"38 years"	"38"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	25	8740167	0.3
+	"38 years"	"38"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	57	8782607	0.6
+	"39 years"	"39"	"Transport accidents"	"V01-V99"	"Female"	"F"	741	8617110	8.6
+	"39 years"	"39"	"Transport accidents"	"V01-V99"	"Male"	"M"	1893	8642133	21.9
+	"39 years"	"39"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2609	8617110	30.3
+	"39 years"	"39"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	6826	8642133	79.0
+	"39 years"	"39"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	650	8617110	7.5
+	"39 years"	"39"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2525	8642133	29.2
+	"39 years"	"39"	"Assault"	"X85-Y09"	"Female"	"F"	319	8617110	3.7
+	"39 years"	"39"	"Assault"	"X85-Y09"	"Male"	"M"	1399	8642133	16.2
+	"39 years"	"39"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	156	8617110	1.8
+	"39 years"	"39"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	336	8642133	3.9
+	"39 years"	"39"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	65	8642133	0.8
+	"39 years"	"39"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	43	8617110	0.5
+	"39 years"	"39"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	42	8642133	0.5
+	"39 years"	"39"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	17	8617110	Unreliable
+	"39 years"	"39"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	78	8642133	0.9
+	"40 years"	"40"	"Transport accidents"	"V01-V99"	"Female"	"F"	615	8447995	7.3
+	"40 years"	"40"	"Transport accidents"	"V01-V99"	"Male"	"M"	1924	8459385	22.7
+	"40 years"	"40"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2578	8447995	30.5
+	"40 years"	"40"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	6566	8459385	77.6
+	"40 years"	"40"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	674	8447995	8.0
+	"40 years"	"40"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2321	8459385	27.4
+	"40 years"	"40"	"Assault"	"X85-Y09"	"Female"	"F"	288	8447995	3.4
+	"40 years"	"40"	"Assault"	"X85-Y09"	"Male"	"M"	1257	8459385	14.9
+	"40 years"	"40"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	167	8447995	2.0
+	"40 years"	"40"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	330	8459385	3.9
+	"40 years"	"40"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	74	8459385	0.9
+	"40 years"	"40"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	40	8447995	0.5
+	"40 years"	"40"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	40	8459385	0.5
+	"40 years"	"40"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	19	8447995	Unreliable
+	"40 years"	"40"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	72	8459385	0.9
+	"41 years"	"41"	"Transport accidents"	"V01-V99"	"Female"	"F"	625	8254970	7.6
+	"41 years"	"41"	"Transport accidents"	"V01-V99"	"Male"	"M"	1816	8224450	22.1
+	"41 years"	"41"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2502	8254970	30.3
+	"41 years"	"41"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	6169	8224450	75.0
+	"41 years"	"41"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	627	8254970	7.6
+	"41 years"	"41"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2293	8224450	27.9
+	"41 years"	"41"	"Assault"	"X85-Y09"	"Female"	"F"	320	8254970	3.9
+	"41 years"	"41"	"Assault"	"X85-Y09"	"Male"	"M"	1224	8224450	14.9
+	"41 years"	"41"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	151	8254970	1.8
+	"41 years"	"41"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	327	8224450	4.0
+	"41 years"	"41"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	63	8224450	0.8
+	"41 years"	"41"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	48	8254970	0.6
+	"41 years"	"41"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	43	8224450	0.5
+	"41 years"	"41"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	22	8254970	0.3
+	"41 years"	"41"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	81	8224450	1.0
+	"42 years"	"42"	"Transport accidents"	"V01-V99"	"Female"	"F"	603	8054709	7.5
+	"42 years"	"42"	"Transport accidents"	"V01-V99"	"Male"	"M"	1722	7994136	21.5
+	"42 years"	"42"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2366	8054709	29.4
+	"42 years"	"42"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	5745	7994136	71.9
+	"42 years"	"42"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	650	8054709	8.1
+	"42 years"	"42"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2184	7994136	27.3
+	"42 years"	"42"	"Assault"	"X85-Y09"	"Female"	"F"	269	8054709	3.3
+	"42 years"	"42"	"Assault"	"X85-Y09"	"Male"	"M"	1077	7994136	13.5
+	"42 years"	"42"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	138	8054709	1.7
+	"42 years"	"42"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	271	7994136	3.4
+	"42 years"	"42"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	59	7994136	0.7
+	"42 years"	"42"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	40	8054709	0.5
+	"42 years"	"42"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	41	7994136	0.5
+	"42 years"	"42"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	19	8054709	Unreliable
+	"42 years"	"42"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	77	7994136	1.0
+	"43 years"	"43"	"Transport accidents"	"V01-V99"	"Female"	"F"	574	7984369	7.2
+	"43 years"	"43"	"Transport accidents"	"V01-V99"	"Male"	"M"	1644	7916092	20.8
+	"43 years"	"43"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2210	7984369	27.7
+	"43 years"	"43"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	5583	7916092	70.5
+	"43 years"	"43"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	657	7984369	8.2
+	"43 years"	"43"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2154	7916092	27.2
+	"43 years"	"43"	"Assault"	"X85-Y09"	"Female"	"F"	265	7984369	3.3
+	"43 years"	"43"	"Assault"	"X85-Y09"	"Male"	"M"	1022	7916092	12.9
+	"43 years"	"43"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	147	7984369	1.8
+	"43 years"	"43"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	256	7916092	3.2
+	"43 years"	"43"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	48	7916092	0.6
+	"43 years"	"43"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	48	7984369	0.6
+	"43 years"	"43"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	43	7916092	0.5
+	"43 years"	"43"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	17	7984369	Unreliable
+	"43 years"	"43"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	74	7916092	0.9
+	"44 years"	"44"	"Transport accidents"	"V01-V99"	"Female"	"F"	562	7899696	7.1
+	"44 years"	"44"	"Transport accidents"	"V01-V99"	"Male"	"M"	1625	7812546	20.8
+	"44 years"	"44"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2141	7899696	27.1
+	"44 years"	"44"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	5355	7812546	68.5
+	"44 years"	"44"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	651	7899696	8.2
+	"44 years"	"44"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2144	7812546	27.4
+	"44 years"	"44"	"Assault"	"X85-Y09"	"Female"	"F"	224	7899696	2.8
+	"44 years"	"44"	"Assault"	"X85-Y09"	"Male"	"M"	906	7812546	11.6
+	"44 years"	"44"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	104	7899696	1.3
+	"44 years"	"44"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	266	7812546	3.4
+	"44 years"	"44"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	47	7812546	0.6
+	"44 years"	"44"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	70	7899696	0.9
+	"44 years"	"44"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	52	7812546	0.7
+	"44 years"	"44"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	21	7899696	0.3
+	"44 years"	"44"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	73	7812546	0.9
+	"45 years"	"45"	"Transport accidents"	"V01-V99"	"Female"	"F"	566	7859367	7.2
+	"45 years"	"45"	"Transport accidents"	"V01-V99"	"Male"	"M"	1572	7748860	20.3
+	"45 years"	"45"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2232	7859367	28.4
+	"45 years"	"45"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	5230	7748860	67.5
+	"45 years"	"45"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	678	7859367	8.6
+	"45 years"	"45"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2176	7748860	28.1
+	"45 years"	"45"	"Assault"	"X85-Y09"	"Female"	"F"	243	7859367	3.1
+	"45 years"	"45"	"Assault"	"X85-Y09"	"Male"	"M"	823	7748860	10.6
+	"45 years"	"45"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	158	7859367	2.0
+	"45 years"	"45"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	239	7748860	3.1
+	"45 years"	"45"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	46	7748860	0.6
+	"45 years"	"45"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	62	7859367	0.8
+	"45 years"	"45"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	36	7748860	0.5
+	"45 years"	"45"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	21	7859367	0.3
+	"45 years"	"45"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	94	7748860	1.2
+	"46 years"	"46"	"Transport accidents"	"V01-V99"	"Female"	"F"	561	7940696	7.1
+	"46 years"	"46"	"Transport accidents"	"V01-V99"	"Male"	"M"	1687	7801615	21.6
+	"46 years"	"46"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2188	7940696	27.6
+	"46 years"	"46"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	5185	7801615	66.5
+	"46 years"	"46"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	737	7940696	9.3
+	"46 years"	"46"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2198	7801615	28.2
+	"46 years"	"46"	"Assault"	"X85-Y09"	"Female"	"F"	223	7940696	2.8
+	"46 years"	"46"	"Assault"	"X85-Y09"	"Male"	"M"	816	7801615	10.5
+	"46 years"	"46"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	138	7940696	1.7
+	"46 years"	"46"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	284	7801615	3.6
+	"46 years"	"46"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	42	7801615	0.5
+	"46 years"	"46"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	59	7940696	0.7
+	"46 years"	"46"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	80	7801615	1.0
+	"46 years"	"46"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	21	7940696	0.3
+	"46 years"	"46"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	78	7801615	1.0
+	"47 years"	"47"	"Transport accidents"	"V01-V99"	"Female"	"F"	597	8134938	7.3
+	"47 years"	"47"	"Transport accidents"	"V01-V99"	"Male"	"M"	1724	7976550	21.6
+	"47 years"	"47"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2226	8134938	27.4
+	"47 years"	"47"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	5296	7976550	66.4
+	"47 years"	"47"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	718	8134938	8.8
+	"47 years"	"47"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2259	7976550	28.3
+	"47 years"	"47"	"Assault"	"X85-Y09"	"Female"	"F"	230	8134938	2.8
+	"47 years"	"47"	"Assault"	"X85-Y09"	"Male"	"M"	742	7976550	9.3
+	"47 years"	"47"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	172	8134938	2.1
+	"47 years"	"47"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	226	7976550	2.8
+	"47 years"	"47"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	43	7976550	0.5
+	"47 years"	"47"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	59	8134938	0.7
+	"47 years"	"47"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	67	7976550	0.8
+	"47 years"	"47"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	23	8134938	0.3
+	"47 years"	"47"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	98	7976550	1.2
+	"48 years"	"48"	"Transport accidents"	"V01-V99"	"Female"	"F"	628	8376895	7.5
+	"48 years"	"48"	"Transport accidents"	"V01-V99"	"Male"	"M"	1747	8226416	21.2
+	"48 years"	"48"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2362	8376895	28.2
+	"48 years"	"48"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	5621	8226416	68.3
+	"48 years"	"48"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	790	8376895	9.4
+	"48 years"	"48"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2417	8226416	29.4
+	"48 years"	"48"	"Assault"	"X85-Y09"	"Female"	"F"	223	8376895	2.7
+	"48 years"	"48"	"Assault"	"X85-Y09"	"Male"	"M"	821	8226416	10.0
+	"48 years"	"48"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	161	8376895	1.9
+	"48 years"	"48"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	310	8226416	3.8
+	"48 years"	"48"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	45	8226416	0.5
+	"48 years"	"48"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	57	8376895	0.7
+	"48 years"	"48"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	60	8226416	0.7
+	"48 years"	"48"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	21	8376895	0.3
+	"48 years"	"48"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	101	8226416	1.2
+	"49 years"	"49"	"Transport accidents"	"V01-V99"	"Female"	"F"	638	8487095	7.5
+	"49 years"	"49"	"Transport accidents"	"V01-V99"	"Male"	"M"	1768	8344570	21.2
+	"49 years"	"49"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2578	8487095	30.4
+	"49 years"	"49"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	5868	8344570	70.3
+	"49 years"	"49"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	780	8487095	9.2
+	"49 years"	"49"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2403	8344570	28.8
+	"49 years"	"49"	"Assault"	"X85-Y09"	"Female"	"F"	225	8487095	2.7
+	"49 years"	"49"	"Assault"	"X85-Y09"	"Male"	"M"	765	8344570	9.2
+	"49 years"	"49"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	166	8487095	2.0
+	"49 years"	"49"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	304	8344570	3.6
+	"49 years"	"49"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	40	8344570	0.5
+	"49 years"	"49"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	70	8487095	0.8
+	"49 years"	"49"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	83	8344570	1.0
+	"49 years"	"49"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	32	8487095	0.4
+	"49 years"	"49"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	101	8344570	1.2
+	"50 years"	"50"	"Transport accidents"	"V01-V99"	"Female"	"F"	595	8464926	7.0
+	"50 years"	"50"	"Transport accidents"	"V01-V99"	"Male"	"M"	1864	8334875	22.4
+	"50 years"	"50"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2539	8464926	30.0
+	"50 years"	"50"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	5886	8334875	70.6
+	"50 years"	"50"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	781	8464926	9.2
+	"50 years"	"50"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2355	8334875	28.3
+	"50 years"	"50"	"Assault"	"X85-Y09"	"Female"	"F"	211	8464926	2.5
+	"50 years"	"50"	"Assault"	"X85-Y09"	"Male"	"M"	669	8334875	8.0
+	"50 years"	"50"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	174	8464926	2.1
+	"50 years"	"50"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	322	8334875	3.9
+	"50 years"	"50"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	39	8334875	0.5
+	"50 years"	"50"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	90	8464926	1.1
+	"50 years"	"50"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	89	8334875	1.1
+	"50 years"	"50"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	29	8464926	0.3
+	"50 years"	"50"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	99	8334875	1.2
+	"51 years"	"51"	"Transport accidents"	"V01-V99"	"Female"	"F"	584	8281298	7.1
+	"51 years"	"51"	"Transport accidents"	"V01-V99"	"Male"	"M"	1770	8122360	21.8
+	"51 years"	"51"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2489	8281298	30.1
+	"51 years"	"51"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	5745	8122360	70.7
+	"51 years"	"51"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	810	8281298	9.8
+	"51 years"	"51"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2278	8122360	28.0
+	"51 years"	"51"	"Assault"	"X85-Y09"	"Female"	"F"	210	8281298	2.5
+	"51 years"	"51"	"Assault"	"X85-Y09"	"Male"	"M"	655	8122360	8.1
+	"51 years"	"51"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	173	8281298	2.1
+	"51 years"	"51"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	263	8122360	3.2
+	"51 years"	"51"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	27	8122360	0.3
+	"51 years"	"51"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	82	8281298	1.0
+	"51 years"	"51"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	108	8122360	1.3
+	"51 years"	"51"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	30	8281298	0.4
+	"51 years"	"51"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	97	8122360	1.2
+	"52 years"	"52"	"Transport accidents"	"V01-V99"	"Female"	"F"	630	8200552	7.7
+	"52 years"	"52"	"Transport accidents"	"V01-V99"	"Male"	"M"	1847	8015229	23.0
+	"52 years"	"52"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2507	8200552	30.6
+	"52 years"	"52"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	5682	8015229	70.9
+	"52 years"	"52"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	819	8200552	10.0
+	"52 years"	"52"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2341	8015229	29.2
+	"52 years"	"52"	"Assault"	"X85-Y09"	"Female"	"F"	191	8200552	2.3
+	"52 years"	"52"	"Assault"	"X85-Y09"	"Male"	"M"	641	8015229	8.0
+	"52 years"	"52"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	161	8200552	2.0
+	"52 years"	"52"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	310	8015229	3.9
+	"52 years"	"52"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	40	8015229	0.5
+	"52 years"	"52"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	106	8200552	1.3
+	"52 years"	"52"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	110	8015229	1.4
+	"52 years"	"52"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	40	8200552	0.5
+	"52 years"	"52"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	127	8015229	1.6
+	"53 years"	"53"	"Transport accidents"	"V01-V99"	"Female"	"F"	604	8323434	7.3
+	"53 years"	"53"	"Transport accidents"	"V01-V99"	"Male"	"M"	1886	8105577	23.3
+	"53 years"	"53"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2613	8323434	31.4
+	"53 years"	"53"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	5706	8105577	70.4
+	"53 years"	"53"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	829	8323434	10.0
+	"53 years"	"53"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2352	8105577	29.0
+	"53 years"	"53"	"Assault"	"X85-Y09"	"Female"	"F"	212	8323434	2.5
+	"53 years"	"53"	"Assault"	"X85-Y09"	"Male"	"M"	596	8105577	7.4
+	"53 years"	"53"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	153	8323434	1.8
+	"53 years"	"53"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	312	8105577	3.8
+	"53 years"	"53"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	22	8105577	0.3
+	"53 years"	"53"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	110	8323434	1.3
+	"53 years"	"53"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	108	8105577	1.3
+	"53 years"	"53"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	23	8323434	0.3
+	"53 years"	"53"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	119	8105577	1.5
+	"54 years"	"54"	"Transport accidents"	"V01-V99"	"Female"	"F"	654	8542150	7.7
+	"54 years"	"54"	"Transport accidents"	"V01-V99"	"Male"	"M"	1944	8273767	23.5
+	"54 years"	"54"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2670	8542150	31.3
+	"54 years"	"54"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	6128	8273767	74.1
+	"54 years"	"54"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	854	8542150	10.0
+	"54 years"	"54"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2408	8273767	29.1
+	"54 years"	"54"	"Assault"	"X85-Y09"	"Female"	"F"	200	8542150	2.3
+	"54 years"	"54"	"Assault"	"X85-Y09"	"Male"	"M"	610	8273767	7.4
+	"54 years"	"54"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	181	8542150	2.1
+	"54 years"	"54"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	293	8273767	3.5
+	"54 years"	"54"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	22	8273767	0.3
+	"54 years"	"54"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	88	8542150	1.0
+	"54 years"	"54"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	132	8273767	1.6
+	"54 years"	"54"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	34	8542150	0.4
+	"54 years"	"54"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	130	8273767	1.6
+	"55 years"	"55"	"Transport accidents"	"V01-V99"	"Female"	"F"	678	8742803	7.8
+	"55 years"	"55"	"Transport accidents"	"V01-V99"	"Male"	"M"	2024	8423118	24.0
+	"55 years"	"55"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2850	8742803	32.6
+	"55 years"	"55"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	6215	8423118	73.8
+	"55 years"	"55"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	844	8742803	9.7
+	"55 years"	"55"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2459	8423118	29.2
+	"55 years"	"55"	"Assault"	"X85-Y09"	"Female"	"F"	178	8742803	2.0
+	"55 years"	"55"	"Assault"	"X85-Y09"	"Male"	"M"	585	8423118	6.9
+	"55 years"	"55"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	173	8742803	2.0
+	"55 years"	"55"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	345	8423118	4.1
+	"55 years"	"55"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	24	8423118	0.3
+	"55 years"	"55"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	119	8742803	1.4
+	"55 years"	"55"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	154	8423118	1.8
+	"55 years"	"55"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	31	8742803	0.4
+	"55 years"	"55"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	150	8423118	1.8
+	"56 years"	"56"	"Transport accidents"	"V01-V99"	"Female"	"F"	636	8873653	7.2
+	"56 years"	"56"	"Transport accidents"	"V01-V99"	"Male"	"M"	2055	8488591	24.2
+	"56 years"	"56"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2793	8873653	31.5
+	"56 years"	"56"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	6302	8488591	74.2
+	"56 years"	"56"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	836	8873653	9.4
+	"56 years"	"56"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2537	8488591	29.9
+	"56 years"	"56"	"Assault"	"X85-Y09"	"Female"	"F"	177	8873653	2.0
+	"56 years"	"56"	"Assault"	"X85-Y09"	"Male"	"M"	614	8488591	7.2
+	"56 years"	"56"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	163	8873653	1.8
+	"56 years"	"56"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	313	8488591	3.7
+	"56 years"	"56"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	27	8488591	0.3
+	"56 years"	"56"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	135	8873653	1.5
+	"56 years"	"56"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	143	8488591	1.7
+	"56 years"	"56"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	49	8873653	0.6
+	"56 years"	"56"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	132	8488591	1.6
+	"57 years"	"57"	"Transport accidents"	"V01-V99"	"Female"	"F"	677	8951039	7.6
+	"57 years"	"57"	"Transport accidents"	"V01-V99"	"Male"	"M"	2123	8525372	24.9
+	"57 years"	"57"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2808	8951039	31.4
+	"57 years"	"57"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	6338	8525372	74.3
+	"57 years"	"57"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	826	8951039	9.2
+	"57 years"	"57"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2661	8525372	31.2
+	"57 years"	"57"	"Assault"	"X85-Y09"	"Female"	"F"	173	8951039	1.9
+	"57 years"	"57"	"Assault"	"X85-Y09"	"Male"	"M"	550	8525372	6.5
+	"57 years"	"57"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	174	8951039	1.9
+	"57 years"	"57"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	293	8525372	3.4
+	"57 years"	"57"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	31	8525372	0.4
+	"57 years"	"57"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	130	8951039	1.5
+	"57 years"	"57"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	154	8525372	1.8
+	"57 years"	"57"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	49	8951039	0.5
+	"57 years"	"57"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	149	8525372	1.7
+	"58 years"	"58"	"Transport accidents"	"V01-V99"	"Female"	"F"	673	8993718	7.5
+	"58 years"	"58"	"Transport accidents"	"V01-V99"	"Male"	"M"	2135	8536413	25.0
+	"58 years"	"58"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2764	8993718	30.7
+	"58 years"	"58"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	6252	8536413	73.2
+	"58 years"	"58"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	838	8993718	9.3
+	"58 years"	"58"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2612	8536413	30.6
+	"58 years"	"58"	"Assault"	"X85-Y09"	"Female"	"F"	200	8993718	2.2
+	"58 years"	"58"	"Assault"	"X85-Y09"	"Male"	"M"	578	8536413	6.8
+	"58 years"	"58"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	135	8993718	1.5
+	"58 years"	"58"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	315	8536413	3.7
+	"58 years"	"58"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	25	8536413	0.3
+	"58 years"	"58"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	139	8993718	1.5
+	"58 years"	"58"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	175	8536413	2.1
+	"58 years"	"58"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	42	8993718	0.5
+	"58 years"	"58"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	185	8536413	2.2
+	"59 years"	"59"	"Transport accidents"	"V01-V99"	"Female"	"F"	658	8973773	7.3
+	"59 years"	"59"	"Transport accidents"	"V01-V99"	"Male"	"M"	2081	8480309	24.5
+	"59 years"	"59"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2671	8973773	29.8
+	"59 years"	"59"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	5973	8480309	70.4
+	"59 years"	"59"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	744	8973773	8.3
+	"59 years"	"59"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2601	8480309	30.7
+	"59 years"	"59"	"Assault"	"X85-Y09"	"Female"	"F"	174	8973773	1.9
+	"59 years"	"59"	"Assault"	"X85-Y09"	"Male"	"M"	483	8480309	5.7
+	"59 years"	"59"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	155	8973773	1.7
+	"59 years"	"59"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	319	8480309	3.8
+	"59 years"	"59"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	21	8480309	0.2
+	"59 years"	"59"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	159	8973773	1.8
+	"59 years"	"59"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	210	8480309	2.5
+	"59 years"	"59"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	52	8973773	0.6
+	"59 years"	"59"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	156	8480309	1.8
+	"60 years"	"60"	"Transport accidents"	"V01-V99"	"Female"	"F"	641	8901870	7.2
+	"60 years"	"60"	"Transport accidents"	"V01-V99"	"Male"	"M"	2016	8373393	24.1
+	"60 years"	"60"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2547	8901870	28.6
+	"60 years"	"60"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	5833	8373393	69.7
+	"60 years"	"60"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	718	8901870	8.1
+	"60 years"	"60"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2368	8373393	28.3
+	"60 years"	"60"	"Assault"	"X85-Y09"	"Female"	"F"	153	8901870	1.7
+	"60 years"	"60"	"Assault"	"X85-Y09"	"Male"	"M"	503	8373393	6.0
+	"60 years"	"60"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	141	8901870	1.6
+	"60 years"	"60"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	271	8373393	3.2
+	"60 years"	"60"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	25	8373393	0.3
+	"60 years"	"60"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	160	8901870	1.8
+	"60 years"	"60"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	214	8373393	2.6
+	"60 years"	"60"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	34	8901870	0.4
+	"60 years"	"60"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	171	8373393	2.0
+	"61 years"	"61"	"Transport accidents"	"V01-V99"	"Female"	"F"	665	8759058	7.6
+	"61 years"	"61"	"Transport accidents"	"V01-V99"	"Male"	"M"	1945	8180780	23.8
+	"61 years"	"61"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2450	8759058	28.0
+	"61 years"	"61"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	5580	8180780	68.2
+	"61 years"	"61"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	726	8759058	8.3
+	"61 years"	"61"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2330	8180780	28.5
+	"61 years"	"61"	"Assault"	"X85-Y09"	"Female"	"F"	165	8759058	1.9
+	"61 years"	"61"	"Assault"	"X85-Y09"	"Male"	"M"	415	8180780	5.1
+	"61 years"	"61"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	132	8759058	1.5
+	"61 years"	"61"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	230	8180780	2.8
+	"61 years"	"61"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	29	8180780	0.4
+	"61 years"	"61"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	180	8759058	2.1
+	"61 years"	"61"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	212	8180780	2.6
+	"61 years"	"61"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	44	8759058	0.5
+	"61 years"	"61"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	171	8180780	2.1
+	"62 years"	"62"	"Transport accidents"	"V01-V99"	"Female"	"F"	659	8615409	7.6
+	"62 years"	"62"	"Transport accidents"	"V01-V99"	"Male"	"M"	1884	7981835	23.6
+	"62 years"	"62"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2260	8615409	26.2
+	"62 years"	"62"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	5282	7981835	66.2
+	"62 years"	"62"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	603	8615409	7.0
+	"62 years"	"62"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2217	7981835	27.8
+	"62 years"	"62"	"Assault"	"X85-Y09"	"Female"	"F"	158	8615409	1.8
+	"62 years"	"62"	"Assault"	"X85-Y09"	"Male"	"M"	398	7981835	5.0
+	"62 years"	"62"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	130	8615409	1.5
+	"62 years"	"62"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	239	7981835	3.0
+	"62 years"	"62"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	17	7981835	Unreliable
+	"62 years"	"62"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	183	8615409	2.1
+	"62 years"	"62"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	238	7981835	3.0
+	"62 years"	"62"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	46	8615409	0.5
+	"62 years"	"62"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	156	7981835	2.0
+	"63 years"	"63"	"Transport accidents"	"V01-V99"	"Female"	"F"	576	8485433	6.8
+	"63 years"	"63"	"Transport accidents"	"V01-V99"	"Male"	"M"	1822	7807575	23.3
+	"63 years"	"63"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2232	8485433	26.3
+	"63 years"	"63"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	5134	7807575	65.8
+	"63 years"	"63"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	617	8485433	7.3
+	"63 years"	"63"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2017	7807575	25.8
+	"63 years"	"63"	"Assault"	"X85-Y09"	"Female"	"F"	147	8485433	1.7
+	"63 years"	"63"	"Assault"	"X85-Y09"	"Male"	"M"	359	7807575	4.6
+	"63 years"	"63"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	112	8485433	1.3
+	"63 years"	"63"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	226	7807575	2.9
+	"63 years"	"63"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	15	7807575	Unreliable
+	"63 years"	"63"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	184	8485433	2.2
+	"63 years"	"63"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	248	7807575	3.2
+	"63 years"	"63"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	43	8485433	0.5
+	"63 years"	"63"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	172	7807575	2.2
+	"64 years"	"64"	"Transport accidents"	"V01-V99"	"Female"	"F"	569	8280324	6.9
+	"64 years"	"64"	"Transport accidents"	"V01-V99"	"Male"	"M"	1691	7553448	22.4
+	"64 years"	"64"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2077	8280324	25.1
+	"64 years"	"64"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	4699	7553448	62.2
+	"64 years"	"64"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	571	8280324	6.9
+	"64 years"	"64"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	2045	7553448	27.1
+	"64 years"	"64"	"Assault"	"X85-Y09"	"Female"	"F"	134	8280324	1.6
+	"64 years"	"64"	"Assault"	"X85-Y09"	"Male"	"M"	319	7553448	4.2
+	"64 years"	"64"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	97	8280324	1.2
+	"64 years"	"64"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	206	7553448	2.7
+	"64 years"	"64"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	188	8280324	2.3
+	"64 years"	"64"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	292	7553448	3.9
+	"64 years"	"64"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	50	8280324	0.6
+	"64 years"	"64"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	150	7553448	2.0
+	"65 years"	"65"	"Transport accidents"	"V01-V99"	"Female"	"F"	557	8020640	6.9
+	"65 years"	"65"	"Transport accidents"	"V01-V99"	"Male"	"M"	1648	7249134	22.7
+	"65 years"	"65"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	1981	8020640	24.7
+	"65 years"	"65"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	4412	7249134	60.9
+	"65 years"	"65"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	524	8020640	6.5
+	"65 years"	"65"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	1846	7249134	25.5
+	"65 years"	"65"	"Assault"	"X85-Y09"	"Female"	"F"	142	8020640	1.8
+	"65 years"	"65"	"Assault"	"X85-Y09"	"Male"	"M"	301	7249134	4.2
+	"65 years"	"65"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	92	8020640	1.1
+	"65 years"	"65"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	171	7249134	2.4
+	"65 years"	"65"	"Legal intervention and operations of war"	"Y35-Y36"	"Male"	"M"	11	7249134	Unreliable
+	"65 years"	"65"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	212	8020640	2.6
+	"65 years"	"65"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	300	7249134	4.1
+	"65 years"	"65"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	54	8020640	0.7
+	"65 years"	"65"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	141	7249134	1.9
+	"66 years"	"66"	"Transport accidents"	"V01-V99"	"Female"	"F"	534	7744468	6.9
+	"66 years"	"66"	"Transport accidents"	"V01-V99"	"Male"	"M"	1484	6944891	21.4
+	"66 years"	"66"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	1871	7744468	24.2
+	"66 years"	"66"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	4048	6944891	58.3
+	"66 years"	"66"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	451	7744468	5.8
+	"66 years"	"66"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	1739	6944891	25.0
+	"66 years"	"66"	"Assault"	"X85-Y09"	"Female"	"F"	122	7744468	1.6
+	"66 years"	"66"	"Assault"	"X85-Y09"	"Male"	"M"	282	6944891	4.1
+	"66 years"	"66"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	66	7744468	0.9
+	"66 years"	"66"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	149	6944891	2.1
+	"66 years"	"66"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	210	7744468	2.7
+	"66 years"	"66"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	296	6944891	4.3
+	"66 years"	"66"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	45	7744468	0.6
+	"66 years"	"66"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	125	6944891	1.8
+	"67 years"	"67"	"Transport accidents"	"V01-V99"	"Female"	"F"	544	7471320	7.3
+	"67 years"	"67"	"Transport accidents"	"V01-V99"	"Male"	"M"	1434	6649342	21.6
+	"67 years"	"67"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	1809	7471320	24.2
+	"67 years"	"67"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3886	6649342	58.4
+	"67 years"	"67"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	473	7471320	6.3
+	"67 years"	"67"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	1697	6649342	25.5
+	"67 years"	"67"	"Assault"	"X85-Y09"	"Female"	"F"	112	7471320	1.5
+	"67 years"	"67"	"Assault"	"X85-Y09"	"Male"	"M"	216	6649342	3.2
+	"67 years"	"67"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	71	7471320	1.0
+	"67 years"	"67"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	138	6649342	2.1
+	"67 years"	"67"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	262	7471320	3.5
+	"67 years"	"67"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	299	6649342	4.5
+	"67 years"	"67"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	37	7471320	0.5
+	"67 years"	"67"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	147	6649342	2.2
+	"68 years"	"68"	"Transport accidents"	"V01-V99"	"Female"	"F"	520	7214561	7.2
+	"68 years"	"68"	"Transport accidents"	"V01-V99"	"Male"	"M"	1404	6383036	22.0
+	"68 years"	"68"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	1779	7214561	24.7
+	"68 years"	"68"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3552	6383036	55.6
+	"68 years"	"68"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	445	7214561	6.2
+	"68 years"	"68"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	1636	6383036	25.6
+	"68 years"	"68"	"Assault"	"X85-Y09"	"Female"	"F"	110	7214561	1.5
+	"68 years"	"68"	"Assault"	"X85-Y09"	"Male"	"M"	191	6383036	3.0
+	"68 years"	"68"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	62	7214561	0.9
+	"68 years"	"68"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	129	6383036	2.0
+	"68 years"	"68"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	241	7214561	3.3
+	"68 years"	"68"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	318	6383036	5.0
+	"68 years"	"68"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	38	7214561	0.5
+	"68 years"	"68"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	171	6383036	2.7
+	"69 years"	"69"	"Transport accidents"	"V01-V99"	"Female"	"F"	494	6985742	7.1
+	"69 years"	"69"	"Transport accidents"	"V01-V99"	"Male"	"M"	1331	6146747	21.7
+	"69 years"	"69"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	1735	6985742	24.8
+	"69 years"	"69"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3307	6146747	53.8
+	"69 years"	"69"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	420	6985742	6.0
+	"69 years"	"69"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	1630	6146747	26.5
+	"69 years"	"69"	"Assault"	"X85-Y09"	"Female"	"F"	79	6985742	1.1
+	"69 years"	"69"	"Assault"	"X85-Y09"	"Male"	"M"	193	6146747	3.1
+	"69 years"	"69"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	51	6985742	0.7
+	"69 years"	"69"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	118	6146747	1.9
+	"69 years"	"69"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	226	6985742	3.2
+	"69 years"	"69"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	320	6146747	5.2
+	"69 years"	"69"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	44	6985742	0.6
+	"69 years"	"69"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	157	6146747	2.6
+	"70 years"	"70"	"Transport accidents"	"V01-V99"	"Female"	"F"	510	6774444	7.5
+	"70 years"	"70"	"Transport accidents"	"V01-V99"	"Male"	"M"	1218	5928404	20.5
+	"70 years"	"70"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	1753	6774444	25.9
+	"70 years"	"70"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3282	5928404	55.4
+	"70 years"	"70"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	404	6774444	6.0
+	"70 years"	"70"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	1565	5928404	26.4
+	"70 years"	"70"	"Assault"	"X85-Y09"	"Female"	"F"	82	6774444	1.2
+	"70 years"	"70"	"Assault"	"X85-Y09"	"Male"	"M"	169	5928404	2.9
+	"70 years"	"70"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	47	6774444	0.7
+	"70 years"	"70"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	86	5928404	1.5
+	"70 years"	"70"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	259	6774444	3.8
+	"70 years"	"70"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	340	5928404	5.7
+	"70 years"	"70"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	45	6774444	0.7
+	"70 years"	"70"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	121	5928404	2.0
+	"71 years"	"71"	"Transport accidents"	"V01-V99"	"Female"	"F"	546	6675822	8.2
+	"71 years"	"71"	"Transport accidents"	"V01-V99"	"Male"	"M"	1214	5818934	20.9
+	"71 years"	"71"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	1881	6675822	28.2
+	"71 years"	"71"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3257	5818934	56.0
+	"71 years"	"71"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	368	6675822	5.5
+	"71 years"	"71"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	1492	5818934	25.6
+	"71 years"	"71"	"Assault"	"X85-Y09"	"Female"	"F"	113	6675822	1.7
+	"71 years"	"71"	"Assault"	"X85-Y09"	"Male"	"M"	153	5818934	2.6
+	"71 years"	"71"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	46	6675822	0.7
+	"71 years"	"71"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	71	5818934	1.2
+	"71 years"	"71"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	275	6675822	4.1
+	"71 years"	"71"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	301	5818934	5.2
+	"71 years"	"71"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	39	6675822	0.6
+	"71 years"	"71"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	121	5818934	2.1
+	"72 years"	"72"	"Transport accidents"	"V01-V99"	"Female"	"F"	489	6211115	7.9
+	"72 years"	"72"	"Transport accidents"	"V01-V99"	"Male"	"M"	1174	5377447	21.8
+	"72 years"	"72"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	1985	6211115	32.0
+	"72 years"	"72"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3192	5377447	59.4
+	"72 years"	"72"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	314	6211115	5.1
+	"72 years"	"72"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	1437	5377447	26.7
+	"72 years"	"72"	"Assault"	"X85-Y09"	"Female"	"F"	93	6211115	1.5
+	"72 years"	"72"	"Assault"	"X85-Y09"	"Male"	"M"	141	5377447	2.6
+	"72 years"	"72"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	41	6211115	0.7
+	"72 years"	"72"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	68	5377447	1.3
+	"72 years"	"72"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	277	6211115	4.5
+	"72 years"	"72"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	332	5377447	6.2
+	"72 years"	"72"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	42	6211115	0.7
+	"72 years"	"72"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	97	5377447	1.8
+	"73 years"	"73"	"Transport accidents"	"V01-V99"	"Female"	"F"	496	5762935	8.6
+	"73 years"	"73"	"Transport accidents"	"V01-V99"	"Male"	"M"	1094	4950546	22.1
+	"73 years"	"73"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2006	5762935	34.8
+	"73 years"	"73"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3042	4950546	61.4
+	"73 years"	"73"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	293	5762935	5.1
+	"73 years"	"73"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	1356	4950546	27.4
+	"73 years"	"73"	"Assault"	"X85-Y09"	"Female"	"F"	86	5762935	1.5
+	"73 years"	"73"	"Assault"	"X85-Y09"	"Male"	"M"	125	4950546	2.5
+	"73 years"	"73"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	34	5762935	0.6
+	"73 years"	"73"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	61	4950546	1.2
+	"73 years"	"73"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	293	5762935	5.1
+	"73 years"	"73"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	304	4950546	6.1
+	"73 years"	"73"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	44	5762935	0.8
+	"73 years"	"73"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	106	4950546	2.1
+	"74 years"	"74"	"Transport accidents"	"V01-V99"	"Female"	"F"	507	5331932	9.5
+	"74 years"	"74"	"Transport accidents"	"V01-V99"	"Male"	"M"	1002	4549809	22.0
+	"74 years"	"74"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2061	5331932	38.7
+	"74 years"	"74"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3063	4549809	67.3
+	"74 years"	"74"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	278	5331932	5.2
+	"74 years"	"74"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	1318	4549809	29.0
+	"74 years"	"74"	"Assault"	"X85-Y09"	"Female"	"F"	95	5331932	1.8
+	"74 years"	"74"	"Assault"	"X85-Y09"	"Male"	"M"	121	4549809	2.7
+	"74 years"	"74"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	40	5331932	0.8
+	"74 years"	"74"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	60	4549809	1.3
+	"74 years"	"74"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	280	5331932	5.3
+	"74 years"	"74"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	324	4549809	7.1
+	"74 years"	"74"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	39	5331932	0.7
+	"74 years"	"74"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	78	4549809	1.7
+	"75 years"	"75"	"Transport accidents"	"V01-V99"	"Female"	"F"	491	4830197	10.2
+	"75 years"	"75"	"Transport accidents"	"V01-V99"	"Male"	"M"	920	4038815	22.8
+	"75 years"	"75"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2034	4830197	42.1
+	"75 years"	"75"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3033	4038815	75.1
+	"75 years"	"75"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	224	4830197	4.6
+	"75 years"	"75"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	1304	4038815	32.3
+	"75 years"	"75"	"Assault"	"X85-Y09"	"Female"	"F"	79	4830197	1.6
+	"75 years"	"75"	"Assault"	"X85-Y09"	"Male"	"M"	87	4038815	2.2
+	"75 years"	"75"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	45	4830197	0.9
+	"75 years"	"75"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	52	4038815	1.3
+	"75 years"	"75"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	278	4830197	5.8
+	"75 years"	"75"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	320	4038815	7.9
+	"75 years"	"75"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	45	4830197	0.9
+	"75 years"	"75"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	91	4038815	2.3
+	"76 years"	"76"	"Transport accidents"	"V01-V99"	"Female"	"F"	460	4598341	10.0
+	"76 years"	"76"	"Transport accidents"	"V01-V99"	"Male"	"M"	930	3792535	24.5
+	"76 years"	"76"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2299	4598341	50.0
+	"76 years"	"76"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3143	3792535	82.9
+	"76 years"	"76"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	248	4598341	5.4
+	"76 years"	"76"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	1307	3792535	34.5
+	"76 years"	"76"	"Assault"	"X85-Y09"	"Female"	"F"	63	4598341	1.4
+	"76 years"	"76"	"Assault"	"X85-Y09"	"Male"	"M"	95	3792535	2.5
+	"76 years"	"76"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	24	4598341	0.5
+	"76 years"	"76"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	44	3792535	1.2
+	"76 years"	"76"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	253	4598341	5.5
+	"76 years"	"76"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	325	3792535	8.6
+	"76 years"	"76"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	45	4598341	1.0
+	"76 years"	"76"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	104	3792535	2.7
+	"77 years"	"77"	"Transport accidents"	"V01-V99"	"Female"	"F"	483	4324689	11.2
+	"77 years"	"77"	"Transport accidents"	"V01-V99"	"Male"	"M"	901	3512822	25.6
+	"77 years"	"77"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2558	4324689	59.1
+	"77 years"	"77"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3170	3512822	90.2
+	"77 years"	"77"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	197	4324689	4.6
+	"77 years"	"77"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	1240	3512822	35.3
+	"77 years"	"77"	"Assault"	"X85-Y09"	"Female"	"F"	58	4324689	1.3
+	"77 years"	"77"	"Assault"	"X85-Y09"	"Male"	"M"	78	3512822	2.2
+	"77 years"	"77"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	36	4324689	0.8
+	"77 years"	"77"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	37	3512822	1.1
+	"77 years"	"77"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	254	4324689	5.9
+	"77 years"	"77"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	316	3512822	9.0
+	"77 years"	"77"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	42	4324689	1.0
+	"77 years"	"77"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	65	3512822	1.9
+	"78 years"	"78"	"Transport accidents"	"V01-V99"	"Female"	"F"	506	4015452	12.6
+	"78 years"	"78"	"Transport accidents"	"V01-V99"	"Male"	"M"	821	3209536	25.6
+	"78 years"	"78"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2456	4015452	61.2
+	"78 years"	"78"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3270	3209536	101.9
+	"78 years"	"78"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	190	4015452	4.7
+	"78 years"	"78"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	1158	3209536	36.1
+	"78 years"	"78"	"Assault"	"X85-Y09"	"Female"	"F"	63	4015452	1.6
+	"78 years"	"78"	"Assault"	"X85-Y09"	"Male"	"M"	72	3209536	2.2
+	"78 years"	"78"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	27	4015452	0.7
+	"78 years"	"78"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	47	3209536	1.5
+	"78 years"	"78"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	234	4015452	5.8
+	"78 years"	"78"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	279	3209536	8.7
+	"78 years"	"78"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	44	4015452	1.1
+	"78 years"	"78"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	74	3209536	2.3
+	"79 years"	"79"	"Transport accidents"	"V01-V99"	"Female"	"F"	423	3633387	11.6
+	"79 years"	"79"	"Transport accidents"	"V01-V99"	"Male"	"M"	782	2855559	27.4
+	"79 years"	"79"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2717	3633387	74.8
+	"79 years"	"79"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3376	2855559	118.2
+	"79 years"	"79"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	165	3633387	4.5
+	"79 years"	"79"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	1078	2855559	37.8
+	"79 years"	"79"	"Assault"	"X85-Y09"	"Female"	"F"	70	3633387	1.9
+	"79 years"	"79"	"Assault"	"X85-Y09"	"Male"	"M"	60	2855559	2.1
+	"79 years"	"79"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	18	3633387	Unreliable
+	"79 years"	"79"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	34	2855559	1.2
+	"79 years"	"79"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	249	3633387	6.9
+	"79 years"	"79"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	308	2855559	10.8
+	"79 years"	"79"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	48	3633387	1.3
+	"79 years"	"79"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	62	2855559	2.2
+	"80 years"	"80"	"Transport accidents"	"V01-V99"	"Female"	"F"	408	3364310	12.1
+	"80 years"	"80"	"Transport accidents"	"V01-V99"	"Male"	"M"	726	2597120	28.0
+	"80 years"	"80"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2838	3364310	84.4
+	"80 years"	"80"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3332	2597120	128.3
+	"80 years"	"80"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	137	3364310	4.1
+	"80 years"	"80"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	1006	2597120	38.7
+	"80 years"	"80"	"Assault"	"X85-Y09"	"Female"	"F"	55	3364310	1.6
+	"80 years"	"80"	"Assault"	"X85-Y09"	"Male"	"M"	58	2597120	2.2
+	"80 years"	"80"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	29	3364310	0.9
+	"80 years"	"80"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	30	2597120	1.2
+	"80 years"	"80"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	210	3364310	6.2
+	"80 years"	"80"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	259	2597120	10.0
+	"80 years"	"80"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	47	3364310	1.4
+	"80 years"	"80"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	78	2597120	3.0
+	"81 years"	"81"	"Transport accidents"	"V01-V99"	"Female"	"F"	436	3109183	14.0
+	"81 years"	"81"	"Transport accidents"	"V01-V99"	"Male"	"M"	686	2350609	29.2
+	"81 years"	"81"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	3009	3109183	96.8
+	"81 years"	"81"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3431	2350609	146.0
+	"81 years"	"81"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	123	3109183	4.0
+	"81 years"	"81"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	917	2350609	39.0
+	"81 years"	"81"	"Assault"	"X85-Y09"	"Female"	"F"	40	3109183	1.3
+	"81 years"	"81"	"Assault"	"X85-Y09"	"Male"	"M"	46	2350609	2.0
+	"81 years"	"81"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	17	3109183	Unreliable
+	"81 years"	"81"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	31	2350609	1.3
+	"81 years"	"81"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	208	3109183	6.7
+	"81 years"	"81"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	240	2350609	10.2
+	"81 years"	"81"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	33	3109183	1.1
+	"81 years"	"81"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	62	2350609	2.6
+	"82 years"	"82"	"Transport accidents"	"V01-V99"	"Female"	"F"	381	2889480	13.2
+	"82 years"	"82"	"Transport accidents"	"V01-V99"	"Male"	"M"	640	2134186	30.0
+	"82 years"	"82"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	3260	2889480	112.8
+	"82 years"	"82"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3593	2134186	168.4
+	"82 years"	"82"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	111	2889480	3.8
+	"82 years"	"82"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	859	2134186	40.2
+	"82 years"	"82"	"Assault"	"X85-Y09"	"Female"	"F"	51	2889480	1.8
+	"82 years"	"82"	"Assault"	"X85-Y09"	"Male"	"M"	50	2134186	2.3
+	"82 years"	"82"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	18	2889480	Unreliable
+	"82 years"	"82"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	24	2134186	1.1
+	"82 years"	"82"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	225	2889480	7.8
+	"82 years"	"82"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	229	2134186	10.7
+	"82 years"	"82"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	52	2889480	1.8
+	"82 years"	"82"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	55	2134186	2.6
+	"83 years"	"83"	"Transport accidents"	"V01-V99"	"Female"	"F"	334	2686478	12.4
+	"83 years"	"83"	"Transport accidents"	"V01-V99"	"Male"	"M"	578	1928117	30.0
+	"83 years"	"83"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	3534	2686478	131.5
+	"83 years"	"83"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3643	1928117	188.9
+	"83 years"	"83"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	103	2686478	3.8
+	"83 years"	"83"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	843	1928117	43.7
+	"83 years"	"83"	"Assault"	"X85-Y09"	"Female"	"F"	46	2686478	1.7
+	"83 years"	"83"	"Assault"	"X85-Y09"	"Male"	"M"	38	1928117	2.0
+	"83 years"	"83"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	15	2686478	Unreliable
+	"83 years"	"83"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	24	1928117	1.2
+	"83 years"	"83"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	207	2686478	7.7
+	"83 years"	"83"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	218	1928117	11.3
+	"83 years"	"83"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	40	2686478	1.5
+	"83 years"	"83"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	64	1928117	3.3
+	"84 years"	"84"	"Transport accidents"	"V01-V99"	"Female"	"F"	343	2445299	14.0
+	"84 years"	"84"	"Transport accidents"	"V01-V99"	"Male"	"M"	571	1705753	33.5
+	"84 years"	"84"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	3622	2445299	148.1
+	"84 years"	"84"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3630	1705753	212.8
+	"84 years"	"84"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	95	2445299	3.9
+	"84 years"	"84"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	747	1705753	43.8
+	"84 years"	"84"	"Assault"	"X85-Y09"	"Female"	"F"	39	2445299	1.6
+	"84 years"	"84"	"Assault"	"X85-Y09"	"Male"	"M"	32	1705753	1.9
+	"84 years"	"84"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	24	2445299	1.0
+	"84 years"	"84"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	18	1705753	Unreliable
+	"84 years"	"84"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	173	2445299	7.1
+	"84 years"	"84"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	253	1705753	14.8
+	"84 years"	"84"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	29	2445299	1.2
+	"84 years"	"84"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	47	1705753	2.8
+	"85 years"	"85"	"Transport accidents"	"V01-V99"	"Female"	"F"	380	Not Applicable	Not Applicable
+	"85 years"	"85"	"Transport accidents"	"V01-V99"	"Male"	"M"	512	Not Applicable	Not Applicable
+	"85 years"	"85"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	3982	Not Applicable	Not Applicable
+	"85 years"	"85"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3802	Not Applicable	Not Applicable
+	"85 years"	"85"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	95	Not Applicable	Not Applicable
+	"85 years"	"85"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	740	Not Applicable	Not Applicable
+	"85 years"	"85"	"Assault"	"X85-Y09"	"Female"	"F"	41	Not Applicable	Not Applicable
+	"85 years"	"85"	"Assault"	"X85-Y09"	"Male"	"M"	44	Not Applicable	Not Applicable
+	"85 years"	"85"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	23	Not Applicable	Not Applicable
+	"85 years"	"85"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	18	Not Applicable	Not Applicable
+	"85 years"	"85"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	228	Not Applicable	Not Applicable
+	"85 years"	"85"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	218	Not Applicable	Not Applicable
+	"85 years"	"85"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	45	Not Applicable	Not Applicable
+	"85 years"	"85"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	39	Not Applicable	Not Applicable
+	"86 years"	"86"	"Transport accidents"	"V01-V99"	"Female"	"F"	308	Not Applicable	Not Applicable
+	"86 years"	"86"	"Transport accidents"	"V01-V99"	"Male"	"M"	468	Not Applicable	Not Applicable
+	"86 years"	"86"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	4067	Not Applicable	Not Applicable
+	"86 years"	"86"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3776	Not Applicable	Not Applicable
+	"86 years"	"86"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	83	Not Applicable	Not Applicable
+	"86 years"	"86"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	691	Not Applicable	Not Applicable
+	"86 years"	"86"	"Assault"	"X85-Y09"	"Female"	"F"	34	Not Applicable	Not Applicable
+	"86 years"	"86"	"Assault"	"X85-Y09"	"Male"	"M"	24	Not Applicable	Not Applicable
+	"86 years"	"86"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	23	Not Applicable	Not Applicable
+	"86 years"	"86"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	14	Not Applicable	Not Applicable
+	"86 years"	"86"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	196	Not Applicable	Not Applicable
+	"86 years"	"86"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	188	Not Applicable	Not Applicable
+	"86 years"	"86"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	32	Not Applicable	Not Applicable
+	"86 years"	"86"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	47	Not Applicable	Not Applicable
+	"87 years"	"87"	"Transport accidents"	"V01-V99"	"Female"	"F"	266	Not Applicable	Not Applicable
+	"87 years"	"87"	"Transport accidents"	"V01-V99"	"Male"	"M"	441	Not Applicable	Not Applicable
+	"87 years"	"87"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	4186	Not Applicable	Not Applicable
+	"87 years"	"87"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3799	Not Applicable	Not Applicable
+	"87 years"	"87"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	56	Not Applicable	Not Applicable
+	"87 years"	"87"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	596	Not Applicable	Not Applicable
+	"87 years"	"87"	"Assault"	"X85-Y09"	"Female"	"F"	40	Not Applicable	Not Applicable
+	"87 years"	"87"	"Assault"	"X85-Y09"	"Male"	"M"	21	Not Applicable	Not Applicable
+	"87 years"	"87"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	17	Not Applicable	Not Applicable
+	"87 years"	"87"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	19	Not Applicable	Not Applicable
+	"87 years"	"87"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	159	Not Applicable	Not Applicable
+	"87 years"	"87"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	179	Not Applicable	Not Applicable
+	"87 years"	"87"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	41	Not Applicable	Not Applicable
+	"87 years"	"87"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	56	Not Applicable	Not Applicable
+	"88 years"	"88"	"Transport accidents"	"V01-V99"	"Female"	"F"	240	Not Applicable	Not Applicable
+	"88 years"	"88"	"Transport accidents"	"V01-V99"	"Male"	"M"	364	Not Applicable	Not Applicable
+	"88 years"	"88"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	4471	Not Applicable	Not Applicable
+	"88 years"	"88"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3904	Not Applicable	Not Applicable
+	"88 years"	"88"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	71	Not Applicable	Not Applicable
+	"88 years"	"88"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	535	Not Applicable	Not Applicable
+	"88 years"	"88"	"Assault"	"X85-Y09"	"Female"	"F"	14	Not Applicable	Not Applicable
+	"88 years"	"88"	"Assault"	"X85-Y09"	"Male"	"M"	18	Not Applicable	Not Applicable
+	"88 years"	"88"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	24	Not Applicable	Not Applicable
+	"88 years"	"88"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	27	Not Applicable	Not Applicable
+	"88 years"	"88"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	162	Not Applicable	Not Applicable
+	"88 years"	"88"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	167	Not Applicable	Not Applicable
+	"88 years"	"88"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	52	Not Applicable	Not Applicable
+	"88 years"	"88"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	45	Not Applicable	Not Applicable
+	"89 years"	"89"	"Transport accidents"	"V01-V99"	"Female"	"F"	223	Not Applicable	Not Applicable
+	"89 years"	"89"	"Transport accidents"	"V01-V99"	"Male"	"M"	299	Not Applicable	Not Applicable
+	"89 years"	"89"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	4634	Not Applicable	Not Applicable
+	"89 years"	"89"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3680	Not Applicable	Not Applicable
+	"89 years"	"89"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	55	Not Applicable	Not Applicable
+	"89 years"	"89"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	435	Not Applicable	Not Applicable
+	"89 years"	"89"	"Assault"	"X85-Y09"	"Female"	"F"	30	Not Applicable	Not Applicable
+	"89 years"	"89"	"Assault"	"X85-Y09"	"Male"	"M"	22	Not Applicable	Not Applicable
+	"89 years"	"89"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	27	Not Applicable	Not Applicable
+	"89 years"	"89"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	21	Not Applicable	Not Applicable
+	"89 years"	"89"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	140	Not Applicable	Not Applicable
+	"89 years"	"89"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	157	Not Applicable	Not Applicable
+	"89 years"	"89"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	27	Not Applicable	Not Applicable
+	"89 years"	"89"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	39	Not Applicable	Not Applicable
+	"90 years"	"90"	"Transport accidents"	"V01-V99"	"Female"	"F"	194	Not Applicable	Not Applicable
+	"90 years"	"90"	"Transport accidents"	"V01-V99"	"Male"	"M"	262	Not Applicable	Not Applicable
+	"90 years"	"90"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	4609	Not Applicable	Not Applicable
+	"90 years"	"90"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3517	Not Applicable	Not Applicable
+	"90 years"	"90"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	64	Not Applicable	Not Applicable
+	"90 years"	"90"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	363	Not Applicable	Not Applicable
+	"90 years"	"90"	"Assault"	"X85-Y09"	"Female"	"F"	23	Not Applicable	Not Applicable
+	"90 years"	"90"	"Assault"	"X85-Y09"	"Male"	"M"	10	Not Applicable	Not Applicable
+	"90 years"	"90"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	22	Not Applicable	Not Applicable
+	"90 years"	"90"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	13	Not Applicable	Not Applicable
+	"90 years"	"90"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	123	Not Applicable	Not Applicable
+	"90 years"	"90"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	162	Not Applicable	Not Applicable
+	"90 years"	"90"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	33	Not Applicable	Not Applicable
+	"90 years"	"90"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	32	Not Applicable	Not Applicable
+	"91 years"	"91"	"Transport accidents"	"V01-V99"	"Female"	"F"	146	Not Applicable	Not Applicable
+	"91 years"	"91"	"Transport accidents"	"V01-V99"	"Male"	"M"	220	Not Applicable	Not Applicable
+	"91 years"	"91"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	4558	Not Applicable	Not Applicable
+	"91 years"	"91"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	3170	Not Applicable	Not Applicable
+	"91 years"	"91"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	43	Not Applicable	Not Applicable
+	"91 years"	"91"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	358	Not Applicable	Not Applicable
+	"91 years"	"91"	"Assault"	"X85-Y09"	"Female"	"F"	19	Not Applicable	Not Applicable
+	"91 years"	"91"	"Assault"	"X85-Y09"	"Male"	"M"	13	Not Applicable	Not Applicable
+	"91 years"	"91"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	16	Not Applicable	Not Applicable
+	"91 years"	"91"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	15	Not Applicable	Not Applicable
+	"91 years"	"91"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	122	Not Applicable	Not Applicable
+	"91 years"	"91"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	129	Not Applicable	Not Applicable
+	"91 years"	"91"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	46	Not Applicable	Not Applicable
+	"91 years"	"91"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	31	Not Applicable	Not Applicable
+	"92 years"	"92"	"Transport accidents"	"V01-V99"	"Female"	"F"	142	Not Applicable	Not Applicable
+	"92 years"	"92"	"Transport accidents"	"V01-V99"	"Male"	"M"	185	Not Applicable	Not Applicable
+	"92 years"	"92"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	4365	Not Applicable	Not Applicable
+	"92 years"	"92"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	2814	Not Applicable	Not Applicable
+	"92 years"	"92"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	26	Not Applicable	Not Applicable
+	"92 years"	"92"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	295	Not Applicable	Not Applicable
+	"92 years"	"92"	"Assault"	"X85-Y09"	"Female"	"F"	13	Not Applicable	Not Applicable
+	"92 years"	"92"	"Assault"	"X85-Y09"	"Male"	"M"	10	Not Applicable	Not Applicable
+	"92 years"	"92"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	15	Not Applicable	Not Applicable
+	"92 years"	"92"	"Event of undetermined intent"	"Y10-Y34"	"Male"	"M"	13	Not Applicable	Not Applicable
+	"92 years"	"92"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	130	Not Applicable	Not Applicable
+	"92 years"	"92"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	109	Not Applicable	Not Applicable
+	"92 years"	"92"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	39	Not Applicable	Not Applicable
+	"92 years"	"92"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	24	Not Applicable	Not Applicable
+	"93 years"	"93"	"Transport accidents"	"V01-V99"	"Female"	"F"	88	Not Applicable	Not Applicable
+	"93 years"	"93"	"Transport accidents"	"V01-V99"	"Male"	"M"	147	Not Applicable	Not Applicable
+	"93 years"	"93"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	4195	Not Applicable	Not Applicable
+	"93 years"	"93"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	2491	Not Applicable	Not Applicable
+	"93 years"	"93"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	27	Not Applicable	Not Applicable
+	"93 years"	"93"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	237	Not Applicable	Not Applicable
+	"93 years"	"93"	"Assault"	"X85-Y09"	"Female"	"F"	15	Not Applicable	Not Applicable
+	"93 years"	"93"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	106	Not Applicable	Not Applicable
+	"93 years"	"93"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	87	Not Applicable	Not Applicable
+	"93 years"	"93"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	41	Not Applicable	Not Applicable
+	"93 years"	"93"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	18	Not Applicable	Not Applicable
+	"94 years"	"94"	"Transport accidents"	"V01-V99"	"Female"	"F"	65	Not Applicable	Not Applicable
+	"94 years"	"94"	"Transport accidents"	"V01-V99"	"Male"	"M"	99	Not Applicable	Not Applicable
+	"94 years"	"94"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	3618	Not Applicable	Not Applicable
+	"94 years"	"94"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	2089	Not Applicable	Not Applicable
+	"94 years"	"94"	"Intentional self-harm"	"X60-X84"	"Female"	"F"	16	Not Applicable	Not Applicable
+	"94 years"	"94"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	182	Not Applicable	Not Applicable
+	"94 years"	"94"	"Assault"	"X85-Y09"	"Female"	"F"	11	Not Applicable	Not Applicable
+	"94 years"	"94"	"Event of undetermined intent"	"Y10-Y34"	"Female"	"F"	11	Not Applicable	Not Applicable
+	"94 years"	"94"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	77	Not Applicable	Not Applicable
+	"94 years"	"94"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	59	Not Applicable	Not Applicable
+	"94 years"	"94"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	32	Not Applicable	Not Applicable
+	"94 years"	"94"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	24	Not Applicable	Not Applicable
+	"95 years"	"95"	"Transport accidents"	"V01-V99"	"Female"	"F"	50	Not Applicable	Not Applicable
+	"95 years"	"95"	"Transport accidents"	"V01-V99"	"Male"	"M"	80	Not Applicable	Not Applicable
+	"95 years"	"95"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	3189	Not Applicable	Not Applicable
+	"95 years"	"95"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	1689	Not Applicable	Not Applicable
+	"95 years"	"95"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	102	Not Applicable	Not Applicable
+	"95 years"	"95"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	48	Not Applicable	Not Applicable
+	"95 years"	"95"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	44	Not Applicable	Not Applicable
+	"95 years"	"95"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	26	Not Applicable	Not Applicable
+	"95 years"	"95"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Male"	"M"	11	Not Applicable	Not Applicable
+	"96 years"	"96"	"Transport accidents"	"V01-V99"	"Female"	"F"	40	Not Applicable	Not Applicable
+	"96 years"	"96"	"Transport accidents"	"V01-V99"	"Male"	"M"	40	Not Applicable	Not Applicable
+	"96 years"	"96"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2680	Not Applicable	Not Applicable
+	"96 years"	"96"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	1310	Not Applicable	Not Applicable
+	"96 years"	"96"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	73	Not Applicable	Not Applicable
+	"96 years"	"96"	"Assault"	"X85-Y09"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"96 years"	"96"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	51	Not Applicable	Not Applicable
+	"96 years"	"96"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	44	Not Applicable	Not Applicable
+	"96 years"	"96"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	26	Not Applicable	Not Applicable
+	"97 years"	"97"	"Transport accidents"	"V01-V99"	"Female"	"F"	31	Not Applicable	Not Applicable
+	"97 years"	"97"	"Transport accidents"	"V01-V99"	"Male"	"M"	31	Not Applicable	Not Applicable
+	"97 years"	"97"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2200	Not Applicable	Not Applicable
+	"97 years"	"97"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	994	Not Applicable	Not Applicable
+	"97 years"	"97"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	50	Not Applicable	Not Applicable
+	"97 years"	"97"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	36	Not Applicable	Not Applicable
+	"97 years"	"97"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	27	Not Applicable	Not Applicable
+	"97 years"	"97"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	21	Not Applicable	Not Applicable
+	"98 years"	"98"	"Transport accidents"	"V01-V99"	"Female"	"F"	14	Not Applicable	Not Applicable
+	"98 years"	"98"	"Transport accidents"	"V01-V99"	"Male"	"M"	18	Not Applicable	Not Applicable
+	"98 years"	"98"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	1695	Not Applicable	Not Applicable
+	"98 years"	"98"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	681	Not Applicable	Not Applicable
+	"98 years"	"98"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	28	Not Applicable	Not Applicable
+	"98 years"	"98"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	33	Not Applicable	Not Applicable
+	"98 years"	"98"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	22	Not Applicable	Not Applicable
+	"98 years"	"98"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	13	Not Applicable	Not Applicable
+	"99 years"	"99"	"Transport accidents"	"V01-V99"	"Male"	"M"	16	Not Applicable	Not Applicable
+	"99 years"	"99"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	1223	Not Applicable	Not Applicable
+	"99 years"	"99"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	490	Not Applicable	Not Applicable
+	"99 years"	"99"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	22	Not Applicable	Not Applicable
+	"99 years"	"99"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	27	Not Applicable	Not Applicable
+	"99 years"	"99"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	15	Not Applicable	Not Applicable
+	"99 years"	"99"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	14	Not Applicable	Not Applicable
+	"100+ years"	"100"	"Transport accidents"	"V01-V99"	"Female"	"F"	18	Not Applicable	Not Applicable
+	"100+ years"	"100"	"Transport accidents"	"V01-V99"	"Male"	"M"	14	Not Applicable	Not Applicable
+	"100+ years"	"100"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	2447	Not Applicable	Not Applicable
+	"100+ years"	"100"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	679	Not Applicable	Not Applicable
+	"100+ years"	"100"	"Intentional self-harm"	"X60-X84"	"Male"	"M"	27	Not Applicable	Not Applicable
+	"100+ years"	"100"	"Complications of medical and surgical care"	"Y40-Y84"	"Female"	"F"	41	Not Applicable	Not Applicable
+	"100+ years"	"100"	"Complications of medical and surgical care"	"Y40-Y84"	"Male"	"M"	18	Not Applicable	Not Applicable
+	"100+ years"	"100"	"Sequelae of external causes of morbidity and mortality"	"Y85-Y89"	"Female"	"F"	16	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Other external causes of accidental injury"	"W00-X59"	"Female"	"F"	14	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Other external causes of accidental injury"	"W00-X59"	"Male"	"M"	51	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 2018-2021, Single Race"
+"Query Parameters:"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"Group By: Single-Year Ages; ICD Sub-Chapter; Gender"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information."
+"---"
+"Query Date: Apr 14, 2024 2:24:16 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2021 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"2018-2021, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on Apr 14, 2024 2:24:16 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Ages 85-100."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Not Stated."
+"5. The population figures for years 2021 are single-race estimates of the July 1 resident population, based on the Blended Base"
+"produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021 postcensal"
+"series released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates of the"
+"July 1 resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census Bureau on"
+"July 27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from the"
+"Vintage 2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population"
+"figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based"
+"on April 2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Population Data."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Age"
+"Group."
+"7. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"8. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."

@@ -2,18 +2,14 @@
 library(tidyverse)
 library(scales)
 
-# Data source:
-# CDC Wonder https://wonder.cdc.gov/
-# Underlying cause of death -> group by: single-year age group, gender, ICD chapter
-# Tick 'Percent of Total Deaths'
-# Download and save to data_folder
 
 # !!! Download and replace this with path to folder
 data_folder <- ""
 
-# Import
-raw_df <- read_tsv(paste0(data_folder, "underlying-cause-of-death-single-year-2018-2021.txt"))
-colnames(raw_df) <- c("Notes", "Age_long", "Age", "Gender_long", "Gender", "ICD_long", "ICD", "Deaths_n", "Population", "Death_crude_rate", "Pct_deaths")
+
+# Import - make sure file name is correct or adjust it to -by-sex.txt at the end.
+raw_df <- read_tsv(paste0(data_folder, "Underlying Cause of Death, 2018-2021, Single Race-by-sex.txt"))
+colnames(raw_df) <- c("Notes", "Age_long", "Age", "Gender_long", "Gender", "ICD_long", "ICD", "Deaths_n", "Population", "Death_crude_rate")
 
 # Recode vars
 coded_df <- raw_df
@@ -69,24 +65,17 @@ coded_df <- coded_df %>%
 coded_df$ICD_long <- factor(coded_df$ICD_long, levels = sort(levels(coded_df$ICD_long)))
 
 # Define a manual palette with 20 distinct colors
-my_colors <- c("#1f77b4", "#aec7e8", "#ff7f0e", "#ffbb78", "#2ca02c", "#98df8a", 
-               "#d62728", "#ff9896", "#9467bd", "#c5b0d5", "#8c564b", "#c49c94", 
-               "#e377c2", "#f7b6d2", "#7f7f7f", "#c7c7c7", "#bcbd22", "#dbdb8d", 
-               "#17becf", "#9edae5")
-
-
-randomize_colors <- function(color_vector) {
-  sample(color_vector, length(color_vector)) }
-
-randomized_colors <- randomize_colors(my_colors)
-
+my_colors <- c("#dbdb8d", "#ff9896", "#1f77b4", "#c49c94", "#7f7f7f",
+               "#c7c7c7", "#d62728", "#e377c2", "#f7b6d2", "#c5b0d5",
+               "#98df8a", "#9edae5", "#ffbb78", "#9467bd", "#aec7e8",
+               "#17becf", "#bcbd22", "#8c564b", "#2ca02c", "#ff7f0e")
 
 # 1. Create chart showing share of deaths from each cause
 ggplot(coded_df, aes(x = Age, y = Percentage_Deaths_ICD, fill = ICD_long)) +
   #geom_bar(stat = "identity", position = "fill", alpha = 0.7) +
   geom_area(position = "fill", alpha = 0.7) + 
   facet_wrap(~ Gender_long, scales = "free_y", nrow = 2) + 
-  scale_fill_manual(values = randomized_colors) + 
+  scale_fill_manual(values = my_colors) + 
   scale_x_continuous(breaks = seq(0, 100, by = 20)) + # X-axis breaks at multiples of 20
   scale_y_continuous(breaks = seq(0, 1, by=0.2)) + # Y-axis breaks for geom_area version (in decimal share)
   #scale_y_continuous(breaks = seq(0, 1, by=0.2), labels = scales::label_percent()) + # Y-axis breaks for geom_bar version (in percentages)
@@ -94,9 +83,9 @@ ggplot(coded_df, aes(x = Age, y = Percentage_Deaths_ICD, fill = ICD_long)) +
     title = "How do causes of death vary with age?",
     subtitle = "The share of deaths from each ICD cause of death category, between 2018-2021 in the United States",
     x = "Age",
-    y = "Share of deaths",
+    y = "",
     fill = "Cause of death category",
-    caption = "Data source: CDC Wonder database, using data on the underlying cause of death from 2018–2021\nChart by Saloni Dattani"
+    caption = "Data source: CDC Wonder database\nChart by Saloni Dattani\nAvailable at: code.scientificdiscovery.dev"
   ) +
   theme_minimal() + 
   guides(fill = guide_legend(title.position = "top")) +
@@ -117,16 +106,16 @@ ggplot(coded_df, aes(x = Age, y = Percentage_Deaths_ICD, fill = ICD_long)) +
 ggplot(coded_df, aes(x = Age, y = Deaths_n, fill = ICD_long)) +
   geom_bar(stat = "identity", alpha = 0.7) + # Number of deaths
   facet_wrap(~ Gender_long, scales = "free_y", nrow = 2) + 
-  scale_fill_manual(values = randomized_colors) + 
+  scale_fill_manual(values = my_colors) + 
   scale_x_continuous(breaks = seq(0, 100, by = 20)) + # X-axis breaks at multiples of 20
   scale_y_continuous(labels = comma) + # Y-axis labels use comma separator for thousands
   labs(
     title = "How do causes of death vary with age?",
     subtitle = "The number of deaths from each ICD cause of death category, between 2018-2021 in the United States",
     x = "Age",
-    y = "Number of deaths",
+    y = "",
     fill = "ICD cause of death category",
-    caption = "Data source: CDC Wonder database, using data on the underlying cause of death from 2018–2021\nChart by Saloni Dattani"
+    caption = "Data source: CDC Wonder database\nChart by Saloni Dattani\nAvailable at: code.scientificdiscovery.dev"
   ) +
   theme_minimal() + 
   guides(fill = guide_legend(title.position = "top")) +
@@ -149,15 +138,15 @@ ggplot(filter(coded_df, Gender=="F"), # Change to males by changing this to M
        aes(x = Age, y = Death_crude_rate, color = ICD_long)) +
   geom_line() + # Death rate
   facet_wrap(~ ICD_long, scales = "free_y") + 
-  scale_color_manual(values = randomized_colors) + 
+  scale_color_manual(values = my_colors) + 
   scale_x_continuous(breaks = seq(0, 100, by = 20)) + # X-axis breaks at multiples of 20
   labs(
     title = "How do causes of death vary with age? (Females)",
     subtitle = "The crude death rate per 100,000 from each ICD cause of death category, between 2018-2021 in the United States",
     x = "Age",
-    y = "Death rate",
+    y = "",
     color = "ICD cause of death category",
-    caption = "Data source: CDC Wonder database, using data on the underlying cause of death from 2018–2021\nChart by Saloni Dattani"
+    caption = "Data source: CDC Wonder database\nChart by Saloni Dattani\nAvailable at: code.scientificdiscovery.dev"
   ) +
   theme_minimal() + 
   guides(fill = guide_legend(title.position = "top")) +
