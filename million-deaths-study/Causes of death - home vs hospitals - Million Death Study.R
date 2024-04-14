@@ -19,11 +19,11 @@ save_folder <- # Replace with path to folder
 cod <- read.xlsx(xlsxFile = file_path, sheet = 1, startRow=3)
 
 # Rename cols
-colnames(cod) <- c("Cause", "RGI", "Resample", "Home", "Hospital")
+colnames(cod) <- c("Cause", "Home", "Hospital")
 
 # Change to long format
 cod <- cod %>%
-        gather(Place, Percentage, 4:5)
+        gather(Place, Percentage, 2:3)
 
 # Percentage
 cod$Percentage <- cod$Percentage / 100
@@ -46,4 +46,3 @@ ggplot(data=cod, aes(x=Cause,
   scale_fill_manual(values = c("#883039", "#DA959C")) +
   scale_y_continuous(labels = scales::percent) 
   
-
