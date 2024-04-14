@@ -1,6 +1,6 @@
-# Data and code for Scientific Discovery
+# Data and code for [Scientific Discovery](https://www.scientificdiscovery.dev/)
 
-This folder contains links to data and scripts used to generate many of the charts I've produced for my blog, Scientific Discovery.
+This folder contains links to data and scripts used to generate many of the charts I've produced for my blog, [Scientific Discovery](https://www.scientificdiscovery.dev/).
 
 | Date published  | Chart title  | Link to GitHub folder | Link to blogpost |
 |------------|-------------------|------------------|---------------|
