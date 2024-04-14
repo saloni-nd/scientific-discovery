@@ -7,9 +7,6 @@ library(data.table)
 # Import xlsx spreadsheet
 file_path <- ""
 
-# Write path to save files
-save_folder <- ""
-
 vax <- read_csv(paste0(file_path, "dataset.csv"), skip = 0)
 
 # Remove withdrawn vaccines
@@ -55,7 +52,7 @@ ggplot(data=vax, aes(x=Year,y=id, label=Name)) +
        subtitle="The year when each vaccine was licensed for the first time.\nSubsequent vaccines for the same pathogen or disease are shown on the same row.",
        x="",
        y="",
-       caption="Source: Dattani (2023)",
+       caption="Source: Dattani (2023)\nAvailable at: code.scientificdiscovery.dev",
        color="Target organism") +
   coord_cartesian(xlim=c(1770,2023))
   
