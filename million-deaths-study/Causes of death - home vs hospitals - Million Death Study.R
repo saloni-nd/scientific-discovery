@@ -16,7 +16,7 @@ print(sessionInfo())
 file_path <- # Replace with path to file
 save_folder <- # Replace with path to folder
 
-cod <- read.xlsx(xlsxFile = file_path, sheet = 1, startRow=3)
+cod <- read.xlsx(xlsxFile = file_path, sheet = 2)
 
 # Rename cols
 colnames(cod) <- c("Cause", "Home", "Hospital")
