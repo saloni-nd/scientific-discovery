@@ -101,6 +101,8 @@ ggplot(coded_df, aes(x = Age, y = Percentage_Deaths_ICD, fill = ICD_long)) +
     axis.text.y = element_text(margin = margin(r = -20)) # Move y-axis text closer to the axis
   )  
 
+ggsave(paste0(data_folder, "cod_lifespan_share_bysex.svg"), width=8, height=6)
+ggsave(paste0(data_folder, "cod_lifespan_share_bysex.png"), width=8, height=6)
 
 # 2. Create chart showing number of deaths from each cause
 ggplot(coded_df, aes(x = Age, y = Deaths_n, fill = ICD_long)) +
@@ -131,7 +133,8 @@ ggplot(coded_df, aes(x = Age, y = Deaths_n, fill = ICD_long)) +
     axis.text.y = element_text(margin = margin(r = -20)) # Move y-axis text closer to the axis
   )  
 
-
+ggsave(paste0(data_folder, "cod_lifespan_number_bysex.svg"), width=8, height=6)
+ggsave(paste0(data_folder, "cod_lifespan_number_bysex.png"), width=8, height=6)
   
 # 3. Create line charts showing death rate from each cause, focusing on females
 ggplot(filter(coded_df, Gender=="F"), # Change to males by changing this to M
@@ -157,3 +160,5 @@ ggplot(filter(coded_df, Gender=="F"), # Change to males by changing this to M
     legend.position = "none", # Place legend at the bottom
     plot.title = element_text(face = "bold", size = 16))
 
+ggsave(paste0(data_folder, "cod_lifespan_rate_bysex.svg"), width=8, height=6)
+ggsave(paste0(data_folder, "cod_lifespan_rate_bysex.png"), width=8, height=6)
