@@ -2,15 +2,11 @@ library(tidyverse)
 library(scales)
 library(viridis)
 
-# Data source: CDC Wonder database https://wonder.cdc.gov/natality.html
-# Natality for 2007 - 2022 (expanded)
-# Group by: Month, Year
-# Select delivery characteristics: All years
 
 # Import data
 file_path <- "" # Replace with path to file
 
-births_raw <- read_tsv(paste0(file_path, "Natality-2007-2022-expanded.txt"), col_names = TRUE)
+births_raw <- read_tsv(paste0(file_path, "Natality, 2007-2022.txt"), col_names = TRUE)
 
 # Only keep rows where Notes is blank (NA)
 births_cleaned <- births_raw %>% 
@@ -34,9 +30,9 @@ ggplot(births_cleaned, aes(x = Year, y = Month, fill = Births_factor)) +
   geom_tile(color = "white") +
   scale_fill_viridis_d(option = "magma", guide = guide_legend(reverse = TRUE)) + # Use magma for discrete scale
   theme_minimal() +
-  labs(title = "Births rise between July and September",
+  labs(title = "Birth seasonality in the United States",
        subtitle = "Number of births in the United States by month and year",
-       caption = "Data source: CDC Wonder database 2007-2022\nChart by Saloni Dattani",
+       caption = "Data source: CDC Wonder database 2007-2022\nChart by Saloni Dattani\nAvailable at: code.scientificdiscovery.dev",
        x = "",
        y = "",
        fill = "Number of births\n(thousands)") +

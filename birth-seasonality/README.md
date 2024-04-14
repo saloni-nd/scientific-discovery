@@ -4,7 +4,7 @@ The data can be found on the CDC Wonder's database.
 
 ### Downloaded data file
 
-I downloaded data for 2007-2022 and saved it here: https://wonder.cdc.gov/controller/saved/D149/D387F461
+I downloaded data for 2007-2022 and saved it here: https://wonder.cdc.gov/controller/saved/D66/D387F478
 
 ### Update the data
 
