@@ -77,7 +77,7 @@ coded_df <- coded_df %>% filter(ICD_long != "Ear diseases")
 
 # Data source:
 # CDC Wonder https://wonder.cdc.gov/
-# Underlying cause of death -> group by: single-year age group, ICD chapter
+# Underlying cause of death -> group by: single-year age group, ICD subchapter
 # Tick 'Percent of Total Deaths'
 # Download and save to data_folder
 
