@@ -4,7 +4,7 @@ library(viridis)
 library(ggrepel)
 library(data.table)
 
-# Import xlsx spreadsheet
+# Import spreadsheet
 file_path <- ""
 
 vax <- read_csv(paste0(file_path, "dataset.csv"), skip = 0)
