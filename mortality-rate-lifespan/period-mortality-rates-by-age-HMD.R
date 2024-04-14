@@ -2,39 +2,26 @@
 library(tidyverse)
 library(scales)
 library(viridis)
+library(RColorBrewer)
 
 # !!! Download and replace this with path to folder
 data_folder <- ""
 
 # Data source:
 # https://www.mortality.org/
-# Choose countries, then go to Cohort data > Death Rates > 1x1
-# set filename to cMx_1x10_(name of country).txt
-# Choose countries, then go to Period data > Death Rates > 1x1
+
+# Choose countries, then go to Period data > Death Rates > 1x10
 # set filename to Mx_1x10_(name of country).txt
 
-countries <- c("FRA")
-cohort_mortality <- list()
+countries <- c("Italy", "Spain", "USA")
 period_mortality <- list()
 
-# Import cohort data
-for (country in countries) {
-  
-  # Import and rename cols
-  cohort_mortality[[country]] <- read_table(paste0(data_folder, "cMx_1x1_", country, ".txt"), skip=2, na = ".")
-  colnames(cohort_mortality[[country]]) <- c("Year", "Age", "Female", "Male", "Total")
-  
-  cohort_mortality[[country]] <- cohort_mortality[[country]] %>%
-    mutate(Country = country) %>%
-    mutate(Type = "Cohort")
-  
-}
 
 # Import period data
 for (country in countries) {
   
   # Import and rename cols
-  period_mortality[[country]] <- read_table(paste0(data_folder, "Mx_1x1_", country, ".txt"), skip=2, na = ".")
+  period_mortality[[country]] <- read_table(paste0(data_folder, "Mx_1x10_", country, ".txt"), skip=2, na = ".")
   colnames(period_mortality[[country]]) <- c("Year", "Age", "Female", "Male", "Total")
   
   period_mortality[[country]] <- period_mortality[[country]] %>%
@@ -44,14 +31,12 @@ for (country in countries) {
 }
 
 # Join into single df
-cohort_mortality <- do.call(rbind.data.frame, cohort_mortality)
 period_mortality <- do.call(rbind.data.frame, period_mortality)
 
 # Gather to make it long format and get only values for total
-cohort_mortality <- gather(cohort_mortality, "Sex", "Rate", Female:Total)
 period_mortality <- gather(period_mortality, "Sex", "Rate", Female:Total)
 
-mortality <- bind_rows(cohort_mortality, period_mortality)
+mortality <- period_mortality
 
 # Reformat
 mortality$Age <- as.integer(mortality$Age)
@@ -61,21 +46,26 @@ mortality$Sex <- as.factor(mortality$Sex)
 mortality$Type <- as.factor(mortality$Type)
 
 # Select decades to show, retain only Total
-decades <- seq(1800, 2000, by=20)
+# Define the decades you are interested in
+decade_starts <- seq(1900, 2000, by = 20)
+decade_ranges <- sapply(decade_starts, function(x) paste(x, x+9, sep="-"))
+
+# Filter the data to include only rows with the specified decades
 mortality_d <- mortality %>%
-                  filter(Year %in% decades) %>%
-                  filter(Sex == 'Total')
+  filter(Year %in% decade_ranges) %>%
+  filter(Sex == 'Total')
 
 mortality_d$Year <- as.factor(mortality_d$Year)
 
-# Get number of time periods shown for colour scale
-colors <- rev(magma(n_colours))
+# Remove mortality rates of 0 as they cant be logged and are invalid
+mortality_d <- mortality_d %>%
+  filter(Rate > 0)
 
-# Plot cohort mortality rates
-ggplot(data=filter(mortality_d, type='Cohort'), aes(color=Year, x=Age, y=Rate)) +
+# Plot period mortality rates
+ggplot(data=mortality_d, aes(color=Year, x=Age, y=Rate)) +
   # Choose line or smoothed line or points
   geom_line(aes(color=Year),size=1,alpha=1) +
-  geom_point(data=filter(mortality, Age==0, type='Cohort'), aes(color=Year,x=Age,y=Rate), size=1, show.legend=FALSE)+
+  geom_point(data=filter(mortality_d, Age==0), aes(color=Year,x=Age,y=Rate), size=1, show.legend=FALSE)+
   # Limit to 95 because ages above 100 are noisy and go above 100%
   coord_cartesian(xlim=c(0,95)) +
   facet_grid(cols=vars(Country)) +
@@ -83,42 +73,12 @@ ggplot(data=filter(mortality_d, type='Cohort'), aes(color=Year, x=Age, y=Rate)) 
   theme(strip.background = element_blank()) +
   scale_x_continuous(breaks = seq(0, 100, by=10)) +
   scale_y_continuous(labels = scales::percent, trans='log2', breaks = c(0.0001, 0.001, 0.01, 0.1, 1)) +
-  scale_color_manual(name = "Birth cohort", values = colors) +
   labs(title = "Annual death rate by age", 
-       y = "Death rate", 
+       subtitle = "Period death rate, per 100,000 people", 
+       y = "",
        x = "Age",
-       color = "Birth cohort",
-       caption = "Cohort death rates.\nSource: Max Planck Institute for Demographic Research (Germany), University of California, Berkeley (USA), and French Institute for Demographic Studies (France).\n(data downloaded on [12 Sep 2023])") 
+       color = "Decade",
+       caption = "Source: Max Planck Institute for Demographic Research (Germany), University of California, Berkeley (USA), and French Institute for Demographic Studies (France).\n(data downloaded on [12 Sep 2023])\nChart by Saloni Dattani\nAvailable at: code.scientificdiscovery.dev") 
 
 ggsave(paste0(data_folder, "annual-mortality-time-countries.svg"), width = 12, height = 6)
-
-# Select years to show, retain only Total
-years <- c(1910,1918,1920,1930,1940)
-mortality_y <- mortality %>%
-                  filter(Year %in% years) %>%
-                  filter(Sex == 'Total')
-
-mortality_y$Year <- as.factor(mortality_y$Year)
-
-# Get number of time periods shown for colour scale
-n_colours <- nrow(count(mortality_y, Year))
-colors <- colorRampPalette(brewer.pal(8, "Spectral"))(n_colours)
-
-# Plot comparison between cohort and period mortality rates
-ggplot(data=mortality_y, aes(color=Year, x=Age, y=Rate)) +
-    geom_line(aes(color=Year),size=1, alpha=1) +
-    geom_point(data=filter(mortality, Age==0), aes(color=Year,x=Age,y=Rate), size=1, show.legend=FALSE) +
-    facet_grid(cols=vars(Type)) +
-    coord_cartesian(xlim=c(0,95)) +
-    theme_classic() +
-    labs(title = "Annual death rate by age",
-       y = "Death rate",
-       x = "Age",
-       color = "Year or birth cohort", 
-       caption = "Period vs cohort age-specific death rates. Source: Source: Max Planck Institute for Demographic Research (Germany), University of California, Berkeley (USA), and French Institute for Demographic Studies (France).\n(data downloaded on 24 Sep 2023)") +
-    scale_color_manual(values = cc) +
-    scale_x_continuous(breaks = seq(0, 100, by=10)) +
-    scale_y_continuous(labels = scales::percent, trans='log2', breaks = c(0.0001, 0.001, 0.01, 0.1, 1)) 
-
-ggsave(paste0(data_folder, "period-cohort-age-specific-mortality.svg"), width = 12, height = 6)
 
