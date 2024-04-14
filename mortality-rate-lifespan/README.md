@@ -2,6 +2,8 @@ This folder contains scripts for the chart "Death rates by age", which shows how
 
 The data can be found on the [Human Mortality Database](https://mortality.org/).
 
+I've saved files for Italy, Spain and the United States, which I downloaded on May 1, 2023.
+
 ### Update the data
 
 Follow these steps to update the data:
