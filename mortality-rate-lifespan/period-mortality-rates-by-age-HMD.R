@@ -74,10 +74,10 @@ ggplot(data=mortality_d, aes(color=Year, x=Age, y=Rate)) +
   scale_x_continuous(breaks = seq(0, 100, by=10)) +
   scale_y_continuous(labels = scales::percent, trans='log2', breaks = c(0.0001, 0.001, 0.01, 0.1, 1)) +
   labs(title = "Annual death rate by age", 
-       subtitle = "Period death rate, per 100,000 people", 
+       subtitle = "Period death rate, per 100,000 people",  # If cohort data, change this to cohort death rate
        y = "",
        x = "Age",
-       color = "Decade",
+       color = "Decade",  # If cohort data, change this to "Birth cohort"
        caption = "Source: Max Planck Institute for Demographic Research (Germany), University of California, Berkeley (USA), and French Institute for Demographic Studies (France).\n(data downloaded on [12 Sep 2023])\nChart by Saloni Dattani\nAvailable at: code.scientificdiscovery.dev") 
 
 ggsave(paste0(data_folder, "annual-mortality-time-countries.svg"), width = 12, height = 6)
