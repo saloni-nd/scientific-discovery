@@ -7,7 +7,7 @@ library(data.table)
 # Import spreadsheet
 file_path <- ""
 
-vax <- read_csv(paste0(file_path, "dataset.csv"), skip = 0)
+vax <- read_csv(paste0(file_path, "vaccine-discovery-dataset.csv"), skip = 0)
 
 # Remove withdrawn vaccines
 vax <- vax %>% filter(is.na(NA_reason))
@@ -57,5 +57,6 @@ ggplot(data=vax, aes(x=Year,y=id, label=Name)) +
   coord_cartesian(xlim=c(1770,2023))
   
 ggsave(paste0(file_path, "Vaccine_timeline.svg"),height=8,width=10)
+
   
   
