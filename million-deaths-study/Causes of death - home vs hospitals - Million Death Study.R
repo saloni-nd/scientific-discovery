@@ -5,7 +5,6 @@ library(scales)
 library(viridis)
 library(ggrepel)
 
-print(sessionInfo())
 
 # Data source:
 # Table 3 from Gomes, M., Begum, R., Sati, P., Dikshit, R., Gupta, P. C., Kumar, R., Sheth, J., Habib, A., & Jha, P. (2017). Nationwide Mortality Studies To Quantify Causes Of Death: Relevant Lessons From India’s Million Death Study. Health Affairs, 36(11), 1887–1895. https://doi.org/10.1377/hlthaff.2017.0635
@@ -13,10 +12,9 @@ print(sessionInfo())
 # Save as an xlsx file
 
 # Import xlsx spreadsheet
-file_path <- # Replace with path to file
-save_folder <- # Replace with path to folder
+file_path <- ""# Replace with path to file
 
-cod <- read.xlsx(xlsxFile = file_path, sheet = 2)
+cod <- read.xlsx(xlsxFile = paste0(file_path, "hlthaff.2017.0635_1.xlsx"), sheet = 2)
 
 # Rename cols
 colnames(cod) <- c("Cause", "Home", "Hospital")
@@ -37,7 +35,7 @@ ggplot(data=cod, aes(x=Cause,
   theme_classic() +
   labs(title = "People who die outside hospitals tend to die from different causes", 
        subtitle = "Causes of death in India (2001-2003)",
-       caption = "Chart by Saloni Dattani\nSource: Nationwide Mortality Studies To Quantify Causes of Death: Relevant Lessons from India's Million Death Study (Gomes et al., 2017)",
+       caption = "Data source: Gomes et al., 2017\nChart by Saloni Dattani.\nAvailable at: code.scientificdiscovery.dev",
        y="Percentage of deaths", x="") +
   theme(plot.title = element_text(size = 20, face = "bold", hjust = 0),
         plot.caption = element_text(hjust = 0),
