@@ -135,7 +135,8 @@ ggplot(coded_df, aes(x = Age, y = Deaths_n, fill = ICD_long)) +
   )  
 
 
-
+ggsave(paste0(data_folder, "cod_lifespan_number.svg"), width=8, height=6)
+ggsave(paste0(data_folder, "cod_lifespan_number.png"), width=8, height=6)
 
 # 3. Create line charts showing death rate from each cause
 ggplot(coded_df, aes(x = Age, y = Death_crude_rate, color = ICD_long)) +
@@ -161,3 +162,5 @@ ggplot(coded_df, aes(x = Age, y = Death_crude_rate, color = ICD_long)) +
     legend.position = "none", # Remove legend
     plot.title = element_text(face = "bold", size = 16))
 
+ggsave(paste0(data_folder, "cod_lifespan_rate.svg"), width=8, height=6)
+ggsave(paste0(data_folder, "cod_lifespan_rate.png"), width=8, height=6)
