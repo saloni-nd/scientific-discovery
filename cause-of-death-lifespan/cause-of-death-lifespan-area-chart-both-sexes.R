@@ -104,7 +104,7 @@ ggplot(coded_df, aes(x = Age, y = Percentage_Deaths_ICD, fill = ICD_long)) +
   )  
 
 ggsave(paste0(data_folder, "cod_lifespan_share.svg"), width=8, height=6)
-ggsave(paste0(data_folder, "cod_lifespan_share.png"), width=8, height=6)
+
 
 # 2. Create chart showing number of deaths from each cause
 ggplot(coded_df, aes(x = Age, y = Deaths_n, fill = ICD_long)) +
@@ -136,7 +136,7 @@ ggplot(coded_df, aes(x = Age, y = Deaths_n, fill = ICD_long)) +
 
 
 ggsave(paste0(data_folder, "cod_lifespan_number.svg"), width=8, height=6)
-ggsave(paste0(data_folder, "cod_lifespan_number.png"), width=8, height=6)
+
 
 # 3. Create line charts showing death rate from each cause
 ggplot(coded_df, aes(x = Age, y = Death_crude_rate, color = ICD_long)) +
@@ -163,4 +163,39 @@ ggplot(coded_df, aes(x = Age, y = Death_crude_rate, color = ICD_long)) +
     plot.title = element_text(face = "bold", size = 16))
 
 ggsave(paste0(data_folder, "cod_lifespan_rate.svg"), width=8, height=6)
-ggsave(paste0(data_folder, "cod_lifespan_rate.png"), width=8, height=6)
+
+
+# 4. Create stacked charts showing death rates from each cause, out of the total population
+
+ggplot(coded_df, aes(x = Age, y = Death_crude_rate, fill = ICD_long)) +
+  #geom_bar(stat = "identity", position = "fill", alpha = 0.7) +
+  geom_area(position = "stack", alpha = 0.7) + 
+  #facet_wrap(~ Gender_long, scales = "free_y", nrow = 2) + 
+  scale_fill_manual(values = my_colors) + 
+  scale_x_continuous(breaks = seq(0, 100, by = 20)) + # X-axis breaks at multiples of 20
+  #scale_y_continuous(breaks = seq(0, 1, by=0.2)) + # Y-axis breaks for geom_area version (in decimal share)
+  #scale_y_continuous(breaks = seq(0, 1, by=0.2), labels = scales::label_percent()) + # Y-axis breaks for geom_bar version (in percentages)
+  labs(
+    title = "What are the risks of dying from different causes at each age?",
+    subtitle = "The crude death rate per 100,000 from each ICD cause of death category, between 2018-2021 in the United States",
+    x = "Age",
+    y = "",
+    fill = "Cause of death category",
+    caption = "Data source: CDC Wonder database (2018–2021)\nChart by Saloni Dattani\nAvailable at: code.scientificdiscovery.dev"
+  ) +
+  theme_minimal() + 
+  guides(fill = guide_legend(title.position = "top")) +
+  theme(
+    strip.text.x = element_text(size = 12, face = "bold"),
+    axis.text = element_text(size = 10),
+    axis.title = element_text(size = 12),
+    legend.position = "right", # Place legend at the right
+    legend.box = "vertical", # Arrange legend items horizontally
+    plot.title = element_text(face = "bold", size = 16),
+    panel.grid.major.y = element_blank(), # Remove y-axis major grid lines
+    panel.grid.minor.y = element_blank() # Remove y-axis minor grid lines 
+    #axis.text.y = element_text(margin = margin(r = -20)) # Move y-axis text closer to the axis
+  )  
+
+ggsave(paste0(data_folder, "cod_lifespan_riskofdeath.svg"), width=8, height=6)
+
