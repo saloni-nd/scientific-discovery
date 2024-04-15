@@ -82,7 +82,7 @@ ggplot(coded_df, aes(x = Age, y = Percentage_Deaths_ICD, fill = ICD_long)) +
   scale_y_continuous(breaks = seq(0, 1, by=0.2)) + # Y-axis breaks for geom_area version (in decimal share)
   #scale_y_continuous(breaks = seq(0, 1, by=0.2), labels = scales::label_percent()) + # Y-axis breaks for geom_bar version (in percentages)
   labs(
-    title = "How do causes of death vary with age?",
+    title = "What are people dying from at different ages?",
     subtitle = "The share of deaths from each ICD cause of death category, between 2018-2021 in the United States",
     x = "Age",
     y = "",
@@ -113,7 +113,7 @@ ggplot(coded_df, aes(x = Age, y = Deaths_n, fill = ICD_long)) +
   scale_x_continuous(breaks = seq(0, 100, by = 20)) + # X-axis breaks at multiples of 20
   scale_y_continuous(labels = comma) + #y-axis labels with commas for thousand separator
   labs(
-    title = "How do causes of death vary with age?",
+    title = "How many people are dying from each cause at different ages?",
     subtitle = "The number of deaths from each ICD cause of death category, between 2018-2021 in the United States",
     x = "Age",
     y = "",
@@ -146,7 +146,7 @@ ggplot(coded_df, aes(x = Age, y = Death_crude_rate, color = ICD_long)) +
   scale_x_continuous(breaks = seq(0, 100, by = 20)) + # X-axis breaks at multiples of 20
   # scale_y_log10() + # Remove hash to apply log scale to y-axis
   labs(
-    title = "How do causes of death vary with age?",
+    title = "How do the risks of death from each cause vary with age?",
     subtitle = "The crude death rate per 100,000 from each ICD cause of death category, between 2018-2021 in the United States",
     x = "Age",
     y = "",
