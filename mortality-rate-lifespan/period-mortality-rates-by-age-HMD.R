@@ -74,7 +74,7 @@ ggplot(data=mortality_d, aes(color=Year, x=Age, y=Rate)) +
   scale_x_continuous(breaks = seq(0, 100, by=10)) +
   scale_y_continuous(labels = scales::percent, trans='log2', breaks = c(0.0001, 0.001, 0.01, 0.1, 1)) +
   labs(title = "Annual death rate by age", 
-       subtitle = "Period death rate, per 100,000 people",  # If cohort data, change this to cohort death rate
+       subtitle = "Period death rate, as a percentage",  # If cohort data, change this to cohort death rate
        y = "",
        x = "Age",
        color = "Decade",  # If cohort data, change this to "Birth cohort"
