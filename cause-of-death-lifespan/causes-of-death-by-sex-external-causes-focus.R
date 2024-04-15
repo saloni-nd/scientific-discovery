@@ -251,7 +251,7 @@ ggplot(filter(sub_df, Gender=="F"), aes(x = Age, y = Death_crude_rate, color = I
     legend.position = "none", # Remove legend
     plot.title = element_text(face = "bold", size = 16))
 
-ggsave(paste0(data_folder, "cod_lifespan_external_rate_bysex.svg"), width=8, height=10)
+ggsave(paste0(data_folder, "cod_lifespan_external_rate_bysex.svg"), width=12, height=10)
 
 
 # 4. Create stacked charts showing death rates from each cause, out of the total population
