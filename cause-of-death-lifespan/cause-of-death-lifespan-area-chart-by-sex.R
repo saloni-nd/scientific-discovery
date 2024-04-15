@@ -102,7 +102,6 @@ ggplot(coded_df, aes(x = Age, y = Percentage_Deaths_ICD, fill = ICD_long)) +
   )  
 
 ggsave(paste0(data_folder, "cod_lifespan_share_bysex.svg"), width=8, height=6)
-ggsave(paste0(data_folder, "cod_lifespan_share_bysex.png"), width=8, height=6)
 
 # 2. Create chart showing number of deaths from each cause
 ggplot(coded_df, aes(x = Age, y = Deaths_n, fill = ICD_long)) +

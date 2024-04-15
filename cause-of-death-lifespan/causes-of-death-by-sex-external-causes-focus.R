@@ -111,12 +111,12 @@ sub_df <- sub_df %>%
 # Remove external causes from the main ICD df and bind these rows in, then recalculate % of deaths in each age group that are in each ICD code
 coded_df1 <- coded_df %>%
               filter(ICD_long != "External causes") %>%
-              select(c(Notes, Age_long, Age, Gender_long, ICD_long, ICD, Deaths_n, Population))
+              select(c(Notes, Age_long, Age, Gender_long, ICD_long, ICD, Deaths_n, Death_crude_rate, Population))
 
 sub_df1 <- sub_df %>%
-              select(c(Notes, Age_long, Age, Gender_long, ICD_subchapter_long, ICD_subchapter, Deaths_n, Population))
+              select(c(Notes, Age_long, Age, Gender_long, ICD_subchapter_long, ICD_subchapter, Deaths_n, Death_crude_rate,Population))
 
-colnames(sub_df1) <- c("Notes", "Age_long", "Age", "Gender_long", "ICD_long", "ICD", "Deaths_n", "Population")
+colnames(sub_df1) <- c("Notes", "Age_long", "Age", "Gender_long", "ICD_long", "ICD", "Deaths_n", "Death_crude_rate", "Population")
 
 joined_df <- bind_rows(coded_df1, sub_df1)
 
@@ -260,7 +260,7 @@ ggplot(joined_df, aes(x = Age, y = Death_crude_rate, fill = ICD_long)) +
   #geom_bar(stat = "identity", position = "fill", alpha = 0.7) +
   geom_area(position = "stack", alpha = 0.7) + 
   facet_wrap(~ Gender_long, scales = "free_y", nrow = 2) + 
-  scale_fill_manual(values = my_colors) + 
+  scale_fill_manual(values = color_map, breaks = highlight_categories) + 
   scale_x_continuous(breaks = seq(0, 100, by = 20)) + # X-axis breaks at multiples of 20
   #scale_y_continuous(breaks = seq(0, 1, by=0.2)) + # Y-axis breaks for geom_area version (in decimal share)
   #scale_y_continuous(breaks = seq(0, 1, by=0.2), labels = scales::label_percent()) + # Y-axis breaks for geom_bar version (in percentages)
