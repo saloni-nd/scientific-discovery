@@ -2,6 +2,10 @@
 
 This folder contains links to data and scripts used to generate many of the charts I've produced for my blog, [Scientific Discovery](https://www.scientificdiscovery.dev/).
 
+I [offer rewards](https://www.scientificdiscovery.dev/about#§earn-a-reward-by-pointing-out-an-error-ive-made) for catching errors in my work. If you spot an error, get in touch here or by email: saloni@ourworldindata.org
+
+Feedback on how to improve this repo is appreciated as well :)
+
 | Date published  | Chart title  | Link to GitHub folder | Link to blogpost |
 |------------|-------------------|------------------|---------------|
 | 2022-11-06 | Annual death rate by age (cohorts and countries) | [GitHub folder](https://github.com/saloni-nd/scientific-discovery/tree/main/mortality-rate-lifespan)   | [Blogpost](https://www.scientificdiscovery.dev/p/11-everything-great-ive-read-in-the) |
