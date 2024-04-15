@@ -158,7 +158,7 @@ ggplot(filter(coded_df, Gender=="F"), # Change to males by changing this to M
     legend.position = "none", # Place legend at the bottom
     plot.title = element_text(face = "bold", size = 16))
 
-ggsave(paste0(data_folder, "cod_lifespan_rate_bysex.svg"), width=8, height=6)
+ggsave(paste0(data_folder, "cod_lifespan_rate_bysex.svg"), width=12, height=6)
 
 
 # 4. Create stacked charts showing death rates from each cause, out of the total population
