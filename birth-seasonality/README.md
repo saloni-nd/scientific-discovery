@@ -10,6 +10,6 @@ I downloaded data for 2007-2022 and saved it here: https://wonder.cdc.gov/contro
 
 To update the dataset, you can go to the [CDC Wonder's Natality database](https://wonder.cdc.gov/natality.html).
 
-- First, click: Natality for 2007 - 2022 (expanded)
+- First, click: Natality for 2007 - 2022 (expanded) (or click the more updated version)
 - Then, under "Group results by", choose: Month, Year
 - Then, under "Select delivery characteristics", choose: All years
