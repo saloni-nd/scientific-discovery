@@ -141,7 +141,7 @@ ggsave(paste0(data_folder, "cod_lifespan_number.svg"), width=8, height=6)
 # 3. Create line charts showing death rate from each cause
 ggplot(coded_df, aes(x = Age, y = Death_crude_rate, color = ICD_long)) +
   geom_line() + # Death rate
-  facet_wrap(~ ICD_long, scales = "free_y") + 
+  facet_wrap(~ ICD_long, scales = "free_y", ncol = 3) + 
   scale_color_manual(values = my_colors) + 
   scale_x_continuous(breaks = seq(0, 100, by = 20)) + # X-axis breaks at multiples of 20
   # scale_y_log10() + # Remove hash to apply log scale to y-axis
@@ -160,7 +160,8 @@ ggplot(coded_df, aes(x = Age, y = Death_crude_rate, color = ICD_long)) +
     axis.text = element_text(size = 10),
     axis.title = element_text(size = 12),
     legend.position = "none", # Remove legend
-    plot.title = element_text(face = "bold", size = 16))
+    plot.title = element_text(face = "bold", size = 16),
+    panel.grid.minor.y = element_blank()) # Remove y-axis minor grid lines  
 
 ggsave(paste0(data_folder, "cod_lifespan_rate.svg"), width=12, height=6)
 
@@ -198,4 +199,59 @@ ggplot(coded_df, aes(x = Age, y = Death_crude_rate, fill = ICD_long)) +
   )  
 
 ggsave(paste0(data_folder, "cod_lifespan_riskofdeath.svg"), width=8, height=6)
+
+#-------------------------------
+### Chart on population size by age
+
+# Saved dataset: https://wonder.cdc.gov/controller/saved/D158/D387F858
+# The other charts show data from 2018 to 2021 combined. This chart shows the population in one single year, 2018. The population sizes are therefore more natural to read.
+
+
+by_year <- read_tsv(paste0(data_folder, "Underlying Cause of Death, 2018-2021, Single Race-by year.txt"))
+colnames(by_year) <- c("Notes", "Age_long", "Age",  "Year", "Year2", "Deaths_n", "Population", "Death_crude_rate")
+
+# Recode vars
+by_year$Age <- as.numeric(by_year$Age)
+#coded_df$Gender <- as.factor(coded_df$Gender)
+by_year$Year <- as.numeric(by_year$Year)
+by_year$Death_crude_rate <- as.numeric(by_year$Death_crude_rate)
+by_year$Population <- as.numeric(by_year$Population)
+
+population_df <- by_year %>%
+                filter(Year == '2018') %>%
+                group_by(Age) %>%
+                summarise(
+    Total_Population = first(Population),  # Sum of Population, removing NAs
+    .groups = 'drop'  # This drops the grouping, so df_summary is no longer grouped
+  )
+
+# chart showing population at each age
+
+ggplot(population_df, aes(x = Age, y = Total_Population)) +
+  geom_histogram(stat = "identity", alpha = 0.7) +
+  scale_x_continuous(breaks = seq(0, 100, by = 20)) + # X-axis breaks at multiples of 20
+  scale_y_continuous(labels = comma) + #y-axis labels with commas for thousand separator
+  labs(
+    title = "What is the size of the population at different ages?",
+    subtitle = "The number of people alive at each age in 2018 in the United States",
+    x = "Age",
+    y = "",
+    #fill = "Cause of death category",
+    caption = "Data source: CDC Wonder database (2018–2021)\nChart by Saloni Dattani\nAvailable at: code.scientificdiscovery.dev"
+  ) +
+  theme_minimal() + 
+  #guides(fill = guide_legend(title.position = "top")) +
+  theme(
+    strip.text.x = element_text(size = 12, face = "bold"),
+    axis.text = element_text(size = 10),
+    axis.title = element_text(size = 12),
+    legend.position = "right", # Place legend at the right
+    legend.box = "vertical", # Arrange legend items horizontally
+    plot.title = element_text(face = "bold", size = 16),
+    panel.grid.major.y = element_blank(), # Remove y-axis major grid lines
+    panel.grid.minor.y = element_blank() # Remove y-axis minor grid lines 
+    #axis.text.y = element_text(margin = margin(r = -20)) # Move y-axis text closer to the axis
+  )  
+
+ggsave(paste0(data_folder, "population_lifespan.svg"), width=8, height=6)
 
