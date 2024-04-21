@@ -2,6 +2,10 @@ This folder contains several scripts and charts to show causes of death across a
 
 The data can be found on the [CDC Wonder's database](https://wonder.cdc.gov/).
 
+If you want to recreate the charts for other countries, I'd recommend checking out the [Human Mortality Database](https://mortality.org/Data/HCD), which compiles high-quality data from a range of countries. 
+
+You can also find data on [Our World in Data[(https://ourworldindata.org/causes-of-death#all-charts), from the WHO Mortality Database, for selected causes of death across a wide range of countries.
+
 Each script below includes code to create charts on the relative share of deaths from each cause, the number of deaths from each cause, and the death rate from each cause. These are shown across age groups.
 
 ### Top-level cause of death categories
