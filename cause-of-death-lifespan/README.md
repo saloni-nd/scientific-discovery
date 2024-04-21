@@ -4,7 +4,9 @@ The data can be found on the [CDC Wonder's database](https://wonder.cdc.gov/).
 
 If you want to recreate the charts for other countries, I'd recommend checking out the [Human Mortality Database](https://mortality.org/Data/HCD), which compiles high-quality data on mortality and causes of death from a range of countries. 
 
-You can also find data on [Our World in Data](https://ourworldindata.org/causes-of-death#all-charts), which shows cause of death data since 1950 from the WHO Mortality Database, across a wide range of countries.
+You can also find data on [Our World in Data](https://ourworldindata.org/causes-of-death#all-charts), which shows cause of death data since 1950 from the WHO Mortality Database, across many countries.
+
+Each source shows data from the "official" underlying cause of death on death certificates. This data has important strengths and limitations, including the knowledge and training of death certifiers, reporting standards, medical records, and more. I've written about this [here](https://ourworldindata.org/how-are-causes-of-death-registered-around-the-world).
 
 Each script below includes code to create charts on the relative share of deaths from each cause, the number of deaths from each cause, and the death rate from each cause. These are shown across age groups.
 
