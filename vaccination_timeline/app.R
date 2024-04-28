@@ -28,18 +28,18 @@ ui <- fluidPage(
   
   fluidRow(
     #column(12,
-  # Create a box to control the height and with of the viewport
-  # Here the width is 50% of the page and 33% of the height.
-  div(style="width:50vw;height:33vh;padding-top:33%;position:absolute;",
-      # Create another box and fill it.
-      div(style="position: absolute;
+    # Create a box to control the height and with of the viewport
+    # Here the width is 50% of the page and 33% of the height.
+    div(style="width:50vw;height:33vh;padding-top:33%;position:absolute;",
+        # Create another box and fill it.
+        div(style="position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;",
   # Plot 
   plotlyOutput("plot", height = "100%", width = "100%")))
-    #)
+  #)
   )
 )
 
@@ -47,37 +47,37 @@ ui <- fluidPage(
 server <- function(input, output) {
   
   # Import data (for demonstration, assume data is directly loaded)
-   vax <- read_csv("vaccine-discovery-dataset.csv")
+  vax <- read_csv("vaccine-discovery-dataset.csv")
   # Your data loading logic here
-   
-   # Remove withdrawn vaccines
-   vax <- vax %>% filter(is.na(NA_reason))
-   
-   # Arrange by year
-   vax <- vax %>%
-     arrange(Year) 
-   
-   # Give vaccines an ID number - all vaccines for the same disease get the same ID
-   setDT(vax)[, id := .GRP, by = Name]
-   
-   vax <- as.tibble(vax)
-   
-   # Label first vaccine for each disease
-   vax$First <- +(!duplicated(vax$Name))
-   
-   
-   # Select colors
-   group.colors <- c(Bacteria = "#38AABA", 
-                     Virus = "#BC8E5A", 
-                     Parasite ="#970046")
-   
-   # Create breaks and labels to match original plot
-   ticks <- tibble(year = seq(1770, 2020, by=10))
-   tick_labs <- ticks |> 
-     mutate(year = case_when(year %in% c(1800,1850,1900,1950,2000) ~ 
-                               as.character(year),
-                                   TRUE ~ ""))
-   
+  
+  # Remove withdrawn vaccines
+  vax <- vax %>% filter(is.na(NA_reason))
+  
+  # Arrange by year
+  vax <- vax %>%
+    arrange(Year) 
+  
+  # Give vaccines an ID number - all vaccines for the same disease get the same ID
+  setDT(vax)[, id := .GRP, by = Name]
+  
+  vax <- as.tibble(vax)
+  
+  # Label first vaccine for each disease
+  vax$First <- +(!duplicated(vax$Name))
+  
+  
+  # Select colors
+  group.colors <- c(Bacteria = "#38AABA", 
+                    Virus = "#BC8E5A", 
+                    Parasite ="#970046")
+  
+  # Create breaks and labels to match original plot
+  ticks <- tibble(year = seq(1770, 2020, by=10))
+  tick_labs <- ticks |> 
+    mutate(year = case_when(year %in% c(1800,1850,1900,1950,2000) ~ 
+                              as.character(year),
+                            TRUE ~ ""))
+  
   output$plot <- renderPlotly({
     # Assume 'vax' is your data frame ready from the script above
     
@@ -104,7 +104,7 @@ server <- function(input, output) {
     
     # Convert ggplot object to plotly for interactivity
     ggplotly(p, tooltip="text") #%>% 
-      #layout(height="100%")
+    #layout(height="100%")
   })
 }
 
