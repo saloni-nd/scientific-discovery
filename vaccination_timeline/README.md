@@ -1,5 +1,7 @@
 This dataset shows when each vaccine was introduced for humans, for the first time.
 
+You can see an interactive version of the timeline [online](https://saloni-nd.shinyapps.io/vaccination_timeline/).
+
 ### Details
 
 - For each vaccine, I've tried to track down the year it was first made available, with a citation.
