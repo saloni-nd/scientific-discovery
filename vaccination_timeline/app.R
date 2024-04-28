@@ -26,11 +26,20 @@ ui <- fluidPage(
     )
   ),
   
-  # Plot
   fluidRow(
-    column(12,
-           plotlyOutput("plot")
-    )
+    #column(12,
+  # Create a box to control the height and with of the viewport
+  # Here the width is 50% of the page and 33% of the height.
+  div(style="width:50vw;height:33vh;padding-top:33%;position:absolute;",
+      # Create another box and fill it.
+      div(style="position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;",
+  # Plot 
+  plotlyOutput("plot", height = "100%", width = "100%")))
+    #)
   )
 )
 
@@ -62,6 +71,13 @@ server <- function(input, output) {
                      Virus = "#BC8E5A", 
                      Parasite ="#970046")
    
+   # Create breaks and labels to match original plot
+   ticks <- tibble(year = seq(1770, 2020, by=10))
+   tick_labs <- ticks |> 
+     mutate(year = case_when(year %in% c(1800,1850,1900,1950,2000) ~ 
+                               as.character(year),
+                                   TRUE ~ ""))
+   
   output$plot <- renderPlotly({
     # Assume 'vax' is your data frame ready from the script above
     
@@ -78,7 +94,7 @@ server <- function(input, output) {
                       size = 3) +
       scale_fill_manual(values=group.colors) +
       theme_classic() +
-      scale_x_continuous(breaks= seq(1770, 2020, by=10)) +
+      scale_x_continuous(breaks= ticks$year, labels = tick_labs$year) + # Change to match original plot
       theme(axis.text.y=element_blank(),
             axis.ticks.y=element_blank(),
             plot.title = element_text(size = 20)) +
@@ -87,7 +103,8 @@ server <- function(input, output) {
            x="", y="", caption="Source: Dattani (2023)")
     
     # Convert ggplot object to plotly for interactivity
-    ggplotly(p, tooltip="text")
+    ggplotly(p, tooltip="text") #%>% 
+      #layout(height="100%")
   })
 }
 
