@@ -18,7 +18,7 @@ group.colors <- c(Bacteria = "#38AABA", Virus = "#BC8E5A", Parasite = "#970046")
 
 # Create the plot using ggplot
 p <- ggplot(data=vax, aes(x=Year, y=id, label=Name)) +
-  geom_point(aes(fill=Organism, text=paste(Name, " vaccine", "<br>Year: ", Year, "<br>Target: ", Organism, "<br>Inventor: ", Inventor)), color="black", size=2.5, pch=21, stroke=0.3) +
+  geom_point(aes(fill=Organism, text=paste(Name, " vaccine", "<br>Year: ", Year, "<br>Target: ", Organism, "<br>Developer: ", Inventor)), color="black", size=2.5, pch=21, stroke=0.3) +
   scale_fill_manual(values=group.colors) +
   theme_classic() +
   scale_x_continuous(breaks=seq(1800,2020,by=10), labels = c(1800, rep("",4), 1850, rep("",4), 1900, rep("",4), 1950, rep("",4), 2000, rep("",2))) +
