@@ -1,0 +1,12 @@
+name: vaccination_timeline
+title:
+username: saloni-nd
+account: saloni-nd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11882713
+bundleId: 8551322
+url: https://saloni-nd.shinyapps.io/vaccination_timeline/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
