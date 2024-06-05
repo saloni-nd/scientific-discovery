@@ -2,7 +2,7 @@
 
 This folder contains links to data and scripts used to generate many of the charts I've produced for my blog, [Scientific Discovery](https://www.scientificdiscovery.dev/).
 
-I offer [rewards](https://www.scientificdiscovery.dev/about#§earn-a-reward-by-pointing-out-an-error-ive-made) for catching errors in my work. If you spot an error, get in touch here or by email: saloni@ourworldindata.org
+I offer [rewards](https://www.scientificdiscovery.dev/about#§earn-a-reward-by-pointing-out-an-error-ive-made) for catching errors in my work. If you spot an error, get in touch here or by email: saloni@scientificdiscovery.dev
 
 Feedback on how to improve this repo is appreciated as well :)
 
