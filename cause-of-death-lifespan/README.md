@@ -1,6 +1,6 @@
 This folder contains several scripts and charts to show causes of death across age groups, using data from the United States.
 
-The data can be found on the [CDC Wonder's database](https://wonder.cdc.gov/).
+The data can be found on the [CDC Wonder's database](https://wonder.cdc.gov/). See the CDC's data use restrictions [online](https://wonder.cdc.gov/DataUse.html).
 
 If you want to recreate the charts for other countries, I'd recommend checking out the [Human Mortality Database](https://mortality.org/Data/HCD), which compiles high-quality data on mortality and causes of death from a range of countries. 
 
