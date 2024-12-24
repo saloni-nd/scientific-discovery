@@ -26,9 +26,9 @@ vax$First <- +(!duplicated(vax$Name))
 
 
 # Select colors
-group.colors <- c(Bacteria = "#38AABA", 
-                  Virus = "#BC8E5A", 
-                  Parasite ="#970046")
+group.colors <- c(Bacteria = "#970046", 
+                  Virus = "#FFCFD2", 
+                  Parasite ="#38AABA")
 
 
 ggplot(data=vax, aes(x=Year,y=id, label=Name)) +
@@ -54,7 +54,7 @@ ggplot(data=vax, aes(x=Year,y=id, label=Name)) +
        y="",
        caption="Source: Dattani (2023)\nAvailable at: code.scientificdiscovery.dev",
        color="Target organism") +
-  coord_cartesian(xlim=c(1770,2023))
+  coord_cartesian(xlim=c(1770,2024))
   
 ggsave(paste0(file_path, "Vaccine_timeline.svg"),height=8,width=10)
 
