@@ -17,4 +17,10 @@ This hopefully covers most of them but is likely incomplete, and it was harder t
 
 ### Contact me about errors, revisions, or collaborating
 
-If you'd like to add to this dataset, or point out an error, get in touch here or by email (saloni@ourworldindata.org).
+If you'd like to add to this dataset, or point out an error, get in touch here or by email (saloni@scientificdiscovery.dev).
+
+### Update log
+
+2025-01-21: Added hepatitis E vaccine (2011)
+2024-05-09: Fixed pathogen for tick-borne encephalitis (bacteria -> virus)
+
