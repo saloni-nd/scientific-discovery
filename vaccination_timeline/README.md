@@ -21,6 +21,7 @@ If you'd like to add to this dataset, or point out an error, get in touch here o
 
 ### Update log
 
+- 2025-02-20: Added oral cholera vaccines (1991 and 2009)
 - 2025-01-21: Added hepatitis E vaccine (2011)
 - 2024-05-09: Fixed pathogen for tick-borne encephalitis (bacteria -> virus)
 
