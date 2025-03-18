@@ -21,6 +21,10 @@ If you'd like to add to this dataset, or point out an error, get in touch here o
 
 ### Update log
 
+- 2025-03-18: Added several combination vaccines: DTaP-Hib, HepA-HepB, DTaP-IPV, DTP-HepB-Hib-IPV, DTP-HepB-Hib, DTaP-IPV-HepB; added a column indicating whether a vaccine was a combination vaccine; removed combination vaccines from the plot
+- 2025-03-18: Added updated cholera vaccines (1991; 2009)
+- 2025-03-18: Renamed Hepatitis A, B, E as just Hepatitis in the Name column and specified the type in the Comment column
+- 2025-03-18: Renamed Ebola Zaire as Ebola in the Name column and specified Ebola Zaire in the Comment column
 - 2025-01-21: Added hepatitis E vaccine (2011)
 - 2024-05-09: Fixed pathogen for tick-borne encephalitis (bacteria -> virus)
 

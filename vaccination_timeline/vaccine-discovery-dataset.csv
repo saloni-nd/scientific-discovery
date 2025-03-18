@@ -1,96 +1,105 @@
-Name,Year,Organism,Inventor,Comments and citation,NA_reason
-Smallpox,1798,Virus,Edward Jenner,1796 was first test but findings were published 2 years later. 1800 - Dr. Benjamin Waterhouse gives the smallpox vaccine to his son and other family members. These smallpox vaccinations are the first in the U.S.,
-Rabies,1885,Virus,Louis Pasteur and Émile Roux,The first rabies vaccine was introduced in 1885 and was followed by an improved version in 1908.,
-Tetanus,1890,Bacteria,Emil von Behring,,
-Cholera,1892,Bacteria,Waldemar Haffkine,,
-Typhoid,1896,Bacteria,Almroth Wright or Richard Pfeiffer,,
-Rabies,1908,Virus,Claudio Fermi,,
-Diphtheria,1914,Bacteria,Emil von Behring or William Hallock Park,Mixtures of diphtheria toxin and antitoxin https://link.springer.com/chapter/10.1007/978-94-007-7624-1_1,
-Pertussis,1914,Bacteria,,Whole cell vaccine https://www.tandfonline.com/doi/full/10.4161/hv.29576,
-Diphtheria,1926,Bacteria,,Alum-precipitated diphtheria toxoid,
-Tuberculosis,1924,Bacteria,Albert Calmette and Camille Guérin,BCG began being mass-produced by the Pasteur Institute in France in 1924 - see https://www.maedica.ro/articles/2013/1/2013_Vol8(11)_No1_pg53-58.pdf and https://www.pasteur.fr/en/home/research-journal/news/bcg-vaccine-first-tuberculosis-vaccination-took-place-century-ago,
-Tetanus,1938,Bacteria,,Adsorbed tetanus toxoid https://www.futuremedicine.com/doi/10.2217/fmb-2021-0167,
-Yellow fever,1938,Virus,Max Theiler,,
-Pertussis,1939,Bacteria,"Pearl Kendrick, Grace Eldering, Loney Gordon",,
-Tick-borne encephalitis,1939,Virus,Soviet Union,First TBE vaccine based on Sofyin strain of the TBE virus prepared from infected mouse brain and inactivated with formalin. Date refers to date of trials as public availability isnt mentioned https://academic.oup.com/jhmas/advance-article/doi/10.1093/jhmas/jrad054/7264135,
-Anthrax,1940,Bacteria,Soviet Union,https://www.sciencedirect.com/science/article/pii/0264410X94902232,
-Influenza,1945,Virus,,Bivalent A and B vaccine available to general population in US https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5139605/,
-Influenza,1947,Virus,,H2N2 pandemic influenza,
-DTP,1948,Bacteria,"Pearl Kendrick, Loney Gordon, Grace Eldering",,
-Japanese encephalitis,1954,Virus,BIKEN Foundation,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7660131/,
-Anthrax,1954,Bacteria,,Accelular vaccine https://pubmed.ncbi.nlm.nih.gov/13212061/,
-Polio,1955,Virus,Jonas Salk,IPV,
-Polio,1960,Virus,Albert Sabin,OPV,
-Tick-borne encephalitis,1961,Virus,M.P. Chumakov Institute of Poliomyelitis & Viral Encephalitides in Soviet Union,Second TBE vaccine using cell cultures from chicken embryos. Date refers to date of trials as public availability isnt mentioned https://academic.oup.com/jhmas/advance-article/doi/10.1093/jhmas/jrad054/7264135 and https://siberes.ru/en/Six-Lectures/,
-Measles,1963,Virus,John Franklin Enders,,
-Mumps,1967,Virus,Maurice Hilleman,,
-Influenza,1968,Virus,,Trivalent inactivated vaccines,
-Rubella,1969,Virus,Stanley Plotkin - Wistar Institute,https://pubmed.ncbi.nlm.nih.gov/16998777/,
-Anthrax,1970,Bacteria,Bioport,Anthrax vaccine adsorbed (AVA) vaccine https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6147967/ https://www.federalregister.gov/documents/2005/02/02/05-2028/authorization-of-emergency-use-of-anthrax-vaccine-adsorbed-for-prevention-of-inhalation-anthrax-by,
-MMR,1971,Virus,Maurice Hilleman,,
-Meningitis,1973,Bacteria,,CSMa,
-Tick-borne encephalitis,1976,Virus,"James Keppie - Porton Down, Christian Kunz",https://academic.oup.com/jhmas/advance-article/doi/10.1093/jhmas/jrad054/7264135 and https://www.sciencedirect.com/science/article/pii/S0264410X02008149,
-Influenza,1977,Virus,,Subunit vaccine,
-Pneumococcal disease,1977,Bacteria,,Polysaccharide vaccine that targets 14 strains https://www.cdc.gov/vaccines/pubs/pinkbook/pneumo.html,
-Meningitis,1978,Bacteria,,A and C https://www.nejm.org/doi/full/10.1056/nejmp2029466,
-Anthrax,1979,Bacteria,Harry Smith,Anthrax vaccine precipitated (AVP) vaccine https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6147967/,
-Adenovirus,1975,Virus,,Adenovirus types 4 and 7 oral https://www.nejm.org/doi/full/10.1056/nejmp2029466 Adenovirus vaccine is only available for United States military personnel.  There is currently no adenovirus vaccine available to the general public. https://www.cdc.gov/vaccines/hcp/vis/vis-statements/adenovirus.html,Not publicly available
-Rabies,1980,Virus,"Ernst Kuwert, Hilary Koprowski et al.",Human diploid cell vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466 and https://pubmed.ncbi.nlm.nih.gov/1031689/,
-Meningitis,1981,Bacteria,,Quadrivalent ACWY https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6733771/ and https://www.sciencedirect.com/science/article/pii/S1369848617301735,
-Hepatitis B,1981,Virus,,Plasma-derived surface antigen https://www.cdc.gov/vaccines/pubs/pinkbook/hepb.html,
-Pneumococcal disease,1983,Bacteria,Merck,Pneumovax23 (23 valent),
-Haemophilus influenzae b,1985,Bacteria,,polysaccharide https://www.nejm.org/doi/full/10.1056/nejmp2029466,
-Hepatitis B,1986,Virus,,Recombinant surface antigen https://www.nejm.org/doi/full/10.1056/nejmp2029466,
-Varicella,1986,Virus,,First approved in Japan https://academic.oup.com/jid/article/197/Supplement_2/S185/845728,
-Haemophilus influenzae b,1987,Bacteria,,Conjugate vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,
-Typhoid,1989,Bacteria,,Ty21a oral vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,
-Cholera,1991,Bacteria,,Dukoral oral vaccine https://pmc.ncbi.nlm.nih.gov/articles/PMC8687080/,
-DTaP,1991,Bacteria,,Diphtheria tetanus acellular pertussis,
-Pertussis,1991,Bacteria,,Acellular vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,
-Japanese encephalitis,1992,Virus,,Mouse brain vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,
-Hepatitis A,1991,Virus,,Havrix vaccine,
-Hepatitis A,1995,Virus,Maurice Hilleman,Vaqta vaccine https://www.cdc.gov/vaccines/pubs/pinkbook/hepa.html,
-Rabies,1997,Virus,,Chick embryo cell vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,
-Rotavirus*,1998,Virus,,Tetravalent. Withdrawn in 1999,Withdrawal
-Lyme*,1998,Bacteria,,OspA vaccine https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2870557/,Withdrawal
-Meningitis,1999,Bacteria,,Meningitis C,
-Pneumococcal disease,2000,Bacteria,,Pneumococcal conjugate vaccine,
-Hepatitis A,2001,Virus,,,
-Influenza,2003,Virus,Hunein F. Maassab and Martin L. Bryant,Intranasally administered live attenuated vaccine called FluMist https://pubmed.ncbi.nlm.nih.gov/10578119/,
-Meningitis,2005,Bacteria,,Quadrivalent diphtheria toxoid conjugate - ACWY -Menactra https://www.cdc.gov/vaccinesafety/vaccines/meningococcal-vaccine.html,
-Rotavirus,2006,Virus,"H Fred Clark, Stanley Plotkin et al. - GSK",Pentavalent Rotarix https://academic.oup.com/cid/article/48/2/222/305770,
-Rotavirus,2006,Virus,Merck,Pentavalent RotaTeq https://www.nature.com/articles/pr19871021,
-Human papillomavirus,2006,Virus,Ian Frazer and Jian Zhou - Merck,Gardasil,
-Zoster,2006,Virus,Merck,Zostavax,
-Influenza,2007,Virus,,A/H5N1 vaccine? in response to 2003-04 flu season in Asia,
-Rotavirus,2008,Virus,,Monovalent,
-Influenza,2009,Virus,,Swine flu pandemic influenza,
-Cholera,2009,Bacteria,,Shanchol or Euvichol https://pmc.ncbi.nlm.nih.gov/articles/PMC8687080/,
-Japanese encephalitis,2009,Virus,,Vero cell vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,
-Pneumococcal disease,2010,Bacteria,,13 valent conjugate https://www.nejm.org/doi/full/10.1056/nejmp2029466,
-Meningitis,2010,Bacteria,,Quadrivalent conjugate vaccine Menveo ACWY https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5909a5.htm,
-Hepatitis E,2011,Virus,Xiamen Innovax Biotech,Hecolin; first approved in China and then recommended by WHO https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/hepatitis-e-vaccines,
-Influenza,2012,Virus,,Cell based https://www.nejm.org/doi/full/10.1056/nejmp2029466,
-Influenza,2013,Virus,,Meningitis B Baculovirus https://www.nejm.org/doi/full/10.1056/nejmp2029466,
-Meningitis,2013,Bacteria,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6477034/,
-Influenza,2014,Virus,,Intradermal https://www.nejm.org/doi/full/10.1056/nejmp2029466,
-Human papillomavirus,2014,Virus,Merck,Gardasil-9,
-Influenza,2015,Virus,,MF59 adjuvant vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,
-Dengue,2016,Virus,,Dengvaxia became commercially available in 2016 first in 20 countries; approved in EU and US in 2018 and 2019 respectively,
-Cholera,2016,Bacteria,,Serogroup O1 oral,
-Hepatitis B,2017,Virus,,Heplisav-B vaccine,
-Zoster,2017,Virus,GSK,Shingrix,
-Ebola Zaire,2019,Virus,,https://www.who.int/news-room/questions-and-answers/item/ebola-vaccines,
-Mpox,2019,Virus,,Smallpox and monkeypox https://www.fda.gov/news-events/press-announcements/monkeypox-update-fda-authorizes-emergency-use-jynneos-vaccine-increase-vaccine-supply,
-Ebola Zaire,2020,Virus,J&J,rVSV platform Ad26.ZEBOV and MVA-BN-Filo https://johnsonandjohnson.gcs-web.com/static-files/1c979f4f-cad3-4f8b-9a22-69aaac503570,
-Covid-19,2020,Virus,Oxford-Astrazeneca; Pfizer-BioNTech; Moderna,,
-Malaria,2021,Parasite,GSK,"RTS,S",
-Polio,2021,Virus,,nOPV serotype 2,
-Covid-19,2021,Virus,Janssen; Novavax,,
-Covid-19,2022,Virus,Sanofi-GSK,,
-Dengue,2022,Virus,Takeda,Qdenga live attenuated vaccine,
-Malaria,2023,Parasite,,R21/Matrix-M,
-Respiratory syncytial virus,2023,Virus,GSK,Arexvy https://www.fda.gov/news-events/press-announcements/fda-approves-first-respiratory-syncytial-virus-rsv-vaccine,
-Respiratory syncytial virus,2023,Virus,Pfizer,ABRYSVO https://www.pfizer.com/news/press-release/press-release-detail/us-fda-approves-abrysvotm-pfizers-vaccine-prevention,
-Chikungunya,2023,Virus,Valneva,Ixchiq https://www.fda.gov/news-events/press-announcements/fda-approves-first-vaccine-prevent-disease-caused-chikungunya-virus,
-Chikungunya,2025,Virus,Bavarian Nordic,Vimkunya https://www.ema.europa.eu/en/medicines/human/EPAR/vimkunya,
+Name,Year,Organism,Inventor,Comments_and_citation,NA_reason,Combination_vaccine
+Smallpox,1798,Virus,Edward Jenner,1796 was first test but findings were published 2 years later. 1800 - Dr. Benjamin Waterhouse gives the smallpox vaccine to his son and other family members. These smallpox vaccinations are the first in the U.S.,,NO
+Rabies,1885,Virus,Louis Pasteur and Émile Roux,The first rabies vaccine was introduced in 1885 and was followed by an improved version in 1908.,,NO
+Tetanus,1890,Bacteria,Emil von Behring,,,NO
+Cholera,1892,Bacteria,Waldemar Haffkine,,,NO
+Typhoid,1896,Bacteria,Almroth Wright or Richard Pfeiffer,,,NO
+Rabies,1908,Virus,Claudio Fermi,,,NO
+Diphtheria,1914,Bacteria,Emil von Behring or William Hallock Park,Mixtures of diphtheria toxin and antitoxin https://link.springer.com/chapter/10.1007/978-94-007-7624-1_1,,NO
+Pertussis,1914,Bacteria,,Whole cell vaccine https://www.tandfonline.com/doi/full/10.4161/hv.29576,,NO
+Tuberculosis,1924,Bacteria,Albert Calmette and Camille Guérin,BCG began being mass-produced by the Pasteur Institute in France in 1924 - see https://www.maedica.ro/articles/2013/1/2013_Vol8(11)_No1_pg53-58.pdf and https://www.pasteur.fr/en/home/research-journal/news/bcg-vaccine-first-tuberculosis-vaccination-took-place-century-ago,,NO
+Diphtheria,1926,Bacteria,,Alum-precipitated diphtheria toxoid,,NO
+Tetanus,1938,Bacteria,,Adsorbed tetanus toxoid https://www.futuremedicine.com/doi/10.2217/fmb-2021-0167,,NO
+Yellow fever,1938,Virus,Max Theiler,,,NO
+Pertussis,1939,Bacteria,"Pearl Kendrick, Grace Eldering, Loney Gordon",,,NO
+Tick-borne encephalitis,1939,Virus,Soviet Union,First TBE vaccine based on Sofyin strain of the TBE virus prepared from infected mouse brain and inactivated with formalin. Date refers to date of trials as public availability isnt mentioned https://academic.oup.com/jhmas/advance-article/doi/10.1093/jhmas/jrad054/7264135,,NO
+Anthrax,1940,Bacteria,Soviet Union,https://www.sciencedirect.com/science/article/pii/0264410X94902232,,NO
+Influenza,1945,Virus,,Bivalent A and B vaccine available to general population in US https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5139605/,,NO
+Influenza,1947,Virus,,H2N2 pandemic influenza,,NO
+DTP,1948,Bacteria,"Pearl Kendrick, Loney Gordon, Grace Eldering",,,YES
+Japanese encephalitis,1954,Virus,BIKEN Foundation,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7660131/,,NO
+Anthrax,1954,Bacteria,,Accelular vaccine https://pubmed.ncbi.nlm.nih.gov/13212061/,,NO
+Polio,1955,Virus,Jonas Salk,IPV,,NO
+Polio,1960,Virus,Albert Sabin,OPV,,NO
+Tick-borne encephalitis,1961,Virus,M.P. Chumakov Institute of Poliomyelitis & Viral Encephalitides in Soviet Union,Second TBE vaccine using cell cultures from chicken embryos. Date refers to date of trials as public availability isnt mentioned https://academic.oup.com/jhmas/advance-article/doi/10.1093/jhmas/jrad054/7264135 and https://siberes.ru/en/Six-Lectures/,,NO
+Measles,1963,Virus,John Franklin Enders,,,NO
+Mumps,1967,Virus,Maurice Hilleman,,,NO
+Influenza,1968,Virus,,Trivalent inactivated vaccines,,NO
+Rubella,1969,Virus,Stanley Plotkin - Wistar Institute,https://pubmed.ncbi.nlm.nih.gov/16998777/,,NO
+Anthrax,1970,Bacteria,Bioport,Anthrax vaccine adsorbed (AVA) vaccine https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6147967/ https://www.federalregister.gov/documents/2005/02/02/05-2028/authorization-of-emergency-use-of-anthrax-vaccine-adsorbed-for-prevention-of-inhalation-anthrax-by,,NO
+MMR,1971,Virus,Maurice Hilleman,,,YES
+Meningitis,1973,Bacteria,,CSMa,,NO
+Adenovirus,1975,Virus,,Adenovirus types 4 and 7 oral https://www.nejm.org/doi/full/10.1056/nejmp2029466 Adenovirus vaccine is only available for United States military personnel.  There is currently no adenovirus vaccine available to the general public. https://www.cdc.gov/vaccines/hcp/vis/vis-statements/adenovirus.html,Not publicly available,NO
+Tick-borne encephalitis,1976,Virus,"James Keppie - Porton Down, Christian Kunz",https://academic.oup.com/jhmas/advance-article/doi/10.1093/jhmas/jrad054/7264135 and https://www.sciencedirect.com/science/article/pii/S0264410X02008149,,NO
+Influenza,1977,Virus,,Subunit vaccine,,NO
+Pneumococcal disease,1977,Bacteria,,Polysaccharide vaccine that targets 14 strains https://www.cdc.gov/vaccines/pubs/pinkbook/pneumo.html,,NO
+Meningitis,1978,Bacteria,,A and C https://www.nejm.org/doi/full/10.1056/nejmp2029466,,NO
+Anthrax,1979,Bacteria,Harry Smith,Anthrax vaccine precipitated (AVP) vaccine https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6147967/,,NO
+Rabies,1980,Virus,"Ernst Kuwert, Hilary Koprowski et al.",Human diploid cell vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466 and https://pubmed.ncbi.nlm.nih.gov/1031689/,,NO
+Meningitis,1981,Bacteria,,Quadrivalent ACWY https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6733771/ and https://www.sciencedirect.com/science/article/pii/S1369848617301735,,NO
+Hepatitis,1981,Virus,,Hepatitis B. Plasma-derived surface antigen https://www.cdc.gov/vaccines/pubs/pinkbook/hepb.html,,NO
+Pneumococcal disease,1983,Bacteria,Merck,Pneumovax23 (23 valent),,NO
+Haemophilus influenzae b,1985,Bacteria,,polysaccharide https://www.nejm.org/doi/full/10.1056/nejmp2029466,,NO
+Hepatitis,1986,Virus,,Hepatitis B. Recombinant surface antigen https://www.nejm.org/doi/full/10.1056/nejmp2029466,,NO
+Varicella,1986,Virus,,First approved in Japan https://academic.oup.com/jid/article/197/Supplement_2/S185/845728,,NO
+Haemophilus influenzae b,1987,Bacteria,,Conjugate vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,,NO
+Typhoid,1989,Bacteria,,Ty21a oral vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,,NO
+Cholera,1991,Bacteria,,Dukoral oral vaccine https://pmc.ncbi.nlm.nih.gov/articles/PMC8687080/,,NO
+DTaP,1991,Bacteria,,Diphtheria tetanus acellular pertussis,,YES
+Pertussis,1991,Bacteria,,Acellular vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,,NO
+Hepatitis,1991,Virus,,Hepatitis A. Havrix vaccine,,NO
+Japanese encephalitis,1992,Virus,,Mouse brain vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,,NO
+Hepatitis,1995,Virus,Maurice Hilleman,Hepatitis A. Vaqta vaccine https://www.cdc.gov/vaccines/pubs/pinkbook/hepa.html,,NO
+DTaP-Hib,1996,Bacteria,Multiple,Combines DTP and Haemophilus influenzae type b (Hib). https://www.cdc.gov/mmwr/preview/mmwrhtml/00044501.htm,,YES
+HepA-HepB,1996,Virus,GlaxoSmithKline,First introduced in Belgium in 1996. Combines Hepatitis A and Hepatitis B vaccines. https://www.ema.europa.eu/en/medicines/human/EPAR/twinrix-adult,,YES
+Rabies,1997,Virus,,Chick embryo cell vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,,NO
+DTaP-IPV,1997,Combination,Multiple,"First licensed in Denmark in 1997. Combines Diphtheria, Tetanus, Pertussis, and Polio. https://doi.org/10.1016/j.vaccine.2013.08.034",,YES
+Rotavirus*,1998,Virus,,Tetravalent. Withdrawn in 1999,Withdrawal,NO
+Lyme*,1998,Bacteria,,OspA vaccine https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2870557/,Withdrawal,NO
+Meningitis,1999,Bacteria,,Meningitis C,,NO
+Pneumococcal disease,2000,Bacteria,,Pneumococcal conjugate vaccine,,NO
+DTP-HepB-Hib-IPV,2000,Combination,Multiple,"Combines DTP, Hepatitis B, Hib, and Inactivated Polio Vaccine (IPV). https://www.ema.europa.eu/en/medicines/human/EPAR/infanrix-hexa",,YES
+Hepatitis,2001,Virus,,,,NO
+DTP-HepB-Hib,2001,Combination,Multiple,"First introduced in 2001 in low-income countries through Gavi. Combines DTP, Hepatitis B, and Haemophilus influenzae type b (Hib). https://www.gavi.org/news/media-room/5-1-vaccine-now-all-73-poorest-countries",,YES
+Tdap-IPV,2001,Combination,Multiple,"First introduced in Europe - booster vaccine for adolescents and adults combining Tetanus, reduced-dose Diphtheria, Pertussis, and Polio. https://doi.org/10.1016/j.vaccine.2012.12.081",,YES
+DTaP-IPV-HepB,2002,Combination,GlaxoSmithKline,"First introduced in the U.S. in 2002. Combines DTP, Polio, and Hepatitis B. https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5210a8.htm",,YES
+Influenza,2003,Virus,Hunein F. Maassab and Martin L. Bryant,Intranasally administered live attenuated vaccine called FluMist https://pubmed.ncbi.nlm.nih.gov/10578119/,,NO
+Meningitis,2005,Bacteria,,Quadrivalent diphtheria toxoid conjugate - ACWY -Menactra https://www.cdc.gov/vaccinesafety/vaccines/meningococcal-vaccine.html,,NO
+MenACWY,2005,Bacteria,Multiple,"Meningococcal conjugate vaccine covering four strains (A, C, W, Y). https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5407a1.htm",,YES
+MMRV,2005,Virus,Merck,Combines MMR with varicella (chickenpox) to reduce separate vaccinations. https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5903a1.htm,,YES
+Rotavirus,2006,Virus,"H Fred Clark, Stanley Plotkin et al. - GSK",Pentavalent Rotarix https://academic.oup.com/cid/article/48/2/222/305770,,NO
+Rotavirus,2006,Virus,Merck,Pentavalent RotaTeq https://www.nature.com/articles/pr19871021,,NO
+Human papillomavirus,2006,Virus,Ian Frazer and Jian Zhou - Merck,Gardasil,,NO
+Zoster,2006,Virus,Merck,Zostavax,,NO
+Influenza,2007,Virus,,A/H5N1 vaccine? in response to 2003-04 flu season in Asia,,NO
+Rotavirus,2008,Virus,,Monovalent,,NO
+Influenza,2009,Virus,,Swine flu pandemic influenza,,NO
+Cholera,2009,Bacteria,,Shanchol or Euvichol https://pmc.ncbi.nlm.nih.gov/articles/PMC8687080/,,NO
+Japanese encephalitis,2009,Virus,,Vero cell vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,,NO
+Pneumococcal disease,2010,Bacteria,,13 valent conjugate https://www.nejm.org/doi/full/10.1056/nejmp2029466,,NO
+Meningitis,2010,Bacteria,,Quadrivalent conjugate vaccine Menveo ACWY https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5909a5.htm,,NO
+Hepatitis,2011,Virus,Xiamen Innovax Biotech,Hepatitis E. Hecolin; first approved in China and then recommended by WHO https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/hepatitis-e-vaccines,,NO
+Influenza,2012,Virus,,Cell based https://www.nejm.org/doi/full/10.1056/nejmp2029466,,NO
+Influenza,2013,Virus,,Meningitis B Baculovirus https://www.nejm.org/doi/full/10.1056/nejmp2029466,,NO
+Meningitis,2013,Bacteria,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6477034/,,NO
+Influenza,2014,Virus,,Intradermal https://www.nejm.org/doi/full/10.1056/nejmp2029466,,NO
+Human papillomavirus,2014,Virus,Merck,Gardasil-9,,NO
+Influenza,2015,Virus,,MF59 adjuvant vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,,NO
+Dengue,2016,Virus,,Dengvaxia became commercially available in 2016 first in 20 countries; approved in EU and US in 2018 and 2019 respectively,,NO
+Cholera,2016,Bacteria,,Serogroup O1 oral,,NO
+Hepatitis,2017,Virus,,Hepatitis B. Heplisav-B vaccine,,NO
+Zoster,2017,Virus,GSK,Shingrix,,NO
+Ebola,2019,Virus,,Ebola Zaire. https://www.who.int/news-room/questions-and-answers/item/ebola-vaccines,,NO
+Mpox,2019,Virus,,Smallpox and monkeypox https://www.fda.gov/news-events/press-announcements/monkeypox-update-fda-authorizes-emergency-use-jynneos-vaccine-increase-vaccine-supply,,NO
+Ebola,2020,Virus,J&J,Ebola Zaire. rVSV platform Ad26.ZEBOV and MVA-BN-Filo https://johnsonandjohnson.gcs-web.com/static-files/1c979f4f-cad3-4f8b-9a22-69aaac503570,,NO
+Covid-19,2020,Virus,Oxford-Astrazeneca; Pfizer-BioNTech; Moderna,,,NO
+Malaria,2021,Parasite,GSK,"RTS,S",,NO
+Polio,2021,Virus,,nOPV serotype 2,,NO
+Covid-19,2021,Virus,Janssen; Novavax,,,NO
+Covid-19,2022,Virus,Sanofi-GSK,,,NO
+Dengue,2022,Virus,Takeda,Qdenga live attenuated vaccine,,NO
+Malaria,2023,Parasite,,R21/Matrix-M,,NO
+Respiratory syncytial virus,2023,Virus,GSK,Arexvy https://www.fda.gov/news-events/press-announcements/fda-approves-first-respiratory-syncytial-virus-rsv-vaccine,,NO
+Respiratory syncytial virus,2023,Virus,Pfizer,ABRYSVO https://www.pfizer.com/news/press-release/press-release-detail/us-fda-approves-abrysvotm-pfizers-vaccine-prevention,,NO
+Chikungunya,2023,Virus,Valneva,Ixchiq https://www.fda.gov/news-events/press-announcements/fda-approves-first-vaccine-prevent-disease-caused-chikungunya-virus,,NO
+Chikungunya,2025,Virus,Bavarian Nordic,Vimkunya https://www.ema.europa.eu/en/medicines/human/EPAR/vimkunya,,NO
