@@ -70,7 +70,7 @@ MMRV,2005,Virus,Merck,Combines MMR with varicella (chickenpox) to reduce separat
 Rotavirus,2006,Virus,"H Fred Clark, Stanley Plotkin et al. - GSK",Pentavalent Rotarix https://academic.oup.com/cid/article/48/2/222/305770,,NO
 Rotavirus,2006,Virus,Merck,Pentavalent RotaTeq https://www.nature.com/articles/pr19871021,,NO
 Human papillomavirus,2006,Virus,Ian Frazer and Jian Zhou - Merck,Gardasil,,NO
-Zoster,2006,Virus,Merck,Zostavax,,NO
+Varicella,2006,Virus,Merck,Zostavax,,NO
 Influenza,2007,Virus,,A/H5N1 vaccine? in response to 2003-04 flu season in Asia,,NO
 Rotavirus,2008,Virus,,Monovalent,,NO
 Influenza,2009,Virus,,Swine flu pandemic influenza,,NO
@@ -88,7 +88,7 @@ Influenza,2015,Virus,,MF59 adjuvant vaccine https://www.nejm.org/doi/full/10.105
 Dengue,2016,Virus,,Dengvaxia became commercially available in 2016 first in 20 countries; approved in EU and US in 2018 and 2019 respectively,,NO
 Cholera,2016,Bacteria,,Serogroup O1 oral,,NO
 Hepatitis,2017,Virus,,Hepatitis B. Heplisav-B vaccine,,NO
-Zoster,2017,Virus,GSK,Shingrix,,NO
+Varicella,2017,Virus,GSK,Shingles - Shingrix,,NO
 Ebola,2019,Virus,,Ebola Zaire. https://www.who.int/news-room/questions-and-answers/item/ebola-vaccines,,NO
 Mpox,2019,Virus,,Smallpox and monkeypox https://www.fda.gov/news-events/press-announcements/monkeypox-update-fda-authorizes-emergency-use-jynneos-vaccine-increase-vaccine-supply,,NO
 Ebola,2020,Virus,J&J,Ebola Zaire. rVSV platform Ad26.ZEBOV and MVA-BN-Filo https://johnsonandjohnson.gcs-web.com/static-files/1c979f4f-cad3-4f8b-9a22-69aaac503570,,NO
