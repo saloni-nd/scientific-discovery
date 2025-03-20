@@ -21,6 +21,8 @@ If you'd like to add to this dataset, or point out an error, get in touch here o
 
 ### Update log
 
+- 2025-03-20: Added Serotype_strain column
+- 2025-03-20: Added vaccines: Hantavirus, Q fever, Argentinian haemorrhagic fever, Plague
 - 2025-03-19: Renamed Zoster as Varicella in the Name column and specified that it was for shingles in the Comment column
 - 2025-03-18: Added several combination vaccines: DTaP-Hib, HepA-HepB, DTaP-IPV, DTP-HepB-Hib-IPV, DTP-HepB-Hib, DTaP-IPV-HepB; added a column indicating whether a vaccine was a combination vaccine; removed combination vaccines from the plot
 - 2025-03-18: Renamed Hepatitis A, B, E as just Hepatitis in the Name column and specified the type in the Comment column
