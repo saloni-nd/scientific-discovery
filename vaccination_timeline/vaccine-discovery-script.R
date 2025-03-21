@@ -13,7 +13,7 @@ vax <- read_csv(paste0(file_path, "vaccine-discovery-dataset.csv"), skip = 0)
 vax <- vax %>% 
           filter(is.na(NA_reason)) %>%
   # Remove combination vaccines
-          filter(Combination_vaccine == "NO")
+          filter(Combination_vaccine != "TRUE")
 
 # Arrange by year
 vax <- vax %>%

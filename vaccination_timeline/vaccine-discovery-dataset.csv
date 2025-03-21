@@ -1,121 +1,180 @@
-Name,Year,Organism,Inventor,Serotype_strain,Comments_and_citation,NA_reason,Combination_vaccine
-Smallpox,1798,Virus,Edward Jenner,,1796 was first test but findings were published 2 years later. 1800 - Dr. Benjamin Waterhouse gives the smallpox vaccine to his son and other family members. These smallpox vaccinations are the first in the U.S.,,FALSE
-Rabies,1885,Virus,Louis Pasteur and Émile Roux,,The first rabies vaccine was introduced in 1885 and was followed by an improved version in 1908.,,FALSE
-Tetanus,1890,Bacteria,Emil von Behring,,,,FALSE
-Cholera,1892,Bacteria,Waldemar Haffkine,,,,FALSE
-Typhoid,1896,Bacteria,Almroth Wright or Richard Pfeiffer,,,,FALSE
-Plague,1897,Bacteria,Waldemar Haffkine,,https://pmc.ncbi.nlm.nih.gov/articles/PMC6559729/,,FALSE
-Rabies,1908,Virus,Claudio Fermi,,,,FALSE
-Diphtheria,1914,Bacteria,Emil von Behring or William Hallock Park,,Mixtures of diphtheria toxin and antitoxin https://link.springer.com/chapter/10.1007/978-94-007-7624-1_1,,FALSE
-Pertussis,1914,Bacteria,,,Whole cell vaccine https://www.tandfonline.com/doi/full/10.4161/hv.29576,,FALSE
-Tuberculosis,1924,Bacteria,Albert Calmette and Camille Guérin,,BCG began being mass-produced by the Pasteur Institute in France in 1924 - see https://www.maedica.ro/articles/2013/1/2013_Vol8(11)_No1_pg53-58.pdf and https://www.pasteur.fr/en/home/research-journal/news/bcg-vaccine-first-tuberculosis-vaccination-took-place-century-ago,,FALSE
-Diphtheria,1926,Bacteria,,,Alum-precipitated diphtheria toxoid,,FALSE
-Tetanus,1938,Bacteria,,,Adsorbed tetanus toxoid https://www.futuremedicine.com/doi/10.2217/fmb-2021-0167,,FALSE
-Yellow fever,1938,Virus,Max Theiler,,,,FALSE
-Pertussis,1939,Bacteria,"Pearl Kendrick, Grace Eldering, Loney Gordon",,,,FALSE
-Tick-borne encephalitis,1939,Virus,Soviet Union,,First TBE vaccine based on Sofyin strain of the TBE virus prepared from infected mouse brain and inactivated with formalin. Date refers to date of trials as public availability isnt mentioned https://academic.oup.com/jhmas/advance-article/doi/10.1093/jhmas/jrad054/7264135,,FALSE
-Anthrax,1940,Bacteria,Soviet Union,,https://www.sciencedirect.com/science/article/pii/0264410X94902232,,FALSE
-Influenza,1945,Virus,,A and B,Bivalent A and B vaccine available to general population in US https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5139605/,,FALSE
-Influenza,1947,Virus,,A H2N2,H2N2 pandemic influenza,,FALSE
-DTP,1948,Bacteria,"Pearl Kendrick, Loney Gordon, Grace Eldering",,,,TRUE
-Typhoid,1952,Bacteria,Wyeth,,https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6411a4.htm,,FALSE
-Yellow fever,1953,Virus,Merell National Labs,,https://www.ncbi.nlm.nih.gov/books/NBK236434/,,FALSE
-Japanese encephalitis,1954,Virus,BIKEN Foundation,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7660131/,,FALSE
-Anthrax,1954,Bacteria,,,Accelular vaccine https://pubmed.ncbi.nlm.nih.gov/13212061/,,FALSE
-Polio,1955,Virus,Jonas Salk,,Inactivated polio vaccine,,FALSE
-Polio,1960,Virus,Albert Sabin,,Oral polio vaccine,,FALSE
-Tick-borne encephalitis,1961,Virus,M.P. Chumakov Institute of Poliomyelitis & Viral Encephalitides in Soviet Union,,Second TBE vaccine using cell cultures from chicken embryos. Date refers to date of trials as public availability isnt mentioned https://academic.oup.com/jhmas/advance-article/doi/10.1093/jhmas/jrad054/7264135 and https://siberes.ru/en/Six-Lectures/,,FALSE
-Measles,1963,Virus,John Franklin Enders,,,,FALSE
-Measles,1963,Virus,Pfizer,,Inactivated measles vaccine; later withdrawn,Withdrawal,FALSE
-Polio,1963,Virus,Sabin,Trivalent,Trivalent oral polio vaccine https://www.ncbi.nlm.nih.gov/books/NBK236434/,,FALSE
-Measles,1965,Virus,Pitman Moore-Dow,,Live further attenuated measles vaccine,,FALSE
-Mumps,1967,Virus,Maurice Hilleman,,Jeryl Lynn strain,,FALSE
-Measles,1968,Virus,Merck,,Attenuvax from Moraten strain ,,FALSE
-Influenza,1968,Virus,,,Trivalent inactivated vaccines,,FALSE
-Rubella,1969,Virus,Stanley Plotkin; Merck,HPV-77,https://pubmed.ncbi.nlm.nih.gov/16998777/,,FALSE
-Rubella,1969,Virus,Parke-Davis,HPV-77,https://stacks.cdc.gov/view/cdc/78725/cdc_78725_DS1.pdf,,FALSE
-Rubella,1969,Virus,RIT-SKF; Dow,Cendehill,https://stacks.cdc.gov/view/cdc/78725/cdc_78725_DS1.pdf,,FALSE
-Anthrax,1970,Bacteria,Bioport,,Anthrax vaccine adsorbed (AVA) vaccine https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6147967/ https://www.federalregister.gov/documents/2005/02/02/05-2028/authorization-of-emergency-use-of-anthrax-vaccine-adsorbed-for-prevention-of-inhalation-anthrax-by,,FALSE
-Measles-Rubella,1971,Virus,Merck,,M-R-Vax https://link.springer.com/chapter/10.1007/978-1-4419-1339-5_23,,TRUE
-MMR,1971,Virus,Maurice Hilleman,,https://link.springer.com/chapter/10.1007/978-1-4419-1339-5_23,,TRUE
-Measles-Mumps,1973,Virus,Merck,,MM-Vax https://link.springer.com/chapter/10.1007/978-1-4419-1339-5_23,,TRUE
-Meningococcal disease,1974,Bacteria,Merck,,https://acvip.org/parents/columns/qa-meningococcal.php https://downloads.regulations.gov/FDA-2012-N-1037-0013/attachment_80.pdf,,FALSE
-Adenovirus,1975,Virus,,Type 4 and 7,Adenovirus types 4 and 7 oral https://www.nejm.org/doi/full/10.1056/nejmp2029466 Adenovirus vaccine is only available for United States military personnel.  There is currently no adenovirus vaccine available to the general public. https://www.cdc.gov/vaccines/hcp/vis/vis-statements/adenovirus.html,Not publicly available,FALSE
-Tick-borne encephalitis,1976,Virus,James Keppie - Porton Down; Christian Kunz,,https://academic.oup.com/jhmas/advance-article/doi/10.1093/jhmas/jrad054/7264135 and https://www.sciencedirect.com/science/article/pii/S0264410X02008149,,FALSE
-Influenza,1977,Virus,,,Subunit vaccine,,FALSE
-Pneumococcal disease,1977,Bacteria,,14 valent,Polysaccharide vaccine that targets 14 strains https://www.cdc.gov/vaccines/pubs/pinkbook/pneumo.html,,FALSE
-Meningococcal disease,1978,Bacteria,Sanofi Pasteur,4 valent (ACWY),MPSV4: ACWY https://acvip.org/parents/columns/qa-meningococcal.php,,FALSE
-Anthrax,1979,Bacteria,Harry Smith,,Anthrax vaccine precipitated (AVP) vaccine https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6147967/,,FALSE
-Rabies,1980,Virus,"Ernst Kuwert, Hilary Koprowski et al.",,Human diploid cell vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466 and https://pubmed.ncbi.nlm.nih.gov/1031689/,,FALSE
-Meningococcal disease,1981,Bacteria,,4 valent (ACWY),Quadrivalent ACWY https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6733771/ and https://www.sciencedirect.com/science/article/pii/S1369848617301735,,FALSE
-Hepatitis,1981,Virus,,HepB,Hepatitis B. Plasma-derived surface antigen https://www.cdc.gov/vaccines/pubs/pinkbook/hepb.html,,FALSE
-Pneumococcal disease,1983,Bacteria,Merck,23 valent,Pneumovax23 (23 valent) https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-17-pneumococcal-disease.htmlCDC_AAref_Val=https://www.cdc.gov/vaccines/pubs/pinkbook/pneumo.html,,FALSE
-Haemophilus influenzae b,1985,Bacteria,,,polysaccharide https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
-Hepatitis,1986,Virus,,HepB,Hepatitis B. Recombinant surface antigen https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
-Varicella,1986,Virus,,,Chickenpox. First approved in Japan https://academic.oup.com/jid/article/197/Supplement_2/S185/845728,,FALSE
-Haemophilus influenzae b,1987,Bacteria,,,Conjugate vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
-Q fever,1989,Bacteria,,,Q-VAX https://www.health.vic.gov.au/immunisation/q-fever-vaccination,,FALSE
-Typhoid,1989,Bacteria,,,Ty21a oral vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
-Hantavirus,1990,Virus,Ho Wang Lee,,https://pmc.ncbi.nlm.nih.gov/articles/PMC3323375/,,FALSE
-Cholera,1991,Bacteria,,,Dukoral oral vaccine https://pmc.ncbi.nlm.nih.gov/articles/PMC8687080/,,FALSE
-DTaP,1991,Bacteria,,,Diphtheria tetanus acellular pertussis,,TRUE
-Pertussis,1991,Bacteria,,,Acellular vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
-Hepatitis,1991,Virus,,HepA,Hepatitis A. Havrix vaccine,,FALSE
-Argentine hemorrhagic fever,1991,Virus,,Junin virus,https://www.sciencedirect.com/science/article/pii/S1201971221001326,,FALSE
-Japanese encephalitis,1992,Virus,,,Mouse brain vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
-Hepatitis,1995,Virus,Maurice Hilleman,HepA,Hepatitis A. Vaqta vaccine https://www.cdc.gov/vaccines/pubs/pinkbook/hepa.html,,FALSE
-Varicella,1995,Virus,Merck,Chickenpox,Chickenpox. Varivax,,FALSE
-DTaP-Hib,1996,Bacteria,,,Combines DTP and Haemophilus influenzae type b (Hib). https://www.cdc.gov/mmwr/preview/mmwrhtml/00044501.htm,,TRUE
-HepA-HepB,1996,Virus,GlaxoSmithKline,,First introduced in Belgium in 1996. Combines Hepatitis A and Hepatitis B vaccines. https://www.ema.europa.eu/en/medicines/human/EPAR/twinrix-adult,,TRUE
-Rabies,1997,Virus,,,Chick embryo cell vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
-DTaP-IPV,1997,Combination,Multiple,,"First licensed in Denmark in 1997. Combines Diphtheria, Tetanus, Pertussis, and Polio. https://doi.org/10.1016/j.vaccine.2013.08.034",,TRUE
-Rotavirus*,1998,Virus,,,Tetravalent. Withdrawn in 1999,Withdrawal,FALSE
-Lyme*,1998,Bacteria,,,OspA vaccine https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2870557/,Withdrawal,FALSE
-Meningococcal disease,1999,Bacteria,,MenC,Group C,,FALSE
-Pneumococcal disease,2000,Bacteria,,13 valent,Prevnar 13. Pneumococcal conjugate vaccine https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-17-pneumococcal-disease.html?CDC_AAref_Val=https://www.cdc.gov/vaccines/pubs/pinkbook/pneumo.html,,FALSE
-DTP-HepB-Hib-IPV,2000,Combination,,,"Combines DTP, Hepatitis B, Hib, and Inactivated Polio Vaccine (IPV). https://www.ema.europa.eu/en/medicines/human/EPAR/infanrix-hexa",,TRUE
-Hepatitis,2001,Virus,,,,,FALSE
-DTP-HepB-Hib,2001,Combination,,,"First introduced in 2001 in low-income countries through Gavi. Combines DTP, Hepatitis B, and Haemophilus influenzae type b (Hib). https://www.gavi.org/news/media-room/5-1-vaccine-now-all-73-poorest-countries",,TRUE
-Tdap-IPV,2001,Combination,,,"First introduced in Europe - booster vaccine for adolescents and adults combining Tetanus, reduced-dose Diphtheria, Pertussis, and Polio. https://doi.org/10.1016/j.vaccine.2012.12.081",,TRUE
-DTaP-IPV-HepB,2002,Combination,GlaxoSmithKline,,"First introduced in the U.S. in 2002. Combines DTP, Polio, and Hepatitis B. https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5210a8.htm",,TRUE
-Influenza,2003,Virus,Hunein F. Maassab and Martin L. Bryant,,Intranasally administered live attenuated vaccine called FluMist https://pubmed.ncbi.nlm.nih.gov/10578119/,,FALSE
-Meningococcal disease,2005,Bacteria,,,Quadrivalent diphtheria toxoid conjugate - ACWY -Menactra https://www.cdc.gov/vaccinesafety/vaccines/meningococcal-vaccine.html,,FALSE
-MenACWY,2005,Bacteria,,,"Meningococcal conjugate vaccine covering four strains (A, C, W, Y). https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5407a1.htm",,TRUE
-MMRV,2005,Virus,Merck,,Combines MMR with varicella (chickenpox) to reduce separate vaccinations. https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5903a1.htm,,TRUE
-Rotavirus,2006,Virus,"H Fred Clark, Stanley Plotkin et al. - GSK",,Pentavalent Rotarix https://academic.oup.com/cid/article/48/2/222/305770,,FALSE
-Rotavirus,2006,Virus,Merck,,Pentavalent RotaTeq https://www.nature.com/articles/pr19871021,,FALSE
-Human papillomavirus,2006,Virus,Ian Frazer and Jian Zhou - Merck,,Gardasil,,FALSE
-Varicella,2006,Virus,Merck,,Shingles. Zostavax,,FALSE
-Influenza,2007,Virus,,A H5N1,A/H5N1 vaccine? in response to 2003-04 flu season in Asia,,FALSE
-Rotavirus,2008,Virus,,,Monovalent,,FALSE
-Influenza,2009,Virus,,,Swine flu pandemic influenza,,FALSE
-Cholera,2009,Bacteria,,,Shanchol or Euvichol https://pmc.ncbi.nlm.nih.gov/articles/PMC8687080/,,FALSE
-Japanese encephalitis,2009,Virus,,,Vero cell vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
-Pneumococcal disease,2010,Bacteria,,13 valent,13 valent conjugate https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
-Meningococcal disease,2010,Bacteria,,4 valent,Quadrivalent conjugate vaccine Menveo ACWY https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5909a5.htm,,FALSE
-Hepatitis,2011,Virus,Xiamen Innovax Biotech,,Hepatitis E. Hecolin; first approved in China and then recommended by WHO https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/hepatitis-e-vaccines,,FALSE
-Influenza,2012,Virus,,,Cell based https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
-Influenza,2013,Virus,,,Influenza Baculovirus https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
-Meningococcal disease,2013,Bacteria,,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6477034/,,FALSE
-Influenza,2014,Virus,,,Intradermal https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
-Human papillomavirus,2014,Virus,Merck,9 valent,Gardasil-9,,FALSE
-Influenza,2015,Virus,,,MF59 adjuvant vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
-Enterovirus,2015,Virus,,Enterovirus 71,Licensed in China https://pmc.ncbi.nlm.nih.gov/articles/PMC10984126/,,FALSE
-Dengue,2016,Virus,,,Dengvaxia became commercially available in 2016 first in 20 countries; approved in EU and US in 2018 and 2019 respectively,,FALSE
-Cholera,2016,Bacteria,,Serogroup O1,Serogroup O1 oral,,FALSE
-Hepatitis,2017,Virus,,Hep B,Hepatitis B. Heplisav-B vaccine,,FALSE
-Varicella,2017,Virus,GSK,Shingles,Shingles. Shingrix,,FALSE
-Ebola,2019,Virus,,,Ebola Zaire. https://www.who.int/news-room/questions-and-answers/item/ebola-vaccines,,FALSE
-Mpox,2019,Virus,,,Smallpox and monkeypox https://www.fda.gov/news-events/press-announcements/monkeypox-update-fda-authorizes-emergency-use-jynneos-vaccine-increase-vaccine-supply,,FALSE
-Ebola,2020,Virus,J&J,Zaire,Ebola Zaire. rVSV platform Ad26.ZEBOV and MVA-BN-Filo https://johnsonandjohnson.gcs-web.com/static-files/1c979f4f-cad3-4f8b-9a22-69aaac503570,,FALSE
-Covid-19,2020,Virus,Oxford-Astrazeneca; Pfizer-BioNTech; Moderna,,,,FALSE
-Malaria,2021,Parasite,GSK,,"RTS,S",,FALSE
-Polio,2021,Virus,,Serotype 2,nOPV serotype 2,,FALSE
-Covid-19,2021,Virus,Janssen; Novavax,,,,FALSE
-Covid-19,2022,Virus,Sanofi-GSK,,,,FALSE
-Dengue,2022,Virus,Takeda,,Qdenga live attenuated vaccine,,FALSE
-Malaria,2023,Parasite,,,R21/Matrix-M,,FALSE
-Respiratory syncytial virus,2023,Virus,GSK,,Arexvy https://www.fda.gov/news-events/press-announcements/fda-approves-first-respiratory-syncytial-virus-rsv-vaccine,,FALSE
-Respiratory syncytial virus,2023,Virus,Pfizer,,ABRYSVO https://www.pfizer.com/news/press-release/press-release-detail/us-fda-approves-abrysvotm-pfizers-vaccine-prevention,,FALSE
-Chikungunya,2023,Virus,Valneva,,Ixchiq https://www.fda.gov/news-events/press-announcements/fda-approves-first-vaccine-prevent-disease-caused-chikungunya-virus,,FALSE
-Chikungunya,2025,Virus,Bavarian Nordic,,Vimkunya https://www.ema.europa.eu/en/medicines/human/EPAR/vimkunya,,FALSE
+Name,Year,Organism,Inventor,Serotype_strain,Brand_name,Comments_and_citation,NA_reason,Combination_vaccine
+Smallpox,1798,Virus,Edward Jenner,Cowpox,,1796 was first test but findings were published 2 years later. 1800 - Dr. Benjamin Waterhouse gives the smallpox vaccine to his son and other family members. These smallpox vaccinations are the first in the U.S.,,FALSE
+Smallpox,1840,Virus,Giuseppe Negri,,,Animal vaccination https://www.sciencedirect.com/science/article/pii/S0264410X2030668X,,FALSE
+Smallpox,1871,Virus,NYCBH,,,https://www.sciencedirect.com/science/article/pii/S1473309917304450,,FALSE
+Rabies,1885,Virus,Louis Pasteur and Émile Roux,,,The first rabies vaccine was introduced in 1885 and was followed by an improved version in 1908.,,FALSE
+Tetanus,1890,Bacteria,Emil von Behring,,,,,FALSE
+Cholera,1892,Bacteria,Waldemar Haffkine,,,,,FALSE
+Typhoid,1896,Bacteria,Almroth Wright or Richard Pfeiffer,,,,,FALSE
+Plague,1897,Bacteria,Waldemar Haffkine,,,https://pmc.ncbi.nlm.nih.gov/articles/PMC6559729/,,FALSE
+Rabies,1908,Virus,Claudio Fermi,,,,,FALSE
+Diphtheria,1914,Bacteria,Emil von Behring or William Hallock Park,,,Mixtures of diphtheria toxin and antitoxin https://link.springer.com/chapter/10.1007/978-94-007-7624-1_1,,FALSE
+Pertussis,1914,Bacteria,,,,Whole cell vaccine https://www.tandfonline.com/doi/full/10.4161/hv.29576,,FALSE
+Tuberculosis,1924,Bacteria,Albert Calmette and Camille Guérin,,,BCG began being mass-produced by the Pasteur Institute in France in 1924 - see https://www.maedica.ro/articles/2013/1/2013_Vol8(11)_No1_pg53-58.pdf and https://www.pasteur.fr/en/home/research-journal/news/bcg-vaccine-first-tuberculosis-vaccination-took-place-century-ago,,FALSE
+Diphtheria,1926,Bacteria,,,,Alum-precipitated diphtheria toxoid,,FALSE
+Smallpox,1931,Virus,,,Dryvax,https://www.fda.gov/vaccines-blood-biologics/vaccines/acam2000-smallpox-vaccine-questions-and-answers,,FALSE
+Tetanus,1938,Bacteria,,,,Adsorbed tetanus toxoid https://www.futuremedicine.com/doi/10.2217/fmb-2021-0167,,FALSE
+Yellow fever,1938,Virus,Max Theiler,,,,,FALSE
+Pertussis,1939,Bacteria,"Pearl Kendrick, Grace Eldering, Loney Gordon",,,,,FALSE
+Tick-borne encephalitis,1939,Virus,Soviet Union,,,First TBE vaccine based on Sofyin strain of the TBE virus prepared from infected mouse brain and inactivated with formalin. Date refers to date of trials as public availability isnt mentioned https://academic.oup.com/jhmas/advance-article/doi/10.1093/jhmas/jrad054/7264135,,FALSE
+Anthrax,1940,Bacteria,Soviet Union,,,https://www.sciencedirect.com/science/article/pii/0264410X94902232,,FALSE
+Influenza,1945,Virus,,A and B,,Bivalent A and B vaccine available to general population in US https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5139605/,,FALSE
+Influenza,1947,Virus,,A H2N2,,H2N2 pandemic influenza,,FALSE
+DTP,1948,Bacteria,"Pearl Kendrick, Loney Gordon, Grace Eldering",,,,,TRUE
+Typhoid,1952,Bacteria,Wyeth,,,https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6411a4.htm,,FALSE
+Yellow fever,1953,Virus,Merell National Labs,,,https://www.ncbi.nlm.nih.gov/books/NBK236434/,,FALSE
+Japanese encephalitis,1954,Virus,BIKEN Foundation,,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7660131/,,FALSE
+Anthrax,1954,Bacteria,,,,Accelular vaccine https://pubmed.ncbi.nlm.nih.gov/13212061/,,FALSE
+Polio,1955,Virus,Jonas Salk,,,Inactivated polio vaccine,,FALSE
+Polio,1960,Virus,Albert Sabin,,,Oral polio vaccine,,FALSE
+Tick-borne encephalitis,1961,Virus,M.P. Chumakov Institute of Poliomyelitis & Viral Encephalitides in Soviet Union,,,Second TBE vaccine using cell cultures from chicken embryos. Date refers to date of trials as public availability isnt mentioned https://academic.oup.com/jhmas/advance-article/doi/10.1093/jhmas/jrad054/7264135 and https://siberes.ru/en/Six-Lectures/,,FALSE
+Measles,1963,Virus,John Franklin Enders,,,,,FALSE
+Measles,1963,Virus,Pfizer,,,Inactivated measles vaccine; later withdrawn,Withdrawal,FALSE
+Polio,1963,Virus,Sabin,Trivalent,,Trivalent oral polio vaccine https://www.ncbi.nlm.nih.gov/books/NBK236434/,,FALSE
+Measles,1965,Virus,Pitman Moore-Dow,,Lirugen,Live further attenuated measles vaccine,,FALSE
+Mumps,1967,Virus,Maurice Hilleman,Jeryl Lynn strain,MumpsVax,,,FALSE
+Measles,1968,Virus,Merck,Moraten strain ,Attenuvax,,,FALSE
+Influenza,1968,Virus,,,,Trivalent inactivated vaccines,,FALSE
+Rubella,1969,Virus,Stanley Plotkin; Merck,HPV-77,Meruvax,https://pubmed.ncbi.nlm.nih.gov/16998777/,,FALSE
+Rubella,1969,Virus,Parke-Davis,HPV-77,Rubelogen,https://stacks.cdc.gov/view/cdc/78725/cdc_78725_DS1.pdf,,FALSE
+Rubella,1969,Virus,RIT-SKF; Dow,Cendehill,Cendevax,https://stacks.cdc.gov/view/cdc/78725/cdc_78725_DS1.pdf,,FALSE
+Anthrax,1970,Bacteria,Bioport,,BioThrax,Anthrax vaccine adsorbed (AVA) vaccine https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6147967/ https://www.federalregister.gov/documents/2005/02/02/05-2028/authorization-of-emergency-use-of-anthrax-vaccine-adsorbed-for-prevention-of-inhalation-anthrax-by,,FALSE
+Measles-Rubella,1971,Virus,Merck,,M-R-Vax,https://link.springer.com/chapter/10.1007/978-1-4419-1339-5_23,,TRUE
+MMR,1971,Virus,Maurice Hilleman,,MMR,https://link.springer.com/chapter/10.1007/978-1-4419-1339-5_23,,TRUE
+Measles-Mumps,1973,Virus,Merck,,MM-Vax,https://link.springer.com/chapter/10.1007/978-1-4419-1339-5_23,,TRUE
+Meningococcal disease,1974,Bacteria,Merck,,,https://acvip.org/parents/columns/qa-meningococcal.php https://downloads.regulations.gov/FDA-2012-N-1037-0013/attachment_80.pdf,,FALSE
+Adenovirus,1975,Virus,,Type 4 and 7,,Adenovirus types 4 and 7 oral https://www.nejm.org/doi/full/10.1056/nejmp2029466 Adenovirus vaccine is only available for United States military personnel.  There is currently no adenovirus vaccine available to the general public. https://www.cdc.gov/vaccines/hcp/vis/vis-statements/adenovirus.html,Not publicly available,FALSE
+Tick-borne encephalitis,1976,Virus,James Keppie - Porton Down; Christian Kunz,,,https://academic.oup.com/jhmas/advance-article/doi/10.1093/jhmas/jrad054/7264135 and https://www.sciencedirect.com/science/article/pii/S0264410X02008149,,FALSE
+Influenza,1977,Virus,,,,Subunit vaccine,,FALSE
+Pneumococcal disease,1977,Bacteria,,14 valent,,Polysaccharide vaccine that targets 14 strains https://www.cdc.gov/vaccines/pubs/pinkbook/pneumo.html,,FALSE
+Meningococcal disease,1978,Bacteria,Connaught,MenA,Menomune-A,https://www.immunize.org/vaccines/vaccine-timeline/ ,,FALSE
+Meningococcal disease,1978,Bacteria,Connaught,MenC,Menomune-C,https://www.immunize.org/vaccines/vaccine-timeline/ ,,FALSE
+Meningococcal disease,1978,Bacteria,Connaught,MenAC,Menomune-A/C,https://www.immunize.org/vaccines/vaccine-timeline/ ,,FALSE
+Yellow fever,1978,Virus,Connaught,,YF-Vax,https://www.immunize.org/vaccines/vaccine-timeline/ ,,FALSE
+Anthrax,1979,Bacteria,Harry Smith,,,Anthrax vaccine precipitated (AVP) vaccine https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6147967/,,FALSE
+Rubella,1979,Virus,Merck,RA 27/3,Meruvax II,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Rabies,1980,Virus,"Ernst Kuwert, Hilary Koprowski et al.",,Imovax Rabies,Human diploid cell vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466 and https://pubmed.ncbi.nlm.nih.gov/1031689/,,FALSE
+Meningococcal disease,1981,Bacteria,Connaught,MenACWY,Menomune-ACWY,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6733771/ and https://www.sciencedirect.com/science/article/pii/S1369848617301735,,FALSE
+Hepatitis,1981,Virus,Merck,HepB,,Hepatitis B. Plasma-derived surface antigen https://www.cdc.gov/vaccines/pubs/pinkbook/hepb.html,,FALSE
+Hepatitis,1981,Virus,Pasteur institute,HepB,,Hepatitis B. Plasma-derived surface antigen https://www.cdc.gov/vaccines/pubs/pinkbook/hepb.html and https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Pneumococcal disease,1983,Bacteria,Merck,23 valent,Pneumovax 23,https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-17-pneumococcal-disease.htmlCDC_AAref_Val=https://www.cdc.gov/vaccines/pubs/pinkbook/pneumo.html,,FALSE
+Pneumococcal disease,1983,Bacteria,Lederle,23 valent,Pnu-Imune 23,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Haemophilus influenzae b,1985,Bacteria,Praxis Biologics,,b-CAPSA 1,polysaccharide https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
+Haemophilus influenzae b,1985,Bacteria,Connaught,,Hib-VAX,polysaccharide https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Haemophilus influenzae b,1985,Bacteria,Lederle,,Hib-IMUNE,polysaccharide https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Hepatitis,1986,Virus,,HepB,Recombivax,Hepatitis B. Recombinant surface antigen https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
+Varicella,1986,Virus,,,,Chickenpox. First approved in Japan https://academic.oup.com/jid/article/197/Supplement_2/S185/845728,,FALSE
+Haemophilus influenzae b,1987,Bacteria,Connaught,,PRP-D; ProHibit,Conjugate vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
+Haemophilus influenzae b,1988,Bacteria,Wyeth-Lederle,,HibTITER,Conjugate vaccine https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Haemophilus influenzae b,1989,Bacteria,Merck,,PedvaxHIB,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Q fever,1989,Bacteria,,,Q-Vax,https://www.health.vic.gov.au/immunisation/q-fever-vaccination,,FALSE
+Typhoid,1989,Bacteria,,,Ty21a,Oral vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466 https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Hepatitis,1989,Virus,SmithKline Beecham,HepB,Engerix-B,Recombinant Hep B https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Polio,1990,Virus,Pasteur Mérieux Vaccines et Serums,,Ipol,Enhanced potency inactivated polio vaccine https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Hantavirus,1990,Virus,Ho Wang Lee,,,https://pmc.ncbi.nlm.nih.gov/articles/PMC3323375/,,FALSE
+Cholera,1991,Bacteria,,,Dukoral,Oral vaccine https://pmc.ncbi.nlm.nih.gov/articles/PMC8687080/,,FALSE
+DTaP,1991,Bacteria,Lederle,,Acel-Imune,Diphtheria tetanus acellular pertussis,,TRUE
+Argentine hemorrhagic fever,1991,Virus,,Junin virus,,https://www.sciencedirect.com/science/article/pii/S1201971221001326,,FALSE
+Japanese encephalitis,1992,Virus,BIKEN,,JE-Vax,Mouse brain vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
+DTaP,1992,Bacteria,Connaught,,Tripedia,https://www.immunize.org/vaccines/vaccine-timeline/,,TRUE
+Haemophilus influenzae b,1993,Bacteria,Connaught,,ActHIB,Conjugated https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Haemophilus influenzae b,1993,Bacteria,SmithKline Beecham,,OmniHib,Conjugated https://www.immunize.org/vaccines/vaccine-timeline/ ,,FALSE
+Haemophilus influenzae b-DTP,1993,Bacteria,Lederle/Praxis,,Tetramune,https://www.immunize.org/vaccines/vaccine-timeline/,,TRUE
+Typhoid,1994,Bacteria,Aventis Pasteur,,Typhim Vi,Polysaccharide inactivated https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Hepatitis,1995,Virus,Maurice Hilleman,HepA,Vaqta,https://www.cdc.gov/vaccines/pubs/pinkbook/hepa.html,,FALSE
+Varicella,1995,Virus,Merck,Chickenpox,Varivax,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Hepatitis,1995,Virus,SmithKline Beecham,HepA,Havrix,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Hib-HepB,1996,Combination,Merck,,Comvax,https://www.immunize.org/vaccines/vaccine-timeline/,,TRUE
+DTaP-Hib,1996,Bacteria,Aventis Pasteur,,TriHIBit,https://www.cdc.gov/mmwr/preview/mmwrhtml/00044501.htm,,TRUE
+Hepatitis,1996,Virus,Merck,,Vaqta,Inactivated https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+DTaP,1996,Bacteria,Lederle,,Acel-Imune,https://www.immunize.org/vaccines/vaccine-timeline/,,TRUE
+HepA-HepB,1996,Virus,GlaxoSmithKline,,,First introduced in Belgium in 1996. Combines Hepatitis A and Hepatitis B vaccines. https://www.ema.europa.eu/en/medicines/human/EPAR/twinrix-adult,,TRUE
+Rabies,1997,Virus,Chiron Behring,,RabAvert,Chick embryo cell vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
+DTaP,1997,Bacteria,SmithKline Beecham,,Infanrix,https://www.immunize.org/vaccines/vaccine-timeline/,,TRUE
+DTaP-IPV,1997,Combination,,,,"First licensed in Denmark in 1997. Combines Diphtheria, Tetanus, Pertussis, and Polio. https://doi.org/10.1016/j.vaccine.2013.08.034",,TRUE
+Rotavirus*,1998,Virus,Wyeth,4 valent,RotaShield,Tetravalent. Withdrawn in 1999,Withdrawal,FALSE
+Lyme*,1998,Bacteria,SmithKline Beecham,,LYMErix,OspA vaccine https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2870557/,Withdrawal,FALSE
+DTaP,1998,Bacteria,North American Vaccine,,Certiva,Adsorbed https://www.immunize.org/vaccines/vaccine-timeline/,,TRUE
+DTaP,1999,Bacteria,Connaught,,Tripedia,https://www.immunize.org/vaccines/vaccine-timeline/,,TRUE
+Pneumococcal disease,2000,Bacteria,,7 valent,Prevnar,Pneumococcal conjugate vaccine https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-17-pneumococcal-disease.html?CDC_AAref_Val=https://www.cdc.gov/vaccines/pubs/pinkbook/pneumo.html,,FALSE
+DTP-HepB-Hib-IPV,2000,Combination,,,,"Combines DTP, Hepatitis B, Hib, and Inactivated Polio Vaccine (IPV). https://www.ema.europa.eu/en/medicines/human/EPAR/infanrix-hexa",,TRUE
+HepA-HepB,2001,Virus,SmithKline Beecham,HepA and Hep B,Twinrix,https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-17-pneumococcal-disease.html?CDC_AAref_Val=https://www.cdc.gov/vaccines/pubs/pinkbook/pneumo.html,,TRUE
+DTP-HepB-Hib,2001,Combination,,,,"First introduced in 2001 in low-income countries through Gavi. Combines DTP, Hepatitis B, and Haemophilus influenzae type b (Hib). https://www.gavi.org/news/media-room/5-1-vaccine-now-all-73-poorest-countries",,TRUE
+Tdap-IPV,2001,Combination,,,,"First introduced in Europe - booster vaccine for adolescents and adults combining Tetanus, reduced-dose Diphtheria, Pertussis, and Polio. https://doi.org/10.1016/j.vaccine.2012.12.081",,TRUE
+DTaP-IPV-HepB,2002,Combination,GlaxoSmithKline,,Pediarix,"First introduced in the U.S. in 2002. Combines DTP, Polio, and Hepatitis B. https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5210a8.htm",,TRUE
+DTaP,2002,Bacteria,Aventis Pasteur,,Daptacel,https://www.immunize.org/vaccines/vaccine-timeline/,,TRUE
+Influenza,2003,Virus,Hunein F. Maassab and Martin L. Bryant,,FluMist,Intranasally administered live attenuated vaccine called FluMist https://pubmed.ncbi.nlm.nih.gov/10578119/,,FALSE
+Diphtheria-Tetanus,2004,Bacteria,Aventis Pasteur,,Decavac,Adsorbed for adults. Preservative free https://www.immunize.org/vaccines/vaccine-timeline/,,TRUE
+Meningococcal disease,2005,Bacteria,Sanofi Pasteur,MenACWY,Menactra,Polysaccharide. Quadrivalent diphtheria toxoid conjugate https://www.cdc.gov/vaccinesafety/vaccines/meningococcal-vaccine.html,,FALSE
+Tdap,2005,Bacteria,Sanofi Pasteur,,Adacel,https://www.immunize.org/vaccines/vaccine-timeline/,,TRUE
+Tdap,2005,Bacteria,GSK,,Boostrix,Boostrix for adolescents https://www.immunize.org/vaccines/vaccine-timeline/,,TRUE
+Influenza,2005,Virus,GSK,,Fluarix,"Inactivated, injectible https://www.immunize.org/vaccines/vaccine-timeline/",,FALSE
+MMRV,2005,Virus,Merck,,Proquad,Combines MMR with varicella (chickenpox) to reduce separate vaccinations. https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5903a1.htm,,TRUE
+Rotavirus,2006,Virus,Merck,5 valent,RotaTeq,Pentavalent https://www.nature.com/articles/pr19871021,,FALSE
+Human papillomavirus,2006,Virus,Ian Frazer and Jian Zhou; Merck,Types 6 11 16 and 18,Gardasil,,,FALSE
+Varicella,2006,Virus,Merck,Shingles,Zostavax,,,FALSE
+Smallpox,2007,Virus,Sanofi Pasteur,,ACAM2000,https://wayback.archive-it.org/7993/20170722220624/https://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm180810.htm,,FALSE
+Influenza,2007,Virus,Seqirus,,Afluria,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Influenza,2007,Virus,,A H5N1,,A/H5N1 vaccine in response to 2003-04 flu season in Asia,,FALSE
+Rotavirus,2008,Virus,"H Fred Clark, Stanley Plotkin et al. - GSK",,Rotarix,Pentavalent https://academic.oup.com/cid/article/48/2/222/305770,,FALSE
+DTaP-IPV,2008,Combination,,,Kinrix,https://www.immunize.org/vaccines/vaccine-timeline/,,TRUE
+DTaP-IPV-Hib,2008,Combination,Sanofi Pasteur,,Pentacel,https://www.immunize.org/vaccines/vaccine-timeline/,,TRUE
+Influenza,2009,Virus,CSL,,,Swine flu pandemic influenza https://www.fda.gov/vaccines-blood-biologics/vaccines/influenza-h1n1-2009-monovalent,,FALSE
+Influenza,2009,Virus,ID Biomedical,,,Swine flu pandemic influenza https://www.fda.gov/vaccines-blood-biologics/vaccines/influenza-h1n1-2009-monovalent,,FALSE
+Influenza,2009,Virus,Novartis,,,Swine flu pandemic influenza https://www.fda.gov/vaccines-blood-biologics/vaccines/influenza-h1n1-2009-monovalent,,FALSE
+Influenza,2009,Virus,Sanofi Pasteur,,,Swine flu pandemic influenza https://www.fda.gov/vaccines-blood-biologics/vaccines/influenza-h1n1-2009-monovalent,,FALSE
+Influenza,2009,Virus,MedImmune,,,Swine flu pandemic influenza https://www.fda.gov/vaccines-blood-biologics/vaccines/influenza-h1n1-2009-monovalent,,FALSE
+Human papillomavirus,2009,Virus,GSK,,Cervarix,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Cholera,2009,Bacteria,,,Shanchol or Euvichol,https://pmc.ncbi.nlm.nih.gov/articles/PMC8687080/,,FALSE
+Japanese encephalitis,2009,Virus,,,,Vero cell vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
+Pneumococcal disease,2010,Bacteria,,13 valent,Prevnar13,https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
+Meningococcal disease,2010,Bacteria,,MenACWY,Menveo,Quadrivalent conjugate vaccine https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5909a5.htm,,FALSE
+Hepatitis,2011,Virus,Xiamen Innovax Biotech,HepE,Hecolin,First approved in China and then recommended by WHO https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/hepatitis-e-vaccines,,FALSE
+Influenza,2012,Virus,Novartis,,Flucelvax,Cell based https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
+Influenza,2012,Virus,GSK,4 valent,Fluarix,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Meningococcal disease-H,2012,Bacteria,GSK,MenCY,Menhibrix,https://www.immunize.org/vaccines/vaccine-timeline/,,TRUE
+Influenza,2013,Virus,Protein Sciences,,FluBlok,https://www.immunize.org/vaccines/vaccine-timeline/ https://wayback.archive-it.org/7993/20170722071618/https://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm335836.htm,,FALSE
+Influenza,2013,Virus,Sanofi Pasteur,4 valent,Fluzone,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Influenza,2013,Virus,GSK,4 valent,FluLaval,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Influenza,2014,Virus,Sanofi Pasteur,4 valent,Fluzone,Intradermal https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
+Meningococcal disease,2014,Bacteria,Pfizer,MenB,Trumenba,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Human papillomavirus,2014,Virus,Merck,9 valent,Gardasil-9,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Influenza,2015,Virus,Seqirus,,Fluad,MF59 adjuvant vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,,FALSE
+DTaP-IPV,2015,Combination,,,Quadracel,https://www.immunize.org/vaccines/vaccine-timeline/,,TRUE
+Meningococcal disease,2015,Bacteria,,MenB,Bexsero,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Enterovirus 71,2015,Virus,,Enterovirus 71,,Licensed in China https://pmc.ncbi.nlm.nih.gov/articles/PMC10984126/,,FALSE
+Haemophilus influenzae b,2016,Bacteria,,,Hiberix,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Dengue,2016,Virus,,,Dengvaxia,Became commercially available in 2016 first in 20 countries; approved in EU and US in 2018 and 2019 respectively,,FALSE
+Cholera,2016,Bacteria,,Serogroup O1,Vaxchora,Oral https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Hepatitis,2017,Virus,Dynavax,Hep B,Heplisav-B,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Varicella,2017,Virus,GSK,Shingles,Shingrix,,,FALSE
+DTaP-IPV-Hib-HepB,2018,Combination,MCM Vaccine Co,,Vaxelis,https://www.immunize.org/vaccines/vaccine-timeline/,,TRUE
+Ebola,2019,Virus,Merck,Zaire,Ervebo,https://www.who.int/news-room/questions-and-answers/item/ebola-vaccines,,FALSE
+Mpox,2019,Virus,,,JYNNEOS,Smallpox and monkeypox https://www.fda.gov/news-events/press-announcements/monkeypox-update-fda-authorizes-emergency-use-jynneos-vaccine-increase-vaccine-supply,,FALSE
+Ebola,2020,Virus,J&J,Zaire,Zabdeno and Mvabea,Ebola Zaire. rVSV platform Ad26.ZEBOV and MVA-BN-Filo https://johnsonandjohnson.gcs-web.com/static-files/1c979f4f-cad3-4f8b-9a22-69aaac503570,,FALSE
+Covid-19,2020,Virus,Oxford-AstraZeneca,,,,,FALSE
+Covid-19,2020,Virus,Pfizer-BioNTech,,Comirnaty,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Covid-19,2020,Virus,Moderna,,Spikevax,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Meningococcal disease,2020,Bacteria,,MenACWY,MenQuadfi,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Malaria,2021,Parasite,GSK,,,"RTS,S",,FALSE
+Pneumococcal disease,2021,Bacteria,Merck,15 valent,Vaxneuvance,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Pneumococcal disease,2021,Bacteria,Pfizer,20 valent,Prevnar 20,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Tick-borne encephalitis,2021,Virus,Pfizer,,Ticovac,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Hepatitis,2021,Virus,,Hep B,PreHevbrio,Recombinant Hepatitis B vaccine https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Polio,2021,Virus,,Serotype 2,,nOPV serotype 2,,FALSE
+Covid-19,2021,Virus,Janssen,,,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Covid-19,2022,Virus,Novavax,,,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Covid-19,2022,Virus,Sanofi-GSK,,,,,FALSE
+Covid-19,2022,Virus,Pfizer,2 valent,,,,FALSE
+MMR,2022,Virus,GSK,,Priorix,Live https://www.immunize.org/vaccines/vaccine-timeline/,,TRUE
+Dengue,2022,Virus,Takeda,,Qdenga,Qdenga live attenuated vaccine,,FALSE
+Anthrax,2023,Virus,Emergent BioSolutions,,Cyfendus,Adsorbed adjuvanted https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Malaria,2023,Parasite,,,,R21/Matrix-M,,FALSE
+Meningococcal disease,2023,Bacteria,,MenABCWY,Penbraya,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Respiratory syncytial virus,2023,Virus,GSK,,Arexvy,Arexvy https://www.fda.gov/news-events/press-announcements/fda-approves-first-respiratory-syncytial-virus-rsv-vaccine,,FALSE
+Respiratory syncytial virus,2023,Virus,Pfizer,,ABRYSVO,ABRYSVO https://www.pfizer.com/news/press-release/press-release-detail/us-fda-approves-abrysvotm-pfizers-vaccine-prevention,,FALSE
+Chikungunya,2023,Virus,Valneva,,Ixchiq,Ixchiq https://www.fda.gov/news-events/press-announcements/fda-approves-first-vaccine-prevent-disease-caused-chikungunya-virus,,FALSE
+Influenza,2024,Virus,ID Biomedical,A H5N1,Arepanrix,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Respiratory syncytial virus,2024,Virus,Mrsevia,,,mRNA-1345 https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Pneumococcal disease,2024,Bacteria,Merck,21 valent,Capvaxive,https://www.immunize.org/vaccines/vaccine-timeline/,,FALSE
+Chikungunya,2025,Virus,Bavarian Nordic,,Vimkunya,Vimkunya https://www.ema.europa.eu/en/medicines/human/EPAR/vimkunya,,FALSE

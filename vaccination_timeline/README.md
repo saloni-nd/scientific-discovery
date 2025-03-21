@@ -1,19 +1,22 @@
 This dataset shows when each vaccine was introduced for humans, for the first time.
 
-You can see an interactive version of the timeline [online](https://saloni-nd.shinyapps.io/vaccination_timeline/).
-
 ### Details
 
-- For each vaccine, I've tried to track down the year it was first made available, with a citation.
-- I've also listed the name of the inventor when they were mentioned incidentally, but several are missing.
+- For each disease, I've tracked down the year when a working vaccine was first available in any country
+- For updated versions of each vaccine, I've mostly limited the dataset to vaccines licensed in the US
+- I've listed the brand name, inventor/manufacturer, strains included or subtype of vaccine when possible
 
 #### Which new versions of vaccines included?
 
-The dataset also shows new versions of some vaccines and when they were made available.
-This hopefully covers most of them but is likely incomplete, and it was harder to track down the exact years for several historical ones.
+- All updated vaccines licensed in the US, except:
+  - expanded approvals (e.g. the same vaccine approved for a new demographic)
+  - updated smallpox vaccines - due to the number of updated smallpox vaccines, I've only included a few major types in the dataset
+- Some other important updated vaccines, e.g. the TBE vaccine (from Porton Down)
 
-- For HPV vaccines, for example, Gardasil and Gardasil-9 are both shown separately.
-- For flu vaccines, 'new versions' refers to new platforms (e.g. a live attenuated vaccine vs. a protein vaccine, or a pandemic flu vaccine).
+#### Other notes
+
+- For Covid-19 vaccines, dates refer to EUAs
+- For vaccines which were the first for a disease but were later withdrawn, they are labelled with a * in the Name column
 
 ### Contact me about errors, revisions, or collaborating
 
@@ -21,6 +24,8 @@ If you'd like to add to this dataset, or point out an error, get in touch here o
 
 ### Update log
 
+- 2025-03-21: Added all vaccines from immunize.org's timeline on approvals in the US
+- 2025-03-21: Added Brand_name column, cleaned up comment_citation column so there's no redundancy
 - 2025-03-20: Added Serotype_strain column
 - 2025-03-20: Added vaccines: Hantavirus, Q fever, Argentinian haemorrhagic fever, Plague
 - 2025-03-19: Renamed Zoster as Varicella in the Name column and specified that it was for shingles in the Comment column
