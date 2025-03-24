@@ -12,8 +12,7 @@ vax <- read_csv(paste0(file_path, "vaccine-discovery-dataset.csv"), skip = 0)
 # Remove withdrawn vaccines
 vax <- vax %>% 
           filter(is.na(NA_reason)) %>%
-  # Remove combination vaccines
-          filter(Combination_vaccine != "TRUE")
+          filter(Combination_vaccine != TRUE)
 
 # Arrange by year
 vax <- vax %>%
@@ -54,10 +53,10 @@ ggplot(data=vax, aes(x=Year,y=id, label=Name)) +
         plot.title = element_text(size = 20)) +
   #scale_y_reverse() + # Reverse y axis scale
   labs(title="Vaccine discovery",
-       subtitle="The year when each vaccine was licensed for the first time.\nSubsequent vaccines for the same pathogen or disease are shown on the same row.",
+       subtitle="The year when each vaccine was licensed for the first time.\nSubsequent vaccines licensed in the US for the same pathogen are shown on the same row.",
        x="",
        y="",
-       caption="Data on subsequent vaccines are likely incomplete.\nAvailable at: code.scientificdiscovery.dev",
+       caption="Data on subsequent vaccines may be incomplete.\nAvailable at: code.scientificdiscovery.dev",
        color="Target organism") +
   coord_cartesian(xlim=c(1770,2024))
 
