@@ -53,11 +53,11 @@ ggplot(data=vax, aes(x=Year,y=id, label=Name)) +
         plot.title = element_text(size = 20)) +
   #scale_y_reverse() + # Reverse y axis scale
   labs(title="Vaccine discovery",
-       subtitle="The year when each vaccine was licensed for the first time.\nSubsequent vaccines licensed in the US for the same pathogen are shown on the same row.",
+       subtitle="The year when each vaccine was licensed for the first time.\nA selection of subsequent vaccines against the same disease are shown on the same row.",
        x="",
        y="",
-       caption="Data on subsequent vaccines may be incomplete.\nAvailable at: code.scientificdiscovery.dev",
-       color="Target organism") +
+       caption="Chart by Saloni Dattani with data up to 2025\nAvailable at: code.scientificdiscovery.dev",
+       fill="Target organism") +
   coord_cartesian(xlim=c(1770,2024))
 
 ggsave(paste0(file_path, "Vaccine_timeline.svg"),height=8,width=10)
