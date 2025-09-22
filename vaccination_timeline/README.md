@@ -22,6 +22,10 @@ This dataset shows when each vaccine was introduced for humans, for the first ti
 
 If you'd like to add to this dataset, or point out an error, get in touch here or by email (saloni@scientificdiscovery.dev).
 
+### Suggested citation
+
+Please cite this as `Dattani (2025). Vaccine discovery timeline. Available at code.scientificdiscovery.dev`
+
 ### Update log
 
 - 2025-03-21: Added all vaccines from immunize.org's timeline on approvals in the US
