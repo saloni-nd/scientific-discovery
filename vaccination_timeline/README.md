@@ -30,9 +30,11 @@ Please cite this as `Dattani (2025). Vaccine discovery timeline. Available at co
 
 ### Update log
 
+- 2026-01-06: Changed early vaccines for tetanus and diphtheria to the type `antitoxin serum`, which are not vaccines
+- 2026-01-06: Reformatted dataset with vaccine types in separate column and added data on types
 - 2025-03-21: Added all vaccines from immunize.org's timeline on approvals in the US
-- 2025-03-21: Added Brand_name column, cleaned up comment_citation column so there's no redundancy
-- 2025-03-20: Added Serotype_strain column
+- 2025-03-21: Added `Brand_name` column, cleaned up `comment_citation` column so there's no redundancy
+- 2025-03-20: Added `Serotype_strain` column
 - 2025-03-20: Added vaccines: Hantavirus, Q fever, Argentinian haemorrhagic fever, Plague
 - 2025-03-19: Renamed Zoster as Varicella in the Name column and specified that it was for shingles in the Comment column
 - 2025-03-18: Added several combination vaccines: DTaP-Hib, HepA-HepB, DTaP-IPV, DTP-HepB-Hib-IPV, DTP-HepB-Hib, DTaP-IPV-HepB; added a column indicating whether a vaccine was a combination vaccine; removed combination vaccines from the plot
