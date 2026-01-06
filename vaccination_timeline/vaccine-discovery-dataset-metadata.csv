@@ -1,10 +1,11 @@
-Column_name,Description,Column_value
-Name,Name of the disease targeted by the vaccine,text
-Year,Year of first introduction,integer
-Organism,"Type of pathogen targeted by the vaccine (e.g., bacteria, virus, parasite)",text
-Inventor,"If known, the person or organization who developed the vaccine",text
-Serotype_strain,"If known, the particular strain or serotype targeted by the vaccine (e.g. HepB)",text
-Brand_name,"If known, the brandname of the vaccine",text
-Comments_and_citation,Additional comments and citations,text
-NA_reason,"Only filled if not shown on the chart, with reason why (e.g., vaccine withdrawn - this is only noted if it was the first vaccine against a disease)",text
-Combination_vaccine,If the vaccine targets multiple pathogens (but not multiple strains or serotypes of the same pathogen),binary
+Column_name,Description,Column_value,Comments
+Name,Name of the disease targeted by the vaccine,text,
+Year,Year of first introduction,integer,
+Organism,"Type of pathogen targeted by the vaccine (e.g., bacteria, virus, parasite)",text,
+Inventor,"If known, the person or organization who developed the vaccine",text,
+Serotype_strain,"If known, the particular strain or serotype targeted by the vaccine (e.g. HepB)",text,
+Brand_name,"If known, the brandname of the vaccine",text,
+Vaccine_type,"The type of vaccine (e.g. protein subunit, inactivated, live attenuated, etc.)",text,Needs recheck for accuracy
+Comments_and_citation,Additional comments and citations,text,
+NA_reason,"Only filled if not shown on the chart, with reason why (e.g., vaccine withdrawn - this is only noted if it was the first vaccine against a disease)",text,
+Combination_vaccine,If the vaccine targets multiple pathogens (but not multiple strains or serotypes of the same pathogen),binary,
