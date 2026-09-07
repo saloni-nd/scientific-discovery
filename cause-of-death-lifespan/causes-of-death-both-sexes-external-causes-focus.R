@@ -148,6 +148,12 @@ colors_for_highlight <- c("#1f77b4", "#d62728", "#2ca02c", "#ff7f0e",
                      "#9467bd", "#17becf", "#bcbd22", "#e377c2") # Choose your colors
 color_map[highlight_categories] <- colors_for_highlight
 
+# Define a manual palette with 20 distinct colors
+my_colors <- c("#dbdb8d", "#ff9896", "#1f77b4", "#c49c94", "#7f7f7f",
+               "#c7c7c7", "#d62728", "#e377c2", "#f7b6d2", "#c5b0d5",
+               "#98df8a", "#9edae5", "#ffbb78", "#9467bd", "#aec7e8",
+               "#17becf", "#bcbd22", "#8c564b", "#2ca02c", "#ff7f0e")
+
 # Reorder levels so theyre the same as the original plot
 joined_df$ICD_long <- factor(joined_df$ICD_long, levels = categories)
 
