@@ -1,6 +1,6 @@
 Column_name,Description,Column_value,Comments
 Name,Name of the disease targeted by the vaccine,text,
-Year,Year of first introduction,integer,
+Year,Year when the vaccine was first widely available (this typically means when it was approved),integer,
 Organism,"Type of pathogen targeted by the vaccine (e.g., bacteria, virus, parasite)",text,
 Inventor,"If known, the person or organization who developed the vaccine",text,
 Serotype_strain,"If known, the particular strain or serotype targeted by the vaccine (e.g. MenACWY)",text,Incomplete
