@@ -1,4 +1,4 @@
-This folder contains scripts for the chart "Death rates by age", which shows how death rates have changed across cohorts over time, in several countries.
+This folder contains scripts for the chart "Death rates by age", which shows how death rates have changed over time or across cohorts, in several countries.
 
 The data can be found on the [Human Mortality Database](https://mortality.org/).
 
