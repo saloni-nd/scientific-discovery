@@ -8,7 +8,7 @@ library(extrafont)
 # Import spreadsheet
 file_path <- "scientific-discovery/vaccination_timeline/"
 
-vax <- read_csv(paste0(file_path, "vaccine-discovery-dataset-types.csv"), skip = 0)
+vax <- read_csv(paste0(file_path, "vaccine-discovery-dataset.csv"), skip = 0)
 
 # Remove withdrawn vaccines
 vax <- vax %>% 
@@ -48,7 +48,8 @@ vaccine_type_colors <- c(
   "Multiple"       = "#9D9D9D",
   "Protein subunit"= "#89C6D5",
   "Toxoid"         = "#EDC949",
-  "Viral vector"   = "#AF7E4C"
+  "Viral vector" = "#AF7E4C", 
+  "Virus like particle" = "#7F7F7F"
 )
 
 # Create the main timeline plot
@@ -80,7 +81,7 @@ plot <- ggplot(data = vax, aes(x=Year, y=id, label=Name, fill=Vaccine_type)) +
         axis.ticks.y=element_blank(),
         plot.title = element_text(size = 20)) +
   labs(title="Vaccine discovery",
-       subtitle="The year when each vaccine was licensed for the first time.\nSubsequent vaccines for the same pathogen or disease are shown on the same row.",
+       subtitle="The year when each vaccine was first licensed or widely available for humans.\nSubsequent vaccines for the same pathogen or disease are shown on the same row.",
        x="",
        y="",
        caption="Data source: Dattani (2023)\nAvailable at: code.scientificdiscovery.dev",
