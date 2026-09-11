@@ -30,6 +30,7 @@ Please cite this as `Dattani (2025). Vaccine discovery timeline. Available at co
 
 ### Update log
 
+- 2026-09-11: Fact-checked and corrected several historical dates, vaccine types and strains, adding source notes for ambiguous historical milestones and newer vaccines. Clarified that the year refers to when a vaccine was first widely available for human use, while updated versions generally use US approval dates.
 - 2026-01-06: Changed early vaccines for tetanus and diphtheria to the type `antitoxin serum`, which are not vaccines
 - 2026-01-06: Reformatted dataset with vaccine types in separate column and added data on types
 - 2025-03-21: Added all vaccines from immunize.org's timeline on approvals in the US
