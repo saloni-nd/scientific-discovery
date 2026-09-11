@@ -6,6 +6,7 @@ library(viridis)
 # Import data
 file_path <- "" # Replace with path to file
 
+# ! Update with most recent dataset
 births_raw <- read_tsv(paste0(file_path, "Natality, 2007-2022.txt"), col_names = TRUE)
 
 # Only keep rows where Notes is blank (NA)
@@ -32,7 +33,7 @@ ggplot(births_cleaned, aes(x = Year, y = Month, fill = Births_factor)) +
   theme_minimal() +
   labs(title = "Birth seasonality in the United States",
        subtitle = "Number of births in the United States by month and year",
-       caption = "Data source: CDC Wonder database 2007-2022\nChart by Saloni Dattani\nAvailable at: code.scientificdiscovery.dev",
+       caption = "Data source: CDC Wonder database 2007-2022\nChart by Saloni Dattani\nAvailable at: code.scientificdiscovery.dev", # update dates here if needed
        x = "",
        y = "",
        fill = "Number of births\n(thousands)") +
