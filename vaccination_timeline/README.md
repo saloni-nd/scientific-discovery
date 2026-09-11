@@ -4,7 +4,7 @@ This dataset shows when each vaccine was introduced for humans, for the first ti
 
 ### Details
 
-- For each disease, I've tracked down the year when a working vaccine was first available in any country
+- For each disease, I've tracked down the year when a working vaccine was first widely available in any country (this generally means the year it was approved, although a strict definition is tricky for vaccines that first became available before regulatory agencies were created.)
 - For updated versions of each vaccine, I've mostly limited the dataset to vaccines licensed in the US
 - I've listed the brand name, inventor/manufacturer, strains included or subtype of vaccine when possible
 
