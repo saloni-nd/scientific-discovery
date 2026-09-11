@@ -15,12 +15,12 @@ Tuberculosis,1924,Bacteria,Albert Calmette and Camille Guérin,BCG,,Live attenua
 Diphtheria,1926,Bacteria,,,,Toxoid,Alum-precipitated diphtheria toxoid,,False
 Smallpox,1931,Virus,,,Dryvax,Live attenuated,https://www.fda.gov/vaccines-blood-biologics/vaccines/acam2000-smallpox-vaccine-questions-and-answers,,False
 Tetanus,1938,Bacteria,,,,Toxoid,Adsorbed tetanus toxoid https://www.futuremedicine.com/doi/10.2217/fmb-2021-0167,,False
-Yellow fever,1935,Virus,Max Theiler,,,Live attenuated,The live yellow fever 17D vaccine was first licensed in 1935. https://www.immunize.org/vaccines/vaccine-timeline/,,False
+Yellow fever,1938,Virus,Max Theiler,,,Live attenuated,The live yellow fever 17D vaccine was first licensed in 1935. https://www.immunize.org/vaccines/vaccine-timeline/,,False
 Pertussis,1939,Bacteria,"Pearl Kendrick, Grace Eldering, Loney Gordon",,,Inactivated,,,False
 Tick-borne encephalitis,1939,Virus,Soviet Union,Sofyin strain,,Inactivated,First TBE vaccine based on Sofyin strain of the TBE virus prepared from infected mouse brain and inactivated with formalin. Date refers to date of trials as public availability isnt mentioned https://academic.oup.com/jhmas/advance-article/doi/10.1093/jhmas/jrad054/7264135,,False
-Anthrax,1940,Bacteria,Soviet Union,,,Inactivated,https://www.sciencedirect.com/science/article/pii/0264410X94902232,,False
+Anthrax,1940,Bacteria,Soviet Union,,,Attenuated,https://www.sciencedirect.com/science/article/pii/0264410X94902232,,False
 Influenza,1945,Virus,,A and B,,Inactivated,Bivalent A and B vaccine available to general population in US https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5139605/,,False
-Influenza,1947,Virus,,A H1N1,,Inactivated,The 1947 influenza vaccine was updated after the emergence of the A/FM/1/47 strain; H2N2 did not emerge until 1957. https://pmc.ncbi.nlm.nih.gov/articles/PMC5139605/,,False
+Influenza,1947,Virus,,A H1N1,,Inactivated,The 1947 influenza vaccine was updated after the emergence of the A/FM/1/47 strain. https://pmc.ncbi.nlm.nih.gov/articles/PMC5139605/,,False
 DTP,1948,Bacteria,"Pearl Kendrick, Loney Gordon, Grace Eldering",,,Toxoid + inactivated,,,True
 Typhoid,1952,Bacteria,Wyeth,,,Inactivated,https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6411a4.htm,,False
 Yellow fever,1953,Virus,Merrell National Labs,,,Live attenuated,,,False
@@ -39,7 +39,7 @@ Influenza,1968,Virus,,,,Inactivated,Trivalent inactivated vaccines,,False
 Rubella,1969,Virus,Stanley Plotkin; Merck,HPV-77,Meruvax,Live attenuated,https://pubmed.ncbi.nlm.nih.gov/16998777/,,False
 Rubella,1969,Virus,Parke-Davis,HPV-77,Rubelogen,Live attenuated,https://stacks.cdc.gov/view/cdc/78725/cdc_78725_DS1.pdf,,False
 Rubella,1969,Virus,RIT-SKF; Dow,Cendehill,Cendevax,Live attenuated,https://stacks.cdc.gov/view/cdc/78725/cdc_78725_DS1.pdf,,False
-Anthrax,1970,Bacteria,Michigan Department of Public Health,,BioThrax,Protein subunit,Anthrax vaccine adsorbed (AVA) was licensed in the US in 1970; BioPort acquired the product much later. https://www.cdc.gov/mmwr/preview/mmwrhtml/rr4915a1.htm,,False
+Anthrax,1970,Bacteria,Michigan Department of Public Health,,BioThrax,Protein subunit,Anthrax vaccine adsorbed (AVA) was licensed in the US in 1970. https://www.cdc.gov/mmwr/preview/mmwrhtml/rr4915a1.htm,,False
 Measles-Rubella,1971,Virus,Merck,,M-R-Vax,Live attenuated,https://link.springer.com/chapter/10.1007/978-1-4419-1339-5_23,,True
 MMR,1971,Virus,Maurice Hilleman,,MMR,Live attenuated,https://link.springer.com/chapter/10.1007/978-1-4419-1339-5_23,,True
 Measles-Mumps,1973,Virus,Merck,,MM-Vax,Live attenuated,https://link.springer.com/chapter/10.1007/978-1-4419-1339-5_23,,True
@@ -75,16 +75,16 @@ Polio,1990,Virus,Pasteur Mérieux Vaccines et Serums,,Ipol,Inactivated,Enhanced 
 Hantavirus,1990,Virus,Ho Wang Lee,,,Inactivated,Hantavax was an inactivated Hantaan virus vaccine approved in South Korea in 1990 and commercially produced from 1990. https://pmc.ncbi.nlm.nih.gov/articles/PMC3623517/,,False
 Cholera,1991,Bacteria,,,Dukoral,Inactivated + subunit,Oral vaccine https://pmc.ncbi.nlm.nih.gov/articles/PMC8687080/,,False
 DTaP,1991,Bacteria,Lederle,,Acel-Imune,Toxoid + protein subunit,Diphtheria tetanus acellular pertussis,,True
-Argentine hemorrhagic fever,1992,Virus,,Junin virus,,Live attenuated,Candid #1 became available in Argentina in 1992 for seasonal use in at-risk agricultural workers. https://pmc.ncbi.nlm.nih.gov/articles/PMC11019782/,,False
+Argentine hemorrhagic fever,1992,Virus,,Junin virus,,Live attenuated,Became available in Argentina in 1992 for seasonal use in at-risk agricultural workers. https://pmc.ncbi.nlm.nih.gov/articles/PMC11019782/,,False
 Japanese encephalitis,1992,Virus,BIKEN,,JE-Vax,Inactivated,Mouse brain vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,,False
 DTaP,1992,Bacteria,Connaught,,Tripedia,Toxoid + protein subunit,https://www.immunize.org/vaccines/vaccine-timeline/,,True
 Haemophilus influenzae b,1993,Bacteria,Connaught,,ActHIB,Conjugate,Conjugated https://www.immunize.org/vaccines/vaccine-timeline/,,False
 Haemophilus influenzae b,1993,Bacteria,SmithKline Beecham,,OmniHib,Conjugate,Conjugated https://www.immunize.org/vaccines/vaccine-timeline/,,False
 Haemophilus influenzae b-DTP,1993,Bacteria,Lederle/Praxis,,Tetramune,Toxoid + conjugate,https://www.immunize.org/vaccines/vaccine-timeline/,,True
 Typhoid,1994,Bacteria,Aventis Pasteur,,Typhim Vi,Polysaccharide,Polysaccharide inactivated https://www.immunize.org/vaccines/vaccine-timeline/,,False
-Hepatitis A,1996,Virus,Maurice Hilleman,HepA,Vaqta,Inactivated,"Vaqta was licensed by the FDA on March 29, 1996. https://purplebooksearch.fda.gov/index.cfm?blaNo=103606&event=productdetails",,False
 Varicella,1995,Virus,Merck,Chickenpox,Varivax,Live attenuated,https://www.immunize.org/vaccines/vaccine-timeline/,,False
 Hepatitis A,1995,Virus,SmithKline Beecham,HepA,Havrix,Inactivated,https://www.immunize.org/vaccines/vaccine-timeline/,,False
+Hepatitis A,1996,Virus,Maurice Hilleman,HepA,Vaqta,Inactivated,"Vaqta was licensed by the FDA on March 29, 1996. https://purplebooksearch.fda.gov/index.cfm?blaNo=103606&event=productdetails",,False
 Hib-HepB,1996,Combination,Merck,,Comvax,Conjugate + protein subunit,https://www.immunize.org/vaccines/vaccine-timeline/,,True
 DTaP-Hib,1996,Bacteria,Aventis Pasteur,,TriHIBit,Toxoid + conjugate,https://www.cdc.gov/mmwr/preview/mmwrhtml/00044501.htm,,True
 Rabies,1997,Virus,Chiron Behring,,RabAvert,Inactivated,Chick embryo cell vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466,,False
@@ -109,7 +109,7 @@ Influenza,1992,Virus,GSK,,Fluarix,Inactivated,FDA states GSK had marketed Fluari
 MMRV,2005,Virus,Merck,,Proquad,Live attenuated,Combines MMR with varicella (chickenpox) to reduce separate vaccinations. https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5903a1.htm,,True
 Rotavirus,2006,Virus,Merck,5 valent,RotaTeq,Live attenuated,,,False
 Human papillomavirus,2006,Virus,Ian Frazer and Jian Zhou; Merck,Types 6 11 16 and 18,Gardasil,Virus like particle,VLP,,False
-Zoster,2006,Virus,Merck,Oka/Merck,Zostavax,Live attenuated,"Zostavax is a live zoster (shingles) vaccine; it was licensed by the FDA on May 25, 2006. https://www.fda.gov/vaccines-blood-biologics/vaccines/zostavax",,False
+Varicella,2006,Virus,Merck,Oka/Merck,Zostavax,Live attenuated,"Zostavax is a live zoster (shingles) vaccine; it was licensed by the FDA on May 25, 2006. https://www.fda.gov/vaccines-blood-biologics/vaccines/zostavax",,False
 Smallpox,2007,Virus,Sanofi Pasteur,,ACAM2000,Live attenuated,https://wayback.archive-it.org/7993/20170722220624/https://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm180810.htm,,False
 Influenza,2007,Virus,Seqirus,,Afluria,Inactivated,https://www.immunize.org/vaccines/vaccine-timeline/,,False
 Influenza,2007,Virus,,A H5N1,,Inactivated,,,False
@@ -144,10 +144,10 @@ Haemophilus influenzae b,2009,Bacteria,,,Hiberix,Conjugate,Hiberix was first lic
 Dengue,2015,Virus,,,Dengvaxia,Live attenuated,Dengvaxia received its first marketing authorization in Mexico in December 2015. https://www.sec.gov/Archives/edgar/data/1121404/000110465915085316/a15-25105_1ex99d2.htm,,False
 Cholera,2016,Bacteria,,Serogroup O1,Vaxchora,Live attenuated,Oral https://www.immunize.org/vaccines/vaccine-timeline/,,False
 Hepatitis B,2017,Virus,Dynavax,Hep B,Heplisav-B,Protein subunit,https://www.immunize.org/vaccines/vaccine-timeline/,,False
-Zoster,2017,Virus,GSK,Shingles,Shingrix,Protein subunit,Shingrix is a recombinant zoster (shingles) vaccine; it was licensed by the FDA in 2017. https://www.immunize.org/vaccines/vaccine-timeline/,,False
+Varicella,2017,Virus,GSK,Shingles,Shingrix,Protein subunit,Shingrix is a recombinant zoster (shingles) vaccine; it was licensed by the FDA in 2017. https://www.immunize.org/vaccines/vaccine-timeline/,,False
 DTaP-IPV-Hib-HepB,2016,Combination,MCM Vaccine Co,,Vaxelis,Toxoid + protein subunit + conjugate + inactivated,EU marketing authorization was issued in February 2016; US approval was in 2018. https://www.ema.europa.eu/en/medicines/human/EPAR/vaxelis,,True
 Ebola,2019,Virus,Merck,Zaire,Ervebo,Viral vector,https://www.who.int/news-room/questions-and-answers/item/ebola-vaccines,,False
-Mpox,2019,Virus,,,JYNNEOS,"Live, non-replicating","Smallpox and mpox vaccine; FDA describes JYNNEOS as a live, non-replicating MVA-BN vaccine. https://www.fda.gov/vaccines-blood-biologics/jynneos",,False
+Mpox,2019,Virus,,,JYNNEOS,Live non-replicating,"Smallpox and mpox vaccine. https://www.fda.gov/vaccines-blood-biologics/jynneos",,False
 Ebola,2020,Virus,J&J,Zaire,Zabdeno and Mvabea,Viral vector,rVSV platform Ad26.ZEBOV and MVA-BN-Filo https://johnsonandjohnson.gcs-web.com/static-files/1c979f4f-cad3-4f8b-9a22-69aaac503570,,False
 Covid-19,2020,Virus,Pfizer-BioNTech,,Comirnaty,mRNA,https://www.immunize.org/vaccines/vaccine-timeline/,,False
 Covid-19,2020,Virus,Moderna,,Spikevax,mRNA,https://www.immunize.org/vaccines/vaccine-timeline/,,False
