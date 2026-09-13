@@ -42,7 +42,7 @@ pathogen_colors <- c(Bacteria = "#363b8f",
 vaccine_type_colors <- c(
   "Inactivated"    = "#4E79A7",
   "Live attenuated"= "#72B569",
-  "Live non-replicating" = "639A88",
+  "Live non-replicating" = "#639A88",
   "Conjugate"      = "#F8A0CB",
   "Polysaccharide" = "#F28E2B",
   "mRNA"           = "#B07AA1",
