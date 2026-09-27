@@ -36,7 +36,7 @@ Measles,1965,Virus,Pitman Moore-Dow,,Lirugen,Live attenuated,Live further attenu
 Mumps,1967,Virus,Maurice Hilleman,Jeryl Lynn strain,MumpsVax,Live attenuated,,,False
 Measles,1968,Virus,Merck,Moraten strain,Attenuvax,Live attenuated,,,False
 Influenza,1968,Virus,,,,Inactivated,Trivalent inactivated vaccines,,False
-Rubella,1969,Virus,Stanley Plotkin; Merck,HPV-77,Meruvax,Live attenuated,https://pubmed.ncbi.nlm.nih.gov/16998777/,,False
+Rubella,1969,Virus,Maurice Hilleman; Merck,HPV-77,Meruvax,Live attenuated,https://pubmed.ncbi.nlm.nih.gov/16998777/,,False
 Rubella,1969,Virus,Parke-Davis,HPV-77,Rubelogen,Live attenuated,https://stacks.cdc.gov/view/cdc/78725/cdc_78725_DS1.pdf,,False
 Rubella,1969,Virus,RIT-SKF; Dow,Cendehill,Cendevax,Live attenuated,https://stacks.cdc.gov/view/cdc/78725/cdc_78725_DS1.pdf,,False
 Anthrax,1970,Bacteria,Michigan Department of Public Health,,BioThrax,Protein subunit,Anthrax vaccine adsorbed (AVA) was licensed in the US in 1970. https://www.cdc.gov/mmwr/preview/mmwrhtml/rr4915a1.htm,,False
@@ -53,7 +53,7 @@ Meningococcal disease,1978,Bacteria,Connaught,MenC,Menomune-C,Polysaccharide,htt
 Meningococcal disease,1978,Bacteria,Connaught,MenAC,Menomune-A/C,Polysaccharide,https://www.immunize.org/vaccines/vaccine-timeline/,,False
 Yellow fever,1978,Virus,Connaught,,YF-Vax,Live attenuated,https://www.immunize.org/vaccines/vaccine-timeline/,,False
 Anthrax,1979,Bacteria,Harry Smith,,,Protein subunit,Anthrax vaccine precipitated (AVP) vaccine https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6147967/,,False
-Rubella,1979,Virus,Merck,RA 27/3,Meruvax II,Live attenuated,https://www.immunize.org/vaccines/vaccine-timeline/,,False
+Rubella,1979,Virus,Stanley Plotkin; Merck,RA 27/3,Meruvax II,Live attenuated,https://www.immunize.org/vaccines/vaccine-timeline/,,False
 Rabies,1980,Virus,"Ernst Kuwert, Hilary Koprowski et al.",,Imovax Rabies,Inactivated,Human diploid cell vaccine https://www.nejm.org/doi/full/10.1056/nejmp2029466 and https://pubmed.ncbi.nlm.nih.gov/1031689/ ,,False
 Meningococcal disease,1981,Bacteria,Connaught,MenACWY,Menomune-ACWY,Polysaccharide,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6733771/ and https://www.sciencedirect.com/science/article/pii/S1369848617301735,,False
 Hepatitis B,1981,Virus,Merck,HepB,,Protein subunit,Hepatitis B. Plasma-derived surface antigen https://www.cdc.gov/vaccines/pubs/pinkbook/hepb.html,,False
